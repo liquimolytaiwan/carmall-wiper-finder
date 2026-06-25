@@ -108,18 +108,24 @@
 
   function optionCard(o, e) {
     var matTag = '<span class="tag tag-mat">' + esc(o.material) + '</span>';
-    var kindTag, sub;
+    var tags = matTag, sub, priceHtml;
     if (o.kind === "combo") {
-      kindTag = '<span class="tag tag-combo">2支/組</span>';
+      tags += '<span class="tag tag-combo">2支/組</span>';
       sub = '已配好 ' + e.driver + '吋＋' + e.passenger + '吋，一次購足';
+      priceHtml = '<div class="opt-price">$' + o.price + '</div>';
+    } else if (o.promo) {
+      tags += '<span class="tag tag-single">單支自選</span><span class="tag tag-promo">2支特價</span>';
+      sub = '於商品頁任選 ' + o.driver + '吋＋' + o.passenger + '吋（2 支）';
+      priceHtml = '<div class="opt-price"><s>$' + o.listPrice + '</s>$' + o.price + '</div>';
     } else {
-      kindTag = '<span class="tag tag-single">單支自選</span>';
+      tags += '<span class="tag tag-single">單支自選</span>';
       sub = o.driver + '吋 $' + o.driverPrice + '　＋　' + o.passenger + '吋 $' + o.passengerPrice + '（共 2 支）';
+      priceHtml = '<div class="opt-price">$' + o.price + '</div>';
     }
     return '<a class="opt" href="' + esc(o.url) + '" target="_blank" rel="noopener">' +
-      '<div class="opt-main"><div class="opt-name">' + esc(o.label) + matTag + kindTag + '</div>' +
+      '<div class="opt-main"><div class="opt-name">' + esc(o.label) + tags + '</div>' +
       '<div class="opt-sub">' + sub + '</div></div>' +
-      '<div class="opt-right"><div class="opt-price">$' + o.price + '</div>' + cart() + '</div></a>';
+      '<div class="opt-right">' + priceHtml + cart() + '</div></a>';
   }
 
   function rearHtml(e) {

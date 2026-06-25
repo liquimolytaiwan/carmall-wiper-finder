@@ -8,6 +8,9 @@ UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/12
 SITE="https://www.carmall.com.tw"
 # Product-line singles that must always be fetched even if absent from sitemap (e.g. HELLA not yet in sitemap)
 EXTRA_HANDLES=["bosch博世-通用型軟骨雨刷","hella-三節式雨刷-hybrid-wiper"]
+# "buy N for $M" promo collections (special_collection). Parsed from the collection's display name.
+# key -> collection handle (URL slug may be stale; the collection NAME carries the live price)
+PROMO_COLLECTIONS={"bosch_pair":"bosch雨刷-2件859"}
 
 def get(url, raw=False):
     req=urllib.request.Request(url, headers={"User-Agent":UA})
@@ -38,6 +41,20 @@ def main():
         except Exception as e:
             fail.append((h,str(e)))
     json.dump(out, open(os.path.join(BASE,"wiper_products.json"),"w"), ensure_ascii=False, indent=1)
+    # ---- promos: parse "N件$M" from each promo collection's display name ----
+    promos={}
+    for key,handle in PROMO_COLLECTIONS.items():
+        try:
+            html=get(SITE+"/collections/"+urllib.parse.quote(handle,safe="-")+"?page=1")
+            m=re.search(r'collectionName"?\s*[:=]\s*"([^"]+)"', html)
+            name=m.group(1) if m else ""
+            mm=re.search(r'(\d+)\s*件\s*\$?\s*([0-9]+)', name)
+            if mm:
+                promos[key]={"qty":int(mm.group(1)),"price":int(mm.group(2)),"name":name}
+        except Exception as e:
+            print(f"  promo fetch fail {key}: {e}")
+    json.dump(promos, open(os.path.join(BASE,"promos.json"),"w"), ensure_ascii=False, indent=1)
+    print(f"promos: {promos}")
     print(f"wiper products: {len(out)} | failures: {len(fail)}")
     for f in fail: print("  FAIL", f[0], f[1])
     if not out:

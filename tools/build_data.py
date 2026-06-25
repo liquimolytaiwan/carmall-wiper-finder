@@ -94,6 +94,11 @@ def prod_url(p,fallback):
     if not u: return fallback
     return u if u.startswith("http") else "https://www.carmall.com.tw"+u
 
+promos={}
+ppath=os.path.join(BASE,"promos.json")
+if os.path.exists(ppath): promos=json.load(open(ppath))
+bosch_pair=promos.get("bosch_pair")
+
 bosch_p=prod_by_handle(BOSCH_SINGLE_HANDLE); hella_p=prod_by_handle(HELLA_HANDLE)
 bosch_var=size_variants(bosch_p); hella_var=size_variants(hella_p)
 BOSCH_URL=prod_url(bosch_p,"https://www.carmall.com.tw/products/"+BOSCH_SINGLE_HANDLE)
@@ -134,13 +139,16 @@ def find_combo(brand,model,d,p,relaxed=False):
         if score>bs: bs=score; best=c
     return best
 
-def single_option(brand,label,material,url,var,d,p):
+def single_option(brand,label,material,url,var,d,p,pair_promo=None):
     dv=var.get(d); pv=var.get(p)
     if not (dv and pv and dv["ok"] and pv["ok"]): return None
-    return {"brand":brand,"label":label,"material":material,"kind":"single",
-            "url":url+("?variant="+str(dv["id"]) if dv.get("id") else ""),
-            "driver":d,"passenger":p,"driverPrice":dv["price"],"passengerPrice":pv["price"],
-            "price":dv["price"]+pv["price"]}
+    listp=dv["price"]+pv["price"]
+    o={"brand":brand,"label":label,"material":material,"kind":"single",
+       "url":url+("?variant="+str(dv["id"]) if dv.get("id") else ""),
+       "driver":d,"passenger":p,"driverPrice":dv["price"],"passengerPrice":pv["price"],"price":listp}
+    if pair_promo and pair_promo.get("qty")==2 and pair_promo.get("price"):
+        o["listPrice"]=listp; o["price"]=pair_promo["price"]; o["promo"]=True
+    return o
 
 # ---------- build cascade ----------
 brands={}; order=[]; seen_ded=set(); rows=[]
@@ -180,7 +188,7 @@ for e in rows:
         c=e["_combo"]
         opts.append({"brand":"BOSCH","label":"BOSCH 通用軟骨 旗艦款","material":"軟骨","kind":"combo","url":c["url"],"price":c["price"]})
     else:
-        o=single_option("BOSCH","BOSCH 通用軟骨 旗艦款","軟骨",BOSCH_URL,bosch_var,d,p)
+        o=single_option("BOSCH","BOSCH 通用軟骨 旗艦款","軟骨",BOSCH_URL,bosch_var,d,p,bosch_pair)
         if o: opts.append(o)
     oh=single_option("HELLA","HELLA 三節式 Hybrid","三節式",HELLA_URL,hella_var,d,p)
     if oh: opts.append(oh)
