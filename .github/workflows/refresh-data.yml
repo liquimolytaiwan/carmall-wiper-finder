@@ -33,7 +33,21 @@ jobs:
           git add data.json tools/wiper_products.json tools/promos.json
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore: refresh price/stock from Cyberbiz [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresh price/stock from Cyberbiz [skip ci]"
+          # Race-safe push: a concurrent/scheduled run (or any push to main) can
+          # advance the remote between checkout and push, which rejects a plain
+          # `git push` (non-fast-forward). Rebase our regenerated data onto the
+          # latest main and retry. If our data is identical to what landed first,
+          # the rebased commit becomes empty and the push is a no-op.
+          n=0
+          until git push; do
+            n=$((n + 1))
+            if [ "$n" -ge 5 ]; then
+              echo "::error::push still rejected after $n attempts"
+              exit 1
+            fi
+            echo "Push rejected (attempt $n); rebasing onto latest origin/main..."
+            git pull --rebase -X theirs origin main
+          done
