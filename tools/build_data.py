@@ -1,24 +1,15 @@
 #!/usr/bin/env python3
 """Build data.json for the CarMall wiper finder.
-Sources: PDF fitment (pages/) + researched corrections (corrections.json) + Cyberbiz combo products (wiper_products.json).
-Policy (per client): no mechanical size substitution. Where catalog<>combo/market disagree, corrections.json holds the
-researched correct size. A correct-but-unstocked size routes to 'contact' (洽客服), never silently swapped."""
+Sources: PDF fitment (pages/) + researched corrections (corrections.json) + Cyberbiz products (wiper_products.json).
+Multi product-line: each car shows available options (BOSCH 軟骨 combo-or-single + HELLA 三節式 single).
+Availability-gated: out-of-stock product/variant/combo is dropped (kept fresh by the daily refresh Action).
+Policy: no mechanical size substitution; catalog<>market conflicts resolved in corrections.json."""
 import json, re, glob, os
 BASE=os.path.dirname(os.path.abspath(__file__))
-# layout-flexible: scratchpad has carmall-wiper/ subdir; in the deployed repo, tools/ sits next to the web root
 OUT=os.path.join(BASE,"carmall-wiper","data.json") if os.path.isdir(os.path.join(BASE,"carmall-wiper")) else os.path.join(BASE,"..","data.json")
-STOCK=[14,16,18,19,20,21,22,24,26,28]
-STOCKSET=set(STOCK)
 
-SINGLE={
-  "short":"BOSCH 通用型軟骨雨刷 旗艦款",
-  "title":"BOSCH博世 通用型軟骨雨刷 旗艦款 (多尺寸任選)",
-  "url":"https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷",
-  "price":499,"compare":800,
-  "variants":{"14":{"id":82955922},"16":{"id":82956929},"18":{"id":82957036},"19":{"id":82957309},
-    "20":{"id":82957310},"21":{"id":82957311},"22":{"id":82957312},"24":{"id":82957313},
-    "26":{"id":82957314},"28":{"id":83147076}}
-}
+BOSCH_SINGLE_HANDLE="bosch博世-通用型軟骨雨刷"
+HELLA_HANDLE="hella-三節式雨刷-hybrid-wiper"
 
 CN={"一":1,"二":2,"三":3,"四":4,"五":5,"六":6,"七":7,"八":8,"九":9,"十":10,"十一":11,"十二":12}
 GENRE=r"第[一二三四五六七八九十]+(?:\s*[/／]\s*[一二三四五六七八九十]+)*代?"
@@ -69,7 +60,7 @@ if os.path.exists(cpath):
     for c in json.load(open(cpath)):
         corr[nkey(c["brand"],c["model"],c.get("year",""))]=c
 
-# ---------- load fitment + apply corrections ----------
+# ---------- fitment + corrections ----------
 fit=[]
 for p in sorted(glob.glob(os.path.join(BASE,"pages","p*.json"))):
     fit+=json.load(open(p))
@@ -80,10 +71,35 @@ for r in fit:
         c=corr[k]
         if c.get("driver") is not None: r["driver"]=c["driver"]
         if c.get("passenger") is not None: r["passenger"]=c["passenger"]
-        r["_src"]=c.get("source"); r["_srcnote"]=c.get("note"); applied+=1
+        applied+=1
 
-# ---------- parse combos ----------
+# ---------- products ----------
 prods=json.load(open(os.path.join(BASE,"wiper_products.json")))
+def prod_by_handle(h):
+    for p in prods:
+        if (p.get("handle") or "")==h: return p
+    return None
+def variant_ok(v):
+    q=v.get("qty"); return bool(v.get("available")) and (q is None or q>0)
+def size_variants(p):
+    out={}
+    if not p: return out
+    for v in p.get("variants",[]):
+        m=re.search(r"\d+", v.get("option1") or "")
+        if not m: continue
+        out[int(m.group(0))]={"id":v.get("id"),"price":int(v.get("price") or 0),"ok":variant_ok(v)}
+    return out
+def prod_url(p,fallback):
+    u=p.get("url") if p else None
+    if not u: return fallback
+    return u if u.startswith("http") else "https://www.carmall.com.tw"+u
+
+bosch_p=prod_by_handle(BOSCH_SINGLE_HANDLE); hella_p=prod_by_handle(HELLA_HANDLE)
+bosch_var=size_variants(bosch_p); hella_var=size_variants(hella_p)
+BOSCH_URL=prod_url(bosch_p,"https://www.carmall.com.tw/products/"+BOSCH_SINGLE_HANDLE)
+HELLA_URL=prod_url(hella_p,"https://www.carmall.com.tw/products/"+HELLA_HANDLE)
+
+# ---------- combos (BOSCH 軟骨, 2支/組) ----------
 sz=re.compile(r"(\d{2})\s*\+\s*(\d{2})\s*吋")
 combos=[]
 for p in prods:
@@ -99,9 +115,9 @@ for p in prods:
     seg_m=re.sub(r"\s+"," ",seg_m).strip()
     parts=seg_m.split(None,1)
     combos.append({"brand":(parts[0].upper() if parts else ""),"model":(parts[1].strip() if len(parts)>1 else ""),
-      "driver":d,"passenger":pa,"url":p["url"],"price":int(p["price"]),
+      "driver":d,"passenger":pa,"url":prod_url(p,p.get("url")),"price":int(p["price"]),
       "stock":sum((v["qty"] or 0) for v in p["variants"]),"available":p["available"],
-      "fam":fam_tokens(parts[1] if len(parts)>1 else ""),"gens":gen_ints(seg_m),"title":t,"_used":False})
+      "fam":fam_tokens(parts[1] if len(parts)>1 else ""),"gens":gen_ints(seg_m),"_used":False})
 
 def find_combo(brand,model,d,p,relaxed=False):
     bt=fit_fam_tokens(model); fg=gen_ints(model); fg1=next(iter(fg)) if len(fg)==1 else None
@@ -109,16 +125,24 @@ def find_combo(brand,model,d,p,relaxed=False):
     for c in combos:
         if c["brand"]!=brand.upper(): continue
         if c["driver"]!=d or c["passenger"]!=p: continue
+        if not (c["available"] and c["stock"]>0): continue   # availability gate
         if not (bt & c["fam"]): continue
         if not relaxed and c["gens"] and fg1 and fg1 not in c["gens"]: continue
         score=len(bt & c["fam"])
         if c["gens"] and fg1 and fg1 in c["gens"]: score+=3
         elif not c["gens"]: score+=1
-        if c["available"] and c["stock"]>0: score+=0.5
         if score>bs: bs=score; best=c
     return best
 
-# ---------- build cascade (strict pass) ----------
+def single_option(brand,label,material,url,var,d,p):
+    dv=var.get(d); pv=var.get(p)
+    if not (dv and pv and dv["ok"] and pv["ok"]): return None
+    return {"brand":brand,"label":label,"material":material,"kind":"single",
+            "url":url+("?variant="+str(dv["id"]) if dv.get("id") else ""),
+            "driver":d,"passenger":p,"driverPrice":dv["price"],"passengerPrice":pv["price"],
+            "price":dv["price"]+pv["price"]}
+
+# ---------- build cascade ----------
 brands={}; order=[]; seen_ded=set(); rows=[]
 for r in fit:
     brand=r["brand"].strip(); mg=model_group(r["model"]) or r["model"]
@@ -132,11 +156,7 @@ for r in fit:
         seen_ded.add(dk)
     else:
         entry["fit"]="universal"; entry["driver"]=r["driver"]; entry["passenger"]=r["passenger"]
-        entry["driver_ok"]=r["driver"] in STOCKSET; entry["passenger_ok"]=r["passenger"] in STOCKSET
-        entry["rear"]=r.get("rear")
-        if r.get("_src"): entry["src"]=r["_src"]
-        entry["_brand"]=brand; entry["_model"]=r["model"]
-        rows.append(entry)
+        entry["rear"]=r.get("rear"); entry["_brand"]=brand; entry["_model"]=r["model"]; rows.append(entry)
     if brand not in brands:
         brands[brand]={"name":brand,"models":{},"order":[]}; order.append(brand)
     bb=brands[brand]
@@ -144,47 +164,41 @@ for r in fit:
         bb["models"][mg]={"name":mg,"entries":[]}; bb["order"].append(mg)
     bb["models"][mg]["entries"].append(entry)
 
-def route_for(entry, relaxed=False):
-    c=find_combo(entry["_brand"],entry["_model"],entry["driver"],entry["passenger"],relaxed)
-    if c:
-        c["_used"]=True
-        return {"type":"combo","url":c["url"],"price":c["price"],"stock":c["stock"]}
-    if entry["driver_ok"] and entry["passenger_ok"]:
-        return {"type":"single"}
-    return {"type":"contact"}
-
-# strict pass
-for e in rows: e["route"]=route_for(e, relaxed=False)
-# relaxed second pass: link remaining unused combos to still-single rows (same brand+family+size), for gen-label drift
+# BOSCH combo: strict then relaxed (gen-label drift)
+for e in rows: e["_combo"]=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],False)
 for e in rows:
-    if e["route"]["type"]=="single":
-        c=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],relaxed=True)
-        if c and not c["_used"]:
-            c["_used"]=True
-            e["route"]={"type":"combo","url":c["url"],"price":c["price"],"stock":c["stock"]}
-
-# strip internal keys
+    if e["_combo"]: e["_combo"]["_used"]=True
 for e in rows:
-    e.pop("_brand",None); e.pop("_model",None)
+    if not e["_combo"]:
+        c=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],True)
+        if c and not c["_used"]: c["_used"]=True; e["_combo"]=c
+
+# assemble options per row
+for e in rows:
+    d,p=e["driver"],e["passenger"]; opts=[]
+    if e["_combo"]:
+        c=e["_combo"]
+        opts.append({"brand":"BOSCH","label":"BOSCH 通用軟骨 旗艦款","material":"軟骨","kind":"combo","url":c["url"],"price":c["price"]})
+    else:
+        o=single_option("BOSCH","BOSCH 通用軟骨 旗艦款","軟骨",BOSCH_URL,bosch_var,d,p)
+        if o: opts.append(o)
+    oh=single_option("HELLA","HELLA 三節式 Hybrid","三節式",HELLA_URL,hella_var,d,p)
+    if oh: opts.append(oh)
+    e["options"]=opts
+    if not opts: e["route"]={"type":"contact"}
+    for k in ("_brand","_model","_combo"): e.pop(k,None)
 
 out_brands=[{"name":bn,"models":[brands[bn]["models"][mn] for mn in brands[bn]["order"]]} for bn in order]
-data={"meta":{"updated":"2026-06-25","source":"BOSCH 2026 通用雨刷型錄（美日韓車種）＋市場查證校正",
-              "product_line":"BOSCH 通用型軟骨雨刷 旗艦款"},
-      "stock_sizes":STOCK,"single":SINGLE,"brands":out_brands}
+data={"meta":{"updated":"2026-06-25","source":"BOSCH 2026 通用雨刷型錄（美日韓）＋市場查證校正",
+              "lines":["BOSCH 通用軟骨 旗艦款","HELLA 三節式 Hybrid"]},
+      "brands":out_brands}
 json.dump(data,open(OUT,"w"),ensure_ascii=False,indent=1)
 
 # report
-ncombo=sum(1 for e in rows if e["route"]["type"]=="combo")
-nsingle=sum(1 for e in rows if e["route"]["type"]=="single")
-ncontact=sum(1 for e in rows if e["route"]["type"]=="contact")
-nded=sum(len(m["entries"]) for b in out_brands for m in b["models"])-len(rows)
+def has(line): return sum(1 for e in rows for o in e["options"] if o["brand"]==line)
+ncombo=sum(1 for e in rows if any(o["kind"]=="combo" for o in e["options"]))
 print(f"corrections applied: {applied}")
-print(f"universal rows: {len(rows)} | combo: {ncombo} | single: {nsingle} | contact(洽客服): {ncontact} | dedicated entries: {nded}")
-unused=[c for c in combos if not c["_used"]]
-print(f"combos: {len(combos)} | unused: {len(unused)}")
-for c in unused: print("  UNUSED",c["brand"],c["model"],c["driver"],"+",c["passenger"],"->",c["url"].split('/products/')[-1])
-contacts=[e for e in rows if e["route"]["type"]=="contact"]
-if contacts:
-    print("CONTACT (size not stocked):")
-    for e in contacts: print("   ",e["label"],e["driver"],"/",e["passenger"])
+print(f"BOSCH single-product variants: {sorted(bosch_var)} | HELLA variants: {sorted(hella_var)}")
+print(f"universal rows: {len(rows)} | BOSCH option: {has('BOSCH')} | HELLA option: {has('HELLA')} | combos used: {ncombo}")
+print(f"rows with 0 options (contact): {sum(1 for e in rows if not e['options'])}")
 print("wrote",OUT)

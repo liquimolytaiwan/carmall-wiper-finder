@@ -6,6 +6,8 @@ import urllib.parse, urllib.request, json, os, re, sys
 BASE=os.path.dirname(os.path.abspath(__file__))
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36"
 SITE="https://www.carmall.com.tw"
+# Product-line singles that must always be fetched even if absent from sitemap (e.g. HELLA not yet in sitemap)
+EXTRA_HANDLES=["bosch博世-通用型軟骨雨刷","hella-三節式雨刷-hybrid-wiper"]
 
 def get(url, raw=False):
     req=urllib.request.Request(url, headers={"User-Agent":UA})
@@ -21,6 +23,8 @@ def main():
         h=urllib.parse.unquote(u.rsplit("/products/",1)[-1])
         if "雨刷" not in h: continue
         wiper.append(h)
+    for h in EXTRA_HANDLES:
+        if h not in wiper: wiper.append(h)
     out=[]; fail=[]
     for h in wiper:
         url=SITE+"/products/"+urllib.parse.quote(h, safe="-")+".json"

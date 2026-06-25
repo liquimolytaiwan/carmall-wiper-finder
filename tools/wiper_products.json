@@ -1889,5 +1889,70 @@
     "price": 799.0
    }
   ]
+ },
+ {
+  "handle": "hella-三節式雨刷-hybrid-wiper",
+  "title": "HELLA 三節式雨刷 Hybrid Wiper",
+  "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper",
+  "price": 220.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": "14吋",
+    "sku": "9XW358338141",
+    "qty": null,
+    "available": true,
+    "id": 83730839,
+    "price": 220.0
+   },
+   {
+    "option1": "16吋",
+    "sku": "9XW358338161",
+    "qty": null,
+    "available": true,
+    "id": 83937800,
+    "price": 240.0
+   },
+   {
+    "option1": "18吋",
+    "sku": "9XW358338181",
+    "qty": null,
+    "available": true,
+    "id": 83937801,
+    "price": 250.0
+   },
+   {
+    "option1": "20吋",
+    "sku": "9XW358338201",
+    "qty": null,
+    "available": true,
+    "id": 83937802,
+    "price": 260.0
+   },
+   {
+    "option1": "22吋",
+    "sku": "9XW358338221",
+    "qty": null,
+    "available": true,
+    "id": 83937803,
+    "price": 260.0
+   },
+   {
+    "option1": "24吋",
+    "sku": "9XW358338241",
+    "qty": null,
+    "available": true,
+    "id": 83937804,
+    "price": 280.0
+   },
+   {
+    "option1": "26吋",
+    "sku": "9XW358338261",
+    "qty": null,
+    "available": true,
+    "id": 83937805,
+    "price": 300.0
+   }
+  ]
  }
 ]

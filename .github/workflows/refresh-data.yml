@@ -2,8 +2,9 @@ name: Refresh wiper price/stock from Cyberbiz
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 06:00 Taiwan (UTC+8) daily
-  workflow_dispatch: {}
+    - cron: '0 22 * * *'   # 06:00 Taiwan (UTC+8)
+    - cron: '0 4 * * *'    # 12:00 Taiwan
+  workflow_dispatch: {}     # manual "Run workflow" button for ad-hoc daytime stock updates
 
 permissions:
   contents: write

@@ -81,53 +81,45 @@
     }
 
     var sizesHtml = '<div class="sizes">' +
-      sizeBox("駕駛座", e.driver, e.driver_ok) +
-      sizeBox("乘客座", e.passenger, e.passenger_ok) +
+      sizeBox("駕駛座", e.driver) +
+      sizeBox("乘客座", e.passenger) +
       '</div>';
 
-    var body = sizesHtml + routeHtml(e) + rearHtml(e);
+    var body = sizesHtml + optionsHtml(e) + rearHtml(e);
     elResult.innerHTML = '<div class="rc">' + head + '<div class="rc-body">' + body + '</div></div>';
     elResult.hidden = false; postHeight();
   }
 
-  function sizeBox(role, size, ok) {
-    var flag = ok ? '' : '<em>需客服訂購</em>';
-    return '<div class="size' + (ok ? "" : " oos") + '">' +
-      '<b>' + esc(size) + '<span class="unit">吋</span></b>' +
-      '<span>' + role + '</span>' + flag + '</div>';
+  function sizeBox(role, size) {
+    return '<div class="size"><b>' + esc(size) + '<span class="unit">吋</span></b>' +
+      '<span>' + role + '</span></div>';
   }
 
-  function routeHtml(e) {
-    var r = e.route || {};
-    if (r.type === "contact") {
+  function optionsHtml(e) {
+    var opts = e.options || [];
+    if (!opts.length) {
       return '<div class="note">' + iconAlert() +
         '<span>此車所需尺寸（' + e.driver + '吋 / ' + e.passenger +
-        '吋）目前無現貨，請洽客服協助訂購正確尺寸</span></div>';
+        '吋）目前無現貨，請洽客服協助訂購</span></div>';
     }
-    if (r.type === "combo") {
-      var price = '<div class="price">$' + r.price + '</div>';
-      var prod = '<div class="prod"><div class="prod-info">' +
-        '<div class="prod-name">車種專屬組合<span class="tag tag-combo">2支/組</span></div>' +
-        '<div class="prod-meta">已配好 ' + e.driver + '吋 + ' + e.passenger + '吋，一次購足前擋</div>' +
-        '</div>' + price + '</div>';
-      var cta = '<a class="cta" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
-        cart() + '前往購買專屬組合</a>';
-      return prod + '<div class="cta-row">' + cta + '</div>';
+    var cards = opts.map(function (o) { return optionCard(o, e); }).join("");
+    return '<div class="opt-title">雨刷選擇　<span>共 ' + opts.length + ' 款，點選前往購買</span></div>' + cards;
+  }
+
+  function optionCard(o, e) {
+    var matTag = '<span class="tag tag-mat">' + esc(o.material) + '</span>';
+    var kindTag, sub;
+    if (o.kind === "combo") {
+      kindTag = '<span class="tag tag-combo">2支/組</span>';
+      sub = '已配好 ' + e.driver + '吋＋' + e.passenger + '吋，一次購足';
+    } else {
+      kindTag = '<span class="tag tag-single">單支自選</span>';
+      sub = o.driver + '吋 $' + o.driverPrice + '　＋　' + o.passenger + '吋 $' + o.passengerPrice + '（共 2 支）';
     }
-    // single self-select fallback
-    var sp = DATA.single;
-    var pPrice = '<div class="price"><s>$' + sp.compare + '</s>$' + sp.price + '<span style="font-size:11px;font-weight:500;color:var(--muted)">/支</span></div>';
-    var prodS = '<div class="prod"><div class="prod-info">' +
-      '<div class="prod-name">' + esc(sp.short) + '<span class="tag tag-single">單支自選</span></div>' +
-      '<div class="prod-meta">於商品頁選擇尺寸，前擋需購買 2 支</div>' +
-      '</div>' + pPrice + '</div>';
-    var url = sp.url;
-    var dv = sp.variants[String(e.driver)];
-    if (dv) url = sp.url + "?variant=" + dv.id;
-    var ctaS = '<a class="cta" href="' + esc(url) + '" target="_blank" rel="noopener">' +
-      cart() + '前往選購單支雨刷</a>';
-    var hint = '<p class="buy-hint">此車前擋需購買：<b>駕駛座 ' + e.driver + '吋 ×1</b>、<b>乘客座 ' + e.passenger + '吋 ×1</b></p>';
-    return prodS + '<div class="cta-row">' + ctaS + '</div>' + hint;
+    return '<a class="opt" href="' + esc(o.url) + '" target="_blank" rel="noopener">' +
+      '<div class="opt-main"><div class="opt-name">' + esc(o.label) + matTag + kindTag + '</div>' +
+      '<div class="opt-sub">' + sub + '</div></div>' +
+      '<div class="opt-right"><div class="opt-price">$' + o.price + '</div>' + cart() + '</div></a>';
   }
 
   function rearHtml(e) {
