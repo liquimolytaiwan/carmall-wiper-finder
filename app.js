@@ -5,7 +5,6 @@
   var elModel = document.getElementById("sel-model");
   var elYear  = document.getElementById("sel-year");
   var elResult = document.getElementById("result");
-  var elFoot = document.getElementById("wf-foot");
 
   function opt(value, label) {
     var o = document.createElement("option");
@@ -26,10 +25,6 @@
       DATA = d;
       clearSelect(elBrand, "請選擇車廠");
       d.brands.forEach(function (b) { elBrand.appendChild(opt(b.name, b.name)); });
-      if (d.meta && d.meta.updated) {
-        elFoot.innerHTML = "資料來源：BOSCH 2026 雨刷型錄 ｜ 更新：" + esc(d.meta.updated) +
-          "<br>查無車型或不確定尺寸，歡迎洽詢客服協助確認";
-      }
       postHeight();
     })
     .catch(function (e) {
