@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>雨刷快速查詢 | CarMall</title>
+<meta name="description" content="輸入您的車廠、車款、年份，立即查到正確的雨刷尺寸並直接購買" />
+<link rel="preconnect" href="https://www.carmall.com.tw" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="wf" id="wf">
+  <header class="wf-head">
+    <h1 class="wf-title">雨刷快速查詢</h1>
+    <p class="wf-sub">選擇車廠、車款、年份，立即查到正確尺寸並一鍵購買</p>
+  </header>
+
+  <div class="wf-steps">
+    <label class="wf-field">
+      <span class="wf-label"><i>1</i> 車廠</span>
+      <span class="wf-select">
+        <select id="sel-brand" aria-label="選擇車廠">
+          <option value="">請選擇車廠</option>
+        </select>
+      </span>
+    </label>
+
+    <label class="wf-field">
+      <span class="wf-label"><i>2</i> 車款</span>
+      <span class="wf-select">
+        <select id="sel-model" aria-label="選擇車款" disabled>
+          <option value="">請先選擇車廠</option>
+        </select>
+      </span>
+    </label>
+
+    <label class="wf-field">
+      <span class="wf-label"><i>3</i> 年份 / 車型</span>
+      <span class="wf-select">
+        <select id="sel-year" aria-label="選擇年份" disabled>
+          <option value="">請先選擇車款</option>
+        </select>
+      </span>
+    </label>
+  </div>
+
+  <div id="result" class="wf-result" hidden></div>
+
+  <p class="wf-foot" id="wf-foot"></p>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

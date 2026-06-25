@@ -1,0 +1,38 @@
+name: Refresh wiper price/stock from Cyberbiz
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 06:00 Taiwan (UTC+8) daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Re-fetch products + rebuild data.json
+        run: |
+          cd tools
+          python fetch_products.py
+          python build_data.py
+      - name: Commit & push if changed
+        run: |
+          git config user.name "carmall-wiper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json tools/wiper_products.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh price/stock from Cyberbiz [skip ci]"
+            git push
+          fi

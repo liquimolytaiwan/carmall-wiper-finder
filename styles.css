@@ -1,0 +1,133 @@
+:root{
+  --navy:#2b2b6e;
+  --navy-d:#20204f;
+  --ink:#1d1d24;
+  --muted:#6b6f76;
+  --line:#e6e7ec;
+  --bg:#ffffff;
+  --soft:#f5f6f9;
+  --ok:#1f9d57;
+  --warn:#b9892b;
+  --radius:14px;
+  --shadow:0 1px 2px rgba(20,20,40,.04),0 8px 24px rgba(20,20,40,.06);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  color:var(--ink);
+  background:transparent;
+  -webkit-font-smoothing:antialiased;
+  line-height:1.5;
+}
+.wf{
+  max-width:640px;
+  margin:0 auto;
+  padding:20px 16px 26px;
+}
+/* header */
+.wf-head{margin-bottom:18px}
+.wf-title{
+  font-size:22px;font-weight:800;margin:0;letter-spacing:.3px;
+  color:var(--navy);display:flex;align-items:center;gap:9px;
+}
+.wf-title::before{
+  content:"";width:22px;height:22px;flex:0 0 auto;border-radius:6px;
+  background:var(--navy);
+  -webkit-mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'><path d='M3 17l6-10c.3-.5.8-.8 1.4-.8h3.2c.6 0 1.1.3 1.4.8l6 10c.5.8-.1 1.9-1.1 1.9H4.1C3.1 18.9 2.5 17.8 3 17z'/></svg>") center/16px no-repeat;
+          mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'><path d='M3 17l6-10c.3-.5.8-.8 1.4-.8h3.2c.6 0 1.1.3 1.4.8l6 10c.5.8-.1 1.9-1.1 1.9H4.1C3.1 18.9 2.5 17.8 3 17z'/></svg>") center/16px no-repeat;
+}
+.wf-sub{margin:6px 0 0;color:var(--muted);font-size:13.5px}
+/* steps */
+.wf-steps{display:flex;flex-direction:column;gap:12px}
+.wf-field{display:flex;flex-direction:column;gap:6px}
+.wf-label{font-size:13px;font-weight:700;color:var(--ink);display:flex;align-items:center;gap:7px}
+.wf-label i{
+  font-style:normal;width:19px;height:19px;border-radius:50%;
+  background:var(--navy);color:#fff;font-size:11px;font-weight:700;
+  display:inline-flex;align-items:center;justify-content:center;
+}
+.wf-select{position:relative;display:block}
+.wf-select::after{
+  content:"";position:absolute;right:14px;top:50%;width:11px;height:11px;
+  transform:translateY(-55%) rotate(45deg);
+  border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);
+  pointer-events:none;
+}
+.wf-select select{
+  -webkit-appearance:none;-moz-appearance:none;appearance:none;
+  width:100%;padding:13px 40px 13px 14px;
+  font-size:15.5px;font-family:inherit;color:var(--ink);
+  background:var(--bg);border:1.5px solid var(--line);border-radius:12px;
+  cursor:pointer;transition:border-color .15s,box-shadow .15s;
+}
+.wf-select select:hover:not(:disabled){border-color:#c9cbd4}
+.wf-select select:focus{outline:none;border-color:var(--navy);box-shadow:0 0 0 3px rgba(43,43,110,.12)}
+.wf-select select:disabled{background:var(--soft);color:#aab;cursor:not-allowed}
+/* result */
+.wf-result{margin-top:18px;animation:rise .25s ease}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.rc{
+  border:1.5px solid var(--line);border-radius:var(--radius);
+  background:var(--bg);box-shadow:var(--shadow);overflow:hidden;
+}
+.rc-top{padding:15px 16px;background:linear-gradient(180deg,#fafbfd,#f4f5f9);border-bottom:1px solid var(--line)}
+.rc-veh{font-size:14px;font-weight:700;color:var(--navy)}
+.rc-veh small{display:block;font-weight:500;color:var(--muted);font-size:12.5px;margin-top:2px}
+.rc-body{padding:16px}
+/* sizes */
+.sizes{display:flex;gap:10px;margin-bottom:14px}
+.size{
+  flex:1;text-align:center;border:1.5px solid var(--line);border-radius:12px;
+  padding:12px 8px;background:var(--soft);
+}
+.size b{display:block;font-size:26px;font-weight:800;color:var(--navy);line-height:1.1}
+.size span{font-size:12px;color:var(--muted)}
+.size em{display:block;font-style:normal;font-size:10.5px;color:var(--warn);margin-top:2px}
+.size .unit{font-size:14px;font-weight:600}
+.size.oos b{color:var(--warn)}
+.size-note{font-size:12px;color:var(--warn);margin:-6px 0 14px;display:flex;gap:5px;align-items:flex-start}
+/* product / cta */
+.prod{border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.prod-info{flex:1;min-width:0}
+.prod-name{font-size:13.5px;font-weight:700}
+.prod-meta{font-size:12px;color:var(--muted);margin-top:2px}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;vertical-align:middle;margin-left:6px}
+.tag-combo{background:#eaf6ef;color:var(--ok)}
+.tag-single{background:#eef0fa;color:var(--navy)}
+.price{font-size:18px;font-weight:800;color:var(--ink);white-space:nowrap}
+.price s{font-size:12px;color:var(--muted);font-weight:500;margin-right:4px}
+.cta{
+  display:flex;align-items:center;justify-content:center;gap:8px;
+  width:100%;padding:14px;border-radius:12px;border:none;cursor:pointer;
+  background:var(--navy);color:#fff;font-size:15.5px;font-weight:700;font-family:inherit;
+  text-decoration:none;transition:background .15s,transform .05s;
+}
+.cta:hover{background:var(--navy-d)}
+.cta:active{transform:translateY(1px)}
+.cta svg{width:17px;height:17px;flex:0 0 auto}
+.cta.secondary{background:#fff;color:var(--navy);border:1.5px solid var(--navy)}
+.cta.secondary:hover{background:#f3f3fb}
+.cta-row{display:flex;flex-direction:column;gap:9px}
+.buy-hint{font-size:12.5px;color:var(--muted);text-align:center;margin-top:9px}
+.buy-hint b{color:var(--ink)}
+/* rear / info notes */
+.note{
+  display:flex;gap:8px;align-items:flex-start;font-size:12.5px;color:var(--muted);
+  background:var(--soft);border-radius:10px;padding:10px 12px;margin-top:12px;
+}
+.note svg{width:15px;height:15px;flex:0 0 auto;margin-top:1px;opacity:.7}
+/* dedicated / unavailable state */
+.state{
+  text-align:center;padding:22px 16px;
+}
+.state .ico{width:42px;height:42px;margin:0 auto 10px;opacity:.5}
+.state h3{margin:0 0 6px;font-size:15px;color:var(--ink)}
+.state p{margin:0;font-size:13px;color:var(--muted)}
+.wf-foot{font-size:11.5px;color:#a0a3ab;text-align:center;margin:18px 0 0;line-height:1.6}
+.wf-foot a{color:var(--muted)}
+/* desktop */
+@media(min-width:560px){
+  .wf-steps{flex-direction:row}
+  .wf-field{flex:1}
+}

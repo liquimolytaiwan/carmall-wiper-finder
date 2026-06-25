@@ -1,0 +1,19 @@
+[
+ {"brand":"MAZDA","model":"CX-30","year":"19-","driver":26,"passenger":16,"source":"market","note":"型錄24/18有誤；CARBUFF/松果/PChome 一致 26/16，組合商品亦為 26/16"},
+ {"brand":"HONDA","model":"FIT 第三代","year":"20-","driver":26,"passenger":14,"source":"market","note":"型錄26/15有誤；CARBUFF/NWB/Yahoo 一致 26/14，組合商品亦為 26/14"},
+ {"brand":"MAZDA","model":"CX-60","year":"23-","driver":26,"passenger":16,"source":"market","note":"型錄26/17有誤；UK/AU 多家 fitment 一致乘客 16（400mm）"},
+ {"brand":"TOYOTA","model":"HIACE","year":"20-","driver":24,"passenger":20,"source":"market","note":"型錄30/14有誤（誤植Alphard值）；H300 六代多家fitment一致 24/20"},
+ {"brand":"TOYOTA","model":"GRANVIA","year":"19-","driver":24,"passenger":20,"source":"market","note":"型錄30/14有誤；Google AI＋銳視/MK 一致 24/20（30+14為特殊改裝對應）"},
+ {"brand":"HYUNDAI","model":"MATRIX","year":"01-10","driver":22,"passenger":16,"source":"market","note":"兩次判讀14/16歧異；cararac/size.name 一致 22/16，14為後擋"},
+
+ {"brand":"NISSAN","model":"ALTIMA","year":"18-","driver":26,"passenger":16,"source":"policyA","note":"真實17吋未進貨→採最接近現貨16吋（市場標準替代，已有26+16組合）"},
+ {"brand":"INFINITI","model":"Q50","year":"22-","driver":26,"passenger":16,"source":"policyA","note":"真實17吋未進貨→採16吋"},
+ {"brand":"NISSAN","model":"X-TRAIL","year":"22-","driver":26,"passenger":16,"source":"policyA","note":"真實17吋未進貨→採16吋"},
+ {"brand":"MAZDA","model":"MAZDA 2 第四代","year":"14-17","driver":22,"passenger":16,"source":"policyA","note":"真實17吋未進貨→採16吋（已有22+16組合）"},
+ {"brand":"LUXGEN","model":"URX","year":"19-","driver":24,"passenger":16,"source":"policyA","note":"真實17吋未進貨→採16吋（已有24+16組合）"},
+ {"brand":"NISSAN","model":"SENTRA 第九代","year":"20-","driver":24,"passenger":16,"source":"policyA","note":"型錄駕駛26有誤→24；真實乘客17吋未進貨→採16吋"},
+
+ {"brand":"MITSUBISHI","model":"COLT PLUS","year":"07-13","driver":26,"passenger":14,"source":"policyA","note":"真實12吋(300mm)未進貨→採最接近現貨14吋"},
+ {"brand":"MITSUBISHI","model":"COLT PLUS","year":"14-19","driver":26,"passenger":14,"source":"policyA","note":"真實12吋未進貨→採14吋"},
+ {"brand":"MITSUBISHI","model":"COLT PLUS","year":"19-","driver":26,"passenger":14,"source":"policyA","note":"真實12吋未進貨→採14吋"}
+]
