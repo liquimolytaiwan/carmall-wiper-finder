@@ -8,6 +8,7 @@
   --soft:#f5f6f9;
   --ok:#1f9d57;
   --warn:#b9892b;
+  --sale:#d8262d;
   --radius:14px;
   --shadow:0 1px 2px rgba(20,20,40,.04),0 8px 24px rgba(20,20,40,.06);
 }
@@ -125,11 +126,12 @@ body{
 .opt-name{font-size:14px;font-weight:700;color:var(--ink);display:flex;align-items:center;flex-wrap:wrap;gap:6px}
 .opt-sub{font-size:12px;color:var(--muted);margin-top:3px}
 .opt-right{display:flex;align-items:center;gap:8px;flex:0 0 auto}
-.opt-price{font-size:18px;font-weight:800;color:var(--navy);white-space:nowrap;text-align:right}
-.opt-price s{display:block;font-size:11px;font-weight:500;color:var(--muted);text-align:right;line-height:1}
+.opt-price{font-size:18px;font-weight:800;color:var(--navy);white-space:nowrap;text-align:right;line-height:1.15}
+.opt-price .was{display:block;font-size:11px;font-weight:500;color:var(--muted);text-decoration:line-through}
+.opt-price .now{display:block;color:var(--sale)}
 .opt-right svg{width:18px;height:18px;color:var(--navy)}
 .tag-mat{background:#f0eee6;color:#7a6a3a}
-.tag-promo{background:#fdecec;color:#d23b3b}
+.tag-promo{background:#fdecec;color:var(--sale)}
 /* rear / info notes */
 .note{
   display:flex;gap:8px;align-items:flex-start;font-size:12.5px;color:var(--muted);

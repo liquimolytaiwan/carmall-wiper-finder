@@ -116,7 +116,7 @@
     } else if (o.promo) {
       tags += '<span class="tag tag-single">單支自選</span><span class="tag tag-promo">2支特價</span>';
       sub = '於商品頁任選 ' + o.driver + '吋＋' + o.passenger + '吋（2 支）';
-      priceHtml = '<div class="opt-price"><s>$' + o.listPrice + '</s>$' + o.price + '</div>';
+      priceHtml = '<div class="opt-price"><span class="was">$' + o.listPrice + '</span><span class="now">$' + o.price + '</span></div>';
     } else {
       tags += '<span class="tag tag-single">單支自選</span>';
       sub = o.driver + '吋 $' + o.driverPrice + '　＋　' + o.passenger + '吋 $' + o.passengerPrice + '（共 2 支）';
