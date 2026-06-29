@@ -2,7 +2,7 @@
 """Re-fetch all BOSCH wiper products (price + stock + variants) from Cyberbiz (carmall.com.tw)
 via the public sitemap + per-product .json endpoints. Writes wiper_products.json.
 Used both locally and by the scheduled GitHub Action to keep price/stock current."""
-import urllib.parse, urllib.request, json, os, re, sys
+import urllib.parse, urllib.request, urllib.error, json, os, re, sys, time
 BASE=os.path.dirname(os.path.abspath(__file__))
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36"
 SITE="https://www.carmall.com.tw"
@@ -12,11 +12,23 @@ EXTRA_HANDLES=["bosch博世-通用型軟骨雨刷","hella-三節式雨刷-hybrid
 # key -> collection handle (URL slug may be stale; the collection NAME carries the live price)
 PROMO_COLLECTIONS={"bosch_pair":"bosch雨刷-2件859"}
 
-def get(url, raw=False):
-    req=urllib.request.Request(url, headers={"User-Agent":UA})
-    with urllib.request.urlopen(req, timeout=40) as r:
-        data=r.read()
-    return data if raw else data.decode("utf-8","replace")
+def get(url, raw=False, retries=4):
+    # Cyberbiz occasionally times out / drops a connection. Retry transient
+    # network errors with incremental backoff so a single blip doesn't fail
+    # the whole scheduled job (esp. the very first sitemap fetch, which has no
+    # try/except around it in main()).
+    last=None
+    for attempt in range(retries):
+        try:
+            req=urllib.request.Request(url, headers={"User-Agent":UA})
+            with urllib.request.urlopen(req, timeout=40) as r:
+                data=r.read()
+            return data if raw else data.decode("utf-8","replace")
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            last=e
+            if attempt < retries-1:
+                time.sleep(3*(attempt+1))   # 3s, 6s, 9s
+    raise last
 
 def main():
     sm=get(SITE+"/sitemap.xml")
