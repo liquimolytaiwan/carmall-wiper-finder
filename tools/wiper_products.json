@@ -17,7 +17,7 @@
    {
     "option1": "16吋",
     "sku": "3397013325",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 82956929,
     "price": 499.0
@@ -73,7 +73,7 @@
    {
     "option1": "26吋",
     "sku": "3397013333",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 82957314,
     "price": 499.0
@@ -115,7 +115,7 @@
    {
     "option1": null,
     "sku": "BOSCH FORD I-MAX",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83075558,
     "price": 859.0
@@ -132,7 +132,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA ACCORD",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83027155,
     "price": 859.0
@@ -149,7 +149,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA CITY",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83036778,
     "price": 859.0
@@ -166,7 +166,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA CITY",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83036995,
     "price": 859.0
@@ -200,7 +200,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA CR-V26+16",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83023406,
     "price": 859.0
@@ -217,7 +217,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA FIT",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83071761,
     "price": 859.0
@@ -234,7 +234,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA HR-V-1",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83073885,
     "price": 859.0
@@ -285,7 +285,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI ELANTR-3",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83082917,
     "price": 859.0
@@ -302,7 +302,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI ELANTR-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83082629,
     "price": 859.0
@@ -319,7 +319,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI IX35",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83087774,
     "price": 859.0
@@ -336,7 +336,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI KONA",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83083165,
     "price": 859.0
@@ -370,7 +370,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI SANTA FE-3",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83083390,
     "price": 859.0
@@ -387,7 +387,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI SANTA FE-4",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83083460,
     "price": 859.0
@@ -404,7 +404,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI SONATA",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83083812,
     "price": 859.0
@@ -421,7 +421,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI TUCSON-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83084208,
     "price": 859.0
@@ -438,7 +438,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI TUCSON-34",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83085608,
     "price": 859.0
@@ -489,7 +489,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI G25/M25",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83140199,
     "price": 859.0
@@ -506,7 +506,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI Q50/Q60",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83141813,
     "price": 859.0
@@ -523,7 +523,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI Q70",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83142525,
     "price": 859.0
@@ -540,7 +540,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI QX50-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83330328,
     "price": 859.0
@@ -574,7 +574,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI Q70",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83147227,
     "price": 859.0
@@ -591,7 +591,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS CT",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83335170,
     "price": 859.0
@@ -676,7 +676,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS LS-3",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83342159,
     "price": 859.0
@@ -693,7 +693,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS LS-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83341272,
     "price": 859.0
@@ -727,7 +727,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS NX",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83538987,
     "price": 859.0
@@ -744,7 +744,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS RX",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83539134,
     "price": 859.0
@@ -761,7 +761,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS UX",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83543152,
     "price": 859.0
@@ -778,7 +778,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN M7",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83149238,
     "price": 859.0
@@ -812,7 +812,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN S5",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83333536,
     "price": 859.0
@@ -829,7 +829,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN S5-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83333582,
     "price": 859.0
@@ -846,7 +846,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN U5/U6",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83151906,
     "price": 859.0
@@ -863,7 +863,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN U7",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83152207,
     "price": 859.0
@@ -880,7 +880,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN URX",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83152259,
     "price": 859.0
@@ -914,7 +914,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA CX-30",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83153647,
     "price": 859.0
@@ -948,7 +948,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA CX-7/CX-9",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83154180,
     "price": 859.0
@@ -982,7 +982,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 2-4",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83156102,
     "price": 859.0
@@ -1050,7 +1050,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 3-4",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83158189,
     "price": 859.0
@@ -1067,7 +1067,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 5",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83158918,
     "price": 859.0
@@ -1101,7 +1101,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 6-2",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83159111,
     "price": 859.0
@@ -1135,7 +1135,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI LANCER FORTIS",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83159744,
     "price": 859.0
@@ -1203,7 +1203,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI SAVRIN",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83278974,
     "price": 859.0
@@ -1220,7 +1220,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI ZINGER",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83280767,
     "price": 859.0
@@ -1237,7 +1237,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN ALTIMA",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83285131,
     "price": 859.0
@@ -1305,7 +1305,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN SENTRA-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83295344,
     "price": 859.0
@@ -1322,7 +1322,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN SENTRA-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83295516,
     "price": 859.0
@@ -1356,7 +1356,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN TEANA-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83302866,
     "price": 859.0
@@ -1373,7 +1373,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN TIIDA-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83302895,
     "price": 859.0
@@ -1390,7 +1390,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN TIIDA-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83303230,
     "price": 859.0
@@ -1407,7 +1407,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN X-TRAIL",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83303304,
     "price": 859.0
@@ -1441,7 +1441,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU FORESTER-1",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83303769,
     "price": 859.0
@@ -1458,7 +1458,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU IMPREZA",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83303998,
     "price": 859.0
@@ -1475,7 +1475,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU LEGACY-1",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83305391,
     "price": 859.0
@@ -1492,7 +1492,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU LEGACY",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83305246,
     "price": 859.0
@@ -1526,7 +1526,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU OUTBACK-3",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83306386,
     "price": 859.0
@@ -1543,7 +1543,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU OUTBACK-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83305747,
     "price": 859.0
@@ -1560,7 +1560,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU XV",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83306193,
     "price": 859.0
@@ -1594,7 +1594,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA CAMRY-3",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83306640,
     "price": 859.0
@@ -1628,7 +1628,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA CAMRY-4",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83306688,
     "price": 859.0
@@ -1645,7 +1645,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA COROLLA ALTIS-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83306772,
     "price": 859.0
@@ -1662,7 +1662,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA COROLLA ALTIS-2",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83306980,
     "price": 859.0
@@ -1679,7 +1679,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA COROLLA CROSS",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83307276,
     "price": 859.0
@@ -1696,7 +1696,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA INNOVA-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83307732,
     "price": 859.0
@@ -1730,7 +1730,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA PRIUS",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83309113,
     "price": 859.0
@@ -1747,7 +1747,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA RAV4-2",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83312100,
     "price": 859.0
@@ -1781,7 +1781,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA RAV4-3",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83312165,
     "price": 859.0
@@ -1798,7 +1798,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA VIOS-1",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83328594,
     "price": 859.0
@@ -1849,7 +1849,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA WISH",
-    "qty": 4,
+    "qty": 2,
     "available": true,
     "id": 83328844,
     "price": 859.0
@@ -1883,7 +1883,7 @@
    {
     "option1": null,
     "sku": "BOSCH-1",
-    "qty": 200,
+    "qty": 198,
     "available": true,
     "id": 83006360,
     "price": 859.0
