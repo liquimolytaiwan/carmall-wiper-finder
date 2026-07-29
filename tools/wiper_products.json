@@ -1916,8 +1916,8 @@
    {
     "option1": "18吋",
     "sku": "9XW358338181",
-    "qty": 0,
-    "available": false,
+    "qty": 5,
+    "available": true,
     "id": 83937801,
     "price": 250.0
    },
@@ -1948,8 +1948,8 @@
    {
     "option1": "26吋",
     "sku": "9XW358338261",
-    "qty": 0,
-    "available": false,
+    "qty": 5,
+    "available": true,
     "id": 83937805,
     "price": 300.0
    }
