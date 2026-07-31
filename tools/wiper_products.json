@@ -9,7 +9,7 @@
    {
     "option1": "14吋",
     "sku": "3397013324-CM",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 82955922,
     "price": 499.0
@@ -33,7 +33,7 @@
    {
     "option1": "19吋",
     "sku": "3397013328-CM",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 82957309,
     "price": 499.0
@@ -251,7 +251,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA HR-V-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83075160,
     "price": 859.0
@@ -472,7 +472,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI FX35/45/50",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83092713,
     "price": 859.0
@@ -608,7 +608,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS ES",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83545767,
     "price": 859.0
@@ -965,7 +965,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 2",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 83155918,
     "price": 859.0
@@ -999,7 +999,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 3-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83157978,
     "price": 859.0
@@ -1033,7 +1033,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 3-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83158053,
     "price": 859.0
@@ -1169,7 +1169,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI OUTLANDER-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83277117,
     "price": 859.0
@@ -1271,7 +1271,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN JUKE",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 83293761,
     "price": 859.0
@@ -1288,7 +1288,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN LIVINA",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 83294751,
     "price": 859.0
@@ -1339,7 +1339,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN TEANA-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83295818,
     "price": 859.0
@@ -1509,7 +1509,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU OUTBACK-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83305504,
     "price": 859.0
@@ -1713,7 +1713,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA INNOVA-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83308760,
     "price": 859.0
@@ -1815,7 +1815,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA VIOS-3",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 83328815,
     "price": 859.0
@@ -1832,7 +1832,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA VIOS-2",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 83328733,
     "price": 859.0
@@ -1866,7 +1866,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA YARIS",
-    "qty": 3,
+    "qty": 4,
     "available": true,
     "id": 83330277,
     "price": 859.0
