@@ -1891,6 +1891,40 @@
   ]
  },
  {
+  "handle": "hella-三節式雨刷-ford-i-max07112616吋",
+  "title": "HELLA 三節式雨刷 (2支/組) 適用車型 FORD I-MAX【(07~11)26+16吋】",
+  "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-ford-i-max07112616吋",
+  "price": 540.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "HELLA FORD I-MAX",
+    "qty": 5,
+    "available": true,
+    "id": 86365232,
+    "price": 540.0
+   }
+  ]
+ },
+ {
+  "handle": "hella-三節式雨刷-honda-city-20142614吋",
+  "title": "HELLA 三節式雨刷 (2支/組) 適用車型 HONDA CITY (2014~)26+14吋",
+  "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-honda-city-20142614吋",
+  "price": 520.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "HELLA HONDA CITY",
+    "qty": 5,
+    "available": true,
+    "id": 86389239,
+    "price": 520.0
+   }
+  ]
+ },
+ {
   "handle": "hella-三節式雨刷-hybrid-wiper",
   "title": "HELLA 三節式雨刷 Hybrid Wiper",
   "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper",
@@ -1952,6 +1986,23 @@
     "available": true,
     "id": 83937805,
     "price": 300.0
+   }
+  ]
+ },
+ {
+  "handle": "hella-三節式雨刷-hyundai-elantra第一代2018吋",
+  "title": "HELLA 三節式雨刷 (2支/組) 適用車型 HYUNDAI ELANTRA【第一代(02~08)20+18吋】",
+  "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hyundai-elantra第一代2018吋",
+  "price": 510.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "HELLA HYUNDAI ELANTRA",
+    "qty": 5,
+    "available": true,
+    "id": 86390583,
+    "price": 510.0
    }
   ]
  }
