@@ -121,25 +121,43 @@ HELLA_URL=prod_url(hella_p,"https://www.carmall.com.tw/products/"+HELLA_HANDLE)
 # ("… 適用車型 HONDA CIVIC 第九代(12~17)26+18吋"), so a combo must record WHICH line it
 # belongs to. Matching on the title alone would let a HELLA set be offered under the
 # BOSCH label (today BOSCH merely happens to sort first and win every tie).
+LINE_PATTERNS=[("HELLA",r"hella|海拉"),("BOSCH",r"bosch|博世")]
 def combo_line(p):
-    return "HELLA" if re.search(r"hella", (p.get("handle") or ""), re.I) else "BOSCH"
+    """Which product line a vehicle-specific set belongs to, or None if unrecognised.
+    Looks at handle AND title: Cyberbiz slugs are frozen at creation, so a renamed
+    product can keep a slug that no longer names its brand. Returning None (rather than
+    defaulting to BOSCH) means a newly-added third line is skipped and reported instead
+    of being silently sold under the wrong brand."""
+    # Title first, handle only as a fallback. A renamed product keeps its old slug, so a
+    # combined haystack would let the stale handle outvote the current title.
+    for hay in (re.sub(r"<[^>]+>","",p.get("title") or ""), p.get("handle") or ""):
+        for key,pat in LINE_PATTERNS:
+            if re.search(pat,hay,re.I): return key
+    return None
 
 sz=re.compile(r"(\d{2})\s*\+\s*(\d{2})\s*吋")
-combos=[]
+combos=[]; skipped=[]
 for p in prods:
     t=re.sub(r"<[^>]+>","",p["title"] or "")   # titles may carry an HTML promo banner
     if "適用車型" not in t: continue
     if "-copy" in (p.get("handle") or ""): continue
+    line=combo_line(p)
+    if line is None:
+        skipped.append(("認不出產品線",p.get("handle"),t)); continue
     seg=t.split("適用車型",1)[1]; sm=sz.search(seg)
-    d,pa=(int(sm.group(1)),int(sm.group(2))) if sm else (None,None)
-    seg_m=seg[:sm.start()] if sm else seg
+    if not sm:
+        # No "26+16吋" in the title — the set can never match a car (sizes are compared
+        # exactly), so report it rather than parking a dead entry in the list.
+        skipped.append(("標題找不到「NN+NN吋」尺寸",p.get("handle"),t)); continue
+    d,pa=(int(sm.group(1)),int(sm.group(2)))
+    seg_m=seg[:sm.start()]
     raw_m=seg_m                       # keep the un-stripped text so ranges stay readable
     seg_m=re.sub(r"[【】]"," ",seg_m); seg_m=re.sub(r"[（(][^（()）]*[)）]"," ",seg_m)
     seg_m=re.sub(r"\d{2,4}\s*[~\-～]\s*\d{0,4}"," ",seg_m)
     for w in ["通用款","_","、","~","～"]: seg_m=seg_m.replace(w," ")
     seg_m=re.sub(r"\s+"," ",seg_m).strip()
     parts=seg_m.split(None,1)
-    combos.append({"line":combo_line(p),
+    combos.append({"line":line,
       "brand":(parts[0].upper() if parts else ""),"model":(parts[1].strip() if len(parts)>1 else ""),
       "driver":d,"passenger":pa,"url":prod_url(p,p.get("url")),"price":int(p["price"]),
       "stock":sum((v["qty"] or 0) for v in p["variants"]),"available":p["available"],
@@ -249,4 +267,20 @@ for L in LINES:
     k=L["key"]
     print(f"  {k:<6} option: {has(k):>4}  (combo {ncombo(k)} / single {has(k)-ncombo(k)})")
 print(f"rows with 0 options (contact): {sum(1 for e in rows if not e['options'])}")
+
+# New vehicle-specific sets get added to the store over time. A set that parses but never
+# lands on a car is invisible on the site and produces no error, so surface it here — this
+# log is the only place a newly-added product that failed to match will show up.
+unmatched=[c for c in combos if not c["_used"]]
+if skipped:
+    print(f"\n⚠️  略過的組合商品（格式不符，不會出現在查詢器）：{len(skipped)}")
+    for why,h,t in skipped: print(f"    - [{why}] {t[:70]}  ({h})")
+if unmatched:
+    print(f"\n⚠️  解析成功但沒配到任何車的組合：{len(unmatched)}")
+    for c in unmatched:
+        print(f"    - [{c['line']}] {c['brand']} {c['model']} {c['driver']}+{c['passenger']}吋"
+              f"{'' if c['available'] and c['stock']>0 else '  (無庫存，屬正常)'}")
+    print("    → 檢查：車廠/車款拼法是否與查詢器一致、尺寸是否與型錄相同")
+else:
+    print("\n所有組合商品都已配到車 ✓")
 print("wrote",OUT)
