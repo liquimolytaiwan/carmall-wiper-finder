@@ -141,12 +141,18 @@
   function iconInfo(){ return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="8"/></svg>'; }
 
   // ---- iframe auto-height ----
+  // Measure the content element, NOT documentElement.scrollHeight: the latter is clamped
+  // to the viewport, and inside an iframe the viewport IS the height we just set. That
+  // makes the reported height monotonically non-decreasing, so the frame grows for a
+  // result but never shrinks back — leaving a tall blank gap on phones.
+  var elRoot = document.getElementById("wf");
   function postHeight(){
     try {
-      var h = document.documentElement.scrollHeight;
-      parent.postMessage({ type: "carmallWiperHeight", height: h }, "*");
+      var h = Math.ceil(elRoot.getBoundingClientRect().height);
+      if (h > 0) parent.postMessage({ type: "carmallWiperHeight", height: h }, "*");
     } catch (e) {}
   }
   window.addEventListener("load", postHeight);
-  if (window.ResizeObserver) { new ResizeObserver(postHeight).observe(document.body); }
+  window.addEventListener("resize", postHeight);
+  if (window.ResizeObserver) { new ResizeObserver(postHeight).observe(elRoot); }
 })();
