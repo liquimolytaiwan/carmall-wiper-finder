@@ -19,6 +19,18 @@ def gen_ints(model):
         for m in re.findall(r"[一二三四五六七八九十]+",blk):
             if m in CN: out.add(CN[m])
     return out
+# "第三代~第五代通用款" covers generations 3,4,5. Read the range BEFORE the cleanup below
+# turns "~" into a space, otherwise only the endpoints survive and the middle generation
+# silently loses its combo (CR-V 第四代, FIT 第二代). Sizes are still matched separately,
+# so widening the generation set can never pair a car with the wrong-size set.
+GEN_RANGE=re.compile(r"第([一二三四五六七八九十]+)代?\s*[~～\-－至]\s*第([一二三四五六七八九十]+)代")
+def gen_span(text):
+    out=set()
+    for a,b in GEN_RANGE.findall(text or ""):
+        if a in CN and b in CN:
+            lo,hi=sorted((CN[a],CN[b]))
+            out|=set(range(lo,hi+1))
+    return out
 def gen_label(model):
     g=[re.sub(r"\s*[/／]\s*","/",x.strip()) for x in re.findall(GENRE,model)]
     pv=[p.strip() for p in re.findall(r"[（(]([^（()）]*)[)）]",model) if p.strip()]
@@ -104,30 +116,41 @@ bosch_var=size_variants(bosch_p); hella_var=size_variants(hella_p)
 BOSCH_URL=prod_url(bosch_p,"https://www.carmall.com.tw/products/"+BOSCH_SINGLE_HANDLE)
 HELLA_URL=prod_url(hella_p,"https://www.carmall.com.tw/products/"+HELLA_HANDLE)
 
-# ---------- combos (BOSCH 軟骨, 2支/組) ----------
+# ---------- combos (2支/組) ----------
+# Both product lines title their vehicle-specific sets the same way
+# ("… 適用車型 HONDA CIVIC 第九代(12~17)26+18吋"), so a combo must record WHICH line it
+# belongs to. Matching on the title alone would let a HELLA set be offered under the
+# BOSCH label (today BOSCH merely happens to sort first and win every tie).
+def combo_line(p):
+    return "HELLA" if re.search(r"hella", (p.get("handle") or ""), re.I) else "BOSCH"
+
 sz=re.compile(r"(\d{2})\s*\+\s*(\d{2})\s*吋")
 combos=[]
 for p in prods:
-    t=p["title"]
+    t=re.sub(r"<[^>]+>","",p["title"] or "")   # titles may carry an HTML promo banner
     if "適用車型" not in t: continue
     if "-copy" in (p.get("handle") or ""): continue
     seg=t.split("適用車型",1)[1]; sm=sz.search(seg)
     d,pa=(int(sm.group(1)),int(sm.group(2))) if sm else (None,None)
     seg_m=seg[:sm.start()] if sm else seg
+    raw_m=seg_m                       # keep the un-stripped text so ranges stay readable
     seg_m=re.sub(r"[【】]"," ",seg_m); seg_m=re.sub(r"[（(][^（()）]*[)）]"," ",seg_m)
     seg_m=re.sub(r"\d{2,4}\s*[~\-～]\s*\d{0,4}"," ",seg_m)
     for w in ["通用款","_","、","~","～"]: seg_m=seg_m.replace(w," ")
     seg_m=re.sub(r"\s+"," ",seg_m).strip()
     parts=seg_m.split(None,1)
-    combos.append({"brand":(parts[0].upper() if parts else ""),"model":(parts[1].strip() if len(parts)>1 else ""),
+    combos.append({"line":combo_line(p),
+      "brand":(parts[0].upper() if parts else ""),"model":(parts[1].strip() if len(parts)>1 else ""),
       "driver":d,"passenger":pa,"url":prod_url(p,p.get("url")),"price":int(p["price"]),
       "stock":sum((v["qty"] or 0) for v in p["variants"]),"available":p["available"],
-      "fam":fam_tokens(parts[1] if len(parts)>1 else ""),"gens":gen_ints(seg_m),"_used":False})
+      "fam":fam_tokens(parts[1] if len(parts)>1 else ""),
+      "gens":gen_ints(seg_m)|gen_span(raw_m),"_used":False})
 
-def find_combo(brand,model,d,p,relaxed=False):
+def find_combo(brand,model,d,p,line,relaxed=False):
     bt=fit_fam_tokens(model); fg=gen_ints(model); fg1=next(iter(fg)) if len(fg)==1 else None
     best=None; bs=-1
     for c in combos:
+        if c["line"]!=line: continue
         if c["brand"]!=brand.upper(): continue
         if c["driver"]!=d or c["passenger"]!=p: continue
         if not (c["available"] and c["stock"]>0): continue   # availability gate
@@ -172,29 +195,40 @@ for r in fit:
         bb["models"][mg]={"name":mg,"entries":[]}; bb["order"].append(mg)
     bb["models"][mg]["entries"].append(entry)
 
-# BOSCH combo: strict then relaxed (gen-label drift)
-for e in rows: e["_combo"]=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],False)
-for e in rows:
-    if e["_combo"]: e["_combo"]["_used"]=True
-for e in rows:
-    if not e["_combo"]:
-        c=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],True)
-        if c and not c["_used"]: c["_used"]=True; e["_combo"]=c
+# Per-line combo matching: strict pass first, then a relaxed pass for generation-label
+# drift that only claims combos the strict pass didn't already take.
+LINES=[
+  {"key":"BOSCH","label":"BOSCH 通用軟骨 旗艦款","material":"軟骨",
+   "url":BOSCH_URL,"var":bosch_var,"pair":bosch_pair},
+  {"key":"HELLA","label":"HELLA 三節式 Hybrid","material":"三節式",
+   "url":HELLA_URL,"var":hella_var,"pair":None},
+]
+for L in LINES:
+    ck="_combo_"+L["key"]
+    for e in rows:
+        e[ck]=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],L["key"],False)
+    for e in rows:
+        if e[ck]: e[ck]["_used"]=True
+    for e in rows:
+        if not e[ck]:
+            c=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],L["key"],True)
+            if c and not c["_used"]: c["_used"]=True; e[ck]=c
 
-# assemble options per row
+# assemble options per row — each line offers its vehicle-specific set when one exists,
+# otherwise the self-select single product.
 for e in rows:
     d,p=e["driver"],e["passenger"]; opts=[]
-    if e["_combo"]:
-        c=e["_combo"]
-        opts.append({"brand":"BOSCH","label":"BOSCH 通用軟骨 旗艦款","material":"軟骨","kind":"combo","url":c["url"],"price":c["price"]})
-    else:
-        o=single_option("BOSCH","BOSCH 通用軟骨 旗艦款","軟骨",BOSCH_URL,bosch_var,d,p,bosch_pair)
-        if o: opts.append(o)
-    oh=single_option("HELLA","HELLA 三節式 Hybrid","三節式",HELLA_URL,hella_var,d,p)
-    if oh: opts.append(oh)
+    for L in LINES:
+        c=e.get("_combo_"+L["key"])
+        if c:
+            opts.append({"brand":L["key"],"label":L["label"],"material":L["material"],
+                         "kind":"combo","url":c["url"],"price":c["price"]})
+        else:
+            o=single_option(L["key"],L["label"],L["material"],L["url"],L["var"],d,p,L["pair"])
+            if o: opts.append(o)
     e["options"]=opts
     if not opts: e["route"]={"type":"contact"}
-    for k in ("_brand","_model","_combo"): e.pop(k,None)
+    for k in ["_brand","_model"]+["_combo_"+L["key"] for L in LINES]: e.pop(k,None)
 
 out_brands=[{"name":bn,"models":[brands[bn]["models"][mn] for mn in brands[bn]["order"]]} for bn in order]
 data={"meta":{"updated":"2026-06-25","source":"BOSCH 2026 通用雨刷型錄（美日韓）＋市場查證校正",
@@ -204,9 +238,15 @@ json.dump(data,open(OUT,"w"),ensure_ascii=False,indent=1)
 
 # report
 def has(line): return sum(1 for e in rows for o in e["options"] if o["brand"]==line)
-ncombo=sum(1 for e in rows if any(o["kind"]=="combo" for o in e["options"]))
+def ncombo(line): return sum(1 for e in rows for o in e["options"]
+                            if o["brand"]==line and o["kind"]=="combo")
 print(f"corrections applied: {applied}")
 print(f"BOSCH single-product variants: {sorted(bosch_var)} | HELLA variants: {sorted(hella_var)}")
-print(f"universal rows: {len(rows)} | BOSCH option: {has('BOSCH')} | HELLA option: {has('HELLA')} | combos used: {ncombo}")
+print(f"combo products parsed: " + " ".join(
+      f"{L['key']}={sum(1 for c in combos if c['line']==L['key'])}" for L in LINES))
+print(f"universal rows: {len(rows)}")
+for L in LINES:
+    k=L["key"]
+    print(f"  {k:<6} option: {has(k):>4}  (combo {ncombo(k)} / single {has(k)-ncombo(k)})")
 print(f"rows with 0 options (contact): {sum(1 for e in rows if not e['options'])}")
 print("wrote",OUT)
