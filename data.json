@@ -100,6 +100,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -602,6 +616,14 @@
        "rear": "H290",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-ford-i-max",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -944,6 +966,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -964,10 +1000,16 @@
        "driver": 26,
        "passenger": 19,
        "rear": null,
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-accord-20260527144737",
+         "price": 859
+        }
+       ]
       },
       {
        "label": "第九代 (13-16)",
@@ -976,10 +1018,16 @@
        "driver": 26,
        "passenger": 19,
        "rear": null,
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-accord-20260527144737",
+         "price": 859
+        }
+       ]
       }
      ]
     },
@@ -1024,6 +1072,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-city-20260527174325",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1051,6 +1107,14 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-city-20260527174137",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1137,6 +1201,14 @@
        "rear": "H354",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-cr-v-2616吋-20260527135418",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1155,6 +1227,14 @@
        "rear": "H313",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-cr-v-2616吋-20260527135418",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1172,6 +1252,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-cr-v-2616吋-20260527135418",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1201,6 +1289,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 20,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1228,6 +1330,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-fit-20260528092417",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1246,6 +1356,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-fit-20260528092417",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1263,6 +1381,14 @@
        "passenger": 14,
        "rear": "H306",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-fit-20260528092417",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1286,6 +1412,14 @@
        "passenger": 16,
        "rear": "H250",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-hr-v第一代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1356,6 +1490,20 @@
        "passenger": 22,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 22,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1431,6 +1579,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1541,6 +1703,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-elantra第二代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1558,6 +1728,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-elantra第三代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1622,6 +1800,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1773,6 +1965,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1794,6 +2000,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1822,6 +2042,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1848,6 +2082,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -1876,6 +2124,14 @@
        "rear": "H281",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-kona",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -1893,6 +2149,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-kona",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2061,6 +2325,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-santa-fe第三代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2079,6 +2351,14 @@
        "rear": "A302H",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-santa-fe第四代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2096,6 +2376,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-santa-fe第四代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2156,6 +2444,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-sonata",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2173,6 +2469,14 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-sonata",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2278,6 +2582,14 @@
        "rear": "H352",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-tucson第三代第四代通用款",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2295,6 +2607,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-hyundai-tucson第三代第四代通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2318,6 +2638,20 @@
        "passenger": 22,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 22,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2346,6 +2680,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2367,6 +2715,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2577,6 +2939,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-g25m25",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2641,6 +3011,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2688,6 +3072,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2715,6 +3113,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-q50q60通用款",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2732,6 +3138,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-q50q60通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2756,6 +3170,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-q50q60通用款",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2773,6 +3195,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-q50q60通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -2795,10 +3225,16 @@
        "driver": 26,
        "passenger": 19,
        "rear": null,
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-q70",
+         "price": 859
+        }
+       ]
       }
      ]
     },
@@ -2871,6 +3307,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -2891,10 +3341,22 @@
        "driver": 26,
        "passenger": 19,
        "rear": null,
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        }
+       ]
       }
      ]
     },
@@ -3286,6 +3748,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 20,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -3312,6 +3788,20 @@
        "passenger": 16,
        "rear": "A302H",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3381,6 +3871,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -3448,6 +3952,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3517,6 +4035,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -3543,6 +4075,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3606,6 +4152,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-kia-sportage",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3701,6 +4255,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3804,6 +4372,14 @@
        "rear": "H200",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-ct第一代第二代通用款",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -3821,6 +4397,14 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-ct第一代第二代通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3899,6 +4483,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -3920,6 +4518,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -3973,6 +4585,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4081,6 +4707,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4212,6 +4852,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-ls第五代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -4317,6 +4965,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-nx第二代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -4334,6 +4990,14 @@
        "passenger": 16,
        "rear": "H290",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-nx第二代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4357,6 +5021,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-ux",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4487,6 +5159,14 @@
        "rear": "H352",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-rx第二代第三代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -4504,6 +5184,14 @@
        "passenger": 22,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-rx第二代第三代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4538,6 +5226,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -4569,6 +5271,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-luxgen-m7",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4701,6 +5411,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-luxgen-u7",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -4821,6 +5539,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-luxgen-s5第二代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -4961,15 +5687,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mazda-cx-30",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-cx-3020192616吋",
          "price": 540
         }
        ]
@@ -4999,12 +5729,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 18,
-         "driverPrice": 280,
-         "passengerPrice": 250,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-cx-5-1216_2418吋",
          "price": 530
         }
        ]
@@ -5027,6 +5753,20 @@
        "passenger": 16,
        "rear": "H307",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -5055,15 +5795,19 @@
        "rear": "H352",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mazda-cx-7cx-9",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-cx-7cx-9通用款_2616吋",
          "price": 540
         }
        ]
@@ -5082,15 +5826,19 @@
        "rear": "H352",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mazda-cx-7cx-9",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-cx-7cx-9通用款_2616吋",
          "price": 540
         }
        ]
@@ -5125,12 +5873,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 14,
-         "driverPrice": 280,
-         "passengerPrice": 220,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-2第三代07-14_2414吋",
          "price": 500
         }
        ]
@@ -5155,12 +5899,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 16,
-         "driverPrice": 260,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-2第四代-1417_2216吋",
          "price": 500
         }
        ]
@@ -5226,12 +5966,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 18,
-         "driverPrice": 280,
-         "passengerPrice": 250,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-3第三代_14-18_2418吋",
          "price": 530
         }
        ]
@@ -5245,15 +5981,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mazda-mazda-3第四代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-3第四代2019_2616吋",
          "price": 540
         }
        ]
@@ -5272,15 +6012,19 @@
        "rear": "H290",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mazda-mazda-5",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-5第一代-第二代通用款_2616吋",
          "price": 540
         }
        ]
@@ -5294,15 +6038,19 @@
        "rear": "H309",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mazda-mazda-5",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-5第一代-第二代通用款_2616吋",
          "price": 540
         }
        ]
@@ -5332,12 +6080,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 18,
-         "driverPrice": 260,
-         "passengerPrice": 250,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-6第一代_02-08_2218吋",
          "price": 510
         }
        ]
@@ -5362,12 +6106,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 16,
-         "driverPrice": 280,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-6第二代-第三代通用款_2416吋",
          "price": 520
         }
        ]
@@ -5392,12 +6132,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 16,
-         "driverPrice": 280,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-6第二代-第三代通用款_2416吋",
          "price": 520
         }
        ]
@@ -5422,12 +6158,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 18,
-         "driverPrice": 280,
-         "passengerPrice": 250,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mazda-mazda-6第四代_15-18_2418吋",
          "price": 530
         }
        ]
@@ -5721,6 +6453,20 @@
        "rear": "H341",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -5743,6 +6489,20 @@
        "rear": "H341",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -5764,6 +6524,20 @@
        "passenger": 14,
        "rear": "H341",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -5956,6 +6730,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -5982,6 +6770,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -6057,12 +6859,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 18,
-         "driverPrice": 280,
-         "passengerPrice": 250,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mitsubishi-lancervirage01072418吋",
          "price": 530
         }
        ]
@@ -6092,12 +6890,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 16,
-         "driverPrice": 280,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mitsubishi-lancer-fortis_07-13_2416吋",
          "price": 520
         }
        ]
@@ -6275,6 +7069,20 @@
        "rear": "H306",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -6379,15 +7187,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mitsubishi-savrin",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mitsubishi-savrin_2001-2014_2616吋",
          "price": 540
         }
        ]
@@ -6405,6 +7217,20 @@
        "passenger": 26,
        "rear": "H341",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 26,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -6433,15 +7259,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-mitsubishi-zinger",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 14,
-         "driverPrice": 300,
-         "passengerPrice": 220,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-mitsubishi-zinger_2005-2015_2614吋",
          "price": 520
         }
        ]
@@ -6459,6 +7289,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -6555,10 +7399,22 @@
        "driver": 26,
        "passenger": 19,
        "rear": null,
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        }
+       ]
       }
      ]
     },
@@ -6574,15 +7430,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-altima",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-altima_2018-2616吋",
          "price": 540
         }
        ]
@@ -6612,12 +7472,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 20,
-         "driverPrice": 260,
-         "passengerPrice": 260,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-bluebird200620122220吋",
          "price": 520
         }
        ]
@@ -6676,6 +7532,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -6744,12 +7614,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 14,
-         "driverPrice": 280,
-         "passengerPrice": 220,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-livina第一代第二代通用款_2414吋",
          "price": 500
         }
        ]
@@ -6774,12 +7640,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 14,
-         "driverPrice": 280,
-         "passengerPrice": 220,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-livina第一代第二代通用款_2414吋",
          "price": 500
         }
        ]
@@ -6797,6 +7659,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -6836,12 +7712,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 14,
-         "driverPrice": 260,
-         "passengerPrice": 220,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-juke_2011-2020_2214吋",
          "price": 480
         }
        ]
@@ -6864,6 +7736,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -6957,6 +7843,20 @@
        "rear": "H354",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -6978,6 +7878,20 @@
        "passenger": 16,
        "rear": "H306",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -7042,6 +7956,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -7068,6 +7996,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -7107,12 +8049,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 16,
-         "driverPrice": 260,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-sentra第七代_02-06_2216吋",
          "price": 500
         }
        ]
@@ -7126,15 +8064,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-sentra第八代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 14,
-         "driverPrice": 300,
-         "passengerPrice": 220,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-sentra第八代13-17_2614吋",
          "price": 520
         }
        ]
@@ -7189,6 +8131,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -7227,12 +8183,8 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 16,
-         "driverPrice": 260,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-tiida第一代06-13_2216吋",
          "price": 500
         }
        ]
@@ -7245,6 +8197,14 @@
        "passenger": 14,
        "rear": "H301",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-tiida第二代第三代通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -7267,6 +8227,14 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-tiida第二代第三代通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -7313,15 +8281,19 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-teana第二代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-nissan-teana第二代09172616吋",
          "price": 540
         }
        ]
@@ -7417,6 +8389,14 @@
        "rear": "H301",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-x-trail",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -7438,6 +8418,14 @@
        "passenger": 16,
        "rear": "H301",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-nissan-x-trail",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -8152,6 +9140,14 @@
        "rear": "H354",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-forester第四代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8244,6 +9240,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-impreza第五代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8300,6 +9304,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-legacy第四代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8321,6 +9333,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-legacy第五代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -8349,6 +9369,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8375,6 +9409,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -8419,10 +9467,16 @@
        "driver": 26,
        "passenger": 19,
        "rear": "H354",
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-outback第二代",
+         "price": 859
+        }
+       ]
       },
       {
        "label": "第三代 (15-)",
@@ -8432,6 +9486,14 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-outback第三代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -8460,6 +9522,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8486,6 +9562,14 @@
        "passenger": 16,
        "rear": "H306",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-subaru-xv",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -8888,6 +9972,20 @@
        "rear": "H250",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8915,6 +10013,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -8936,6 +10048,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -9354,6 +10480,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -9380,6 +10520,20 @@
        "passenger": 16,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -9468,6 +10622,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-camry第三代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -9489,6 +10651,14 @@
        "passenger": 20,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-camry第四代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -9685,6 +10855,14 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-corolla-altis第二代",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -9707,6 +10885,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -9728,6 +10920,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -9756,6 +10962,14 @@
        "rear": "H252",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-corolla-cross",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -9783,6 +10997,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -9809,6 +11037,20 @@
        "passenger": 18,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 18,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -9877,6 +11119,20 @@
        "passenger": 14,
        "rear": "H307",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -10153,6 +11409,20 @@
        "rear": "H400",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -10174,6 +11444,14 @@
        "passenger": 16,
        "rear": "H400",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-prius第三代",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -10236,6 +11514,20 @@
        "rear": null,
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 24,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -10257,6 +11549,20 @@
        "passenger": 20,
        "rear": "H309",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 20,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -10345,6 +11651,14 @@
        "rear": "H252",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-rav4第四代第五代通用款",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -10366,6 +11680,14 @@
        "passenger": 16,
        "rear": "H309",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-rav4第四代第五代通用款",
+         "price": 859
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -10428,10 +11750,22 @@
        "driver": 26,
        "passenger": 19,
        "rear": null,
-       "options": [],
-       "route": {
-        "type": "contact"
-       }
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        }
+       ]
       },
       {
        "label": "第三代 (11-20)",
@@ -10499,6 +11833,20 @@
        "passenger": 14,
        "rear": null,
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
@@ -10700,6 +12048,14 @@
        "rear": "H309",
        "options": [
         {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-wish",
+         "price": 859
+        },
+        {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
@@ -10756,6 +12112,20 @@
        "passenger": 14,
        "rear": "H309",
        "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
