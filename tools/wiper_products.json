@@ -41,7 +41,7 @@
    {
     "option1": "20吋",
     "sku": "3397013329-CM",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 82957310,
     "price": 499.0
@@ -65,7 +65,7 @@
    {
     "option1": "24吋",
     "sku": "3397013332-CM",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 82957313,
     "price": 499.0
@@ -268,7 +268,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI ELANTR-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83077451,
     "price": 859.0
@@ -353,7 +353,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI SANTA FE-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83083245,
     "price": 859.0
@@ -455,7 +455,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI EX35 37",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83092318,
     "price": 859.0
@@ -557,7 +557,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI QX50-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83333104,
     "price": 859.0
@@ -625,7 +625,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS GS",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83337815,
     "price": 859.0
@@ -642,7 +642,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS IS-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83338700,
     "price": 859.0
@@ -659,7 +659,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS IS-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83337909,
     "price": 859.0
@@ -676,7 +676,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS LS-3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83342159,
     "price": 859.0
@@ -710,7 +710,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS LS-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83341829,
     "price": 859.0
@@ -931,7 +931,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA CX-5",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83153863,
     "price": 859.0
@@ -1016,7 +1016,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 3-3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83158113,
     "price": 859.0
@@ -1118,7 +1118,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 6-4",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83159359,
     "price": 859.0
@@ -1152,7 +1152,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI LANCER VIRAGE",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83159693,
     "price": 859.0
@@ -1186,7 +1186,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI OUTLANDER-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83278175,
     "price": 859.0
@@ -1254,7 +1254,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN BLUEBIRD",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83283505,
     "price": 859.0
@@ -1424,7 +1424,7 @@
    {
     "option1": null,
     "sku": "BOSCH SUBARU FORESTER",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83303562,
     "price": 859.0
@@ -1577,7 +1577,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA CAMRY-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83306460,
     "price": 859.0
@@ -1611,7 +1611,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA CAMRY-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83306601,
     "price": 859.0
@@ -1628,7 +1628,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA CAMRY-4",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83306688,
     "price": 859.0
@@ -1764,7 +1764,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA RAV4-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83311402,
     "price": 859.0
@@ -1883,7 +1883,7 @@
    {
     "option1": null,
     "sku": "BOSCH-1",
-    "qty": 47,
+    "qty": 46,
     "available": true,
     "id": 83006360,
     "price": 859.0
