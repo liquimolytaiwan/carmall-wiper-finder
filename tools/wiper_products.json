@@ -90,6 +90,42 @@
   ]
  },
  {
+  "id": 71216889,
+  "handle": "bosch-博世-後擋軟骨雨刷-a301h-12吋",
+  "title": "BOSCH 博世 後擋軟骨雨刷 A301H 12吋",
+  "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a301h-12吋",
+  "price": 655.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "3397016465",
+    "qty": 5,
+    "available": true,
+    "id": 87056486,
+    "price": 655.0
+   }
+  ]
+ },
+ {
+  "id": 71216815,
+  "handle": "bosch-博世-後擋軟骨雨刷-a334h-13吋",
+  "title": "BOSCH 博世 後擋軟骨雨刷 A334H 13吋",
+  "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a334h-13吋",
+  "price": 620.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "3397016387",
+    "qty": 5,
+    "available": true,
+    "id": 87056268,
+    "price": 620.0
+   }
+  ]
+ },
+ {
   "id": 71203048,
   "handle": "bosch-博世-後擋軟骨雨刷-a335h-13吋",
   "title": "BOSCH 博世 後擋軟骨雨刷 A335H 13吋",
@@ -122,6 +158,24 @@
     "available": true,
     "id": 87021509,
     "price": 525.0
+   }
+  ]
+ },
+ {
+  "id": 71222471,
+  "handle": "bosch-博世-後擋軟骨雨刷-am40h-16吋",
+  "title": "BOSCH 博世 後擋軟骨雨刷 AM40H 16吋",
+  "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-am40h-16吋",
+  "price": 550.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "3397016509",
+    "qty": 5,
+    "available": true,
+    "id": 87064763,
+    "price": 550.0
    }
   ]
  },
@@ -3806,60 +3860,6 @@
     "available": true,
     "id": 86950960,
     "price": 500.0
-   }
-  ]
- },
- {
-  "id": 71216889,
-  "handle": "bosch-博世-後擋軟骨雨刷-a301h-12吋",
-  "title": "BOSCH 博世 後擋軟骨雨刷 A301H 12吋",
-  "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a301h-12吋",
-  "price": 655.0,
-  "available": true,
-  "variants": [
-   {
-    "option1": null,
-    "sku": "3397016465",
-    "qty": 5,
-    "available": true,
-    "id": 87056486,
-    "price": 655.0
-   }
-  ]
- },
- {
-  "id": 71222471,
-  "handle": "bosch-博世-後擋軟骨雨刷-am40h-16吋",
-  "title": "BOSCH 博世 後擋軟骨雨刷 AM40H 16吋",
-  "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-am40h-16吋",
-  "price": 550.0,
-  "available": true,
-  "variants": [
-   {
-    "option1": null,
-    "sku": "3397016509",
-    "qty": 5,
-    "available": true,
-    "id": 87064763,
-    "price": 550.0
-   }
-  ]
- },
- {
-  "id": 71216815,
-  "handle": "bosch-博世-後擋軟骨雨刷-a334h-13吋",
-  "title": "BOSCH 博世 後擋軟骨雨刷 A334H 13吋",
-  "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a334h-13吋",
-  "price": 620.0,
-  "available": true,
-  "variants": [
-   {
-    "option1": null,
-    "sku": "3397016387",
-    "qty": 5,
-    "available": true,
-    "id": 87056268,
-    "price": 620.0
    }
   ]
  }
