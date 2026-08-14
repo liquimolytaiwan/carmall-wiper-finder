@@ -21,11 +21,7 @@ body{
   -webkit-font-smoothing:antialiased;
   line-height:1.5;
 }
-.wf{
-  max-width:640px;
-  margin:0 auto;
-  padding:20px 16px 26px;
-}
+.wf{max-width:680px;margin:0 auto;padding:20px 16px 26px}
 /* header */
 .wf-head{margin-bottom:18px}
 .wf-title{
