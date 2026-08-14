@@ -116,6 +116,38 @@ bosch_var=size_variants(bosch_p); hella_var=size_variants(hella_p)
 BOSCH_URL=prod_url(bosch_p,"https://www.carmall.com.tw/products/"+BOSCH_SINGLE_HANDLE)
 HELLA_URL=prod_url(hella_p,"https://www.carmall.com.tw/products/"+HELLA_HANDLE)
 
+# ---------- rear wipers (1支, 專用規格) ----------
+# The finder has always known each car's rear blade code — it comes straight from the
+# catalogue and lives in each row's "rear" field — but until 2026-08 the store sold no
+# rear blades, so the UI could only say "洽客服". Now that it does, the two are joined on
+# that code: the store titles print exactly the code the catalogue prints (H261 / A301H /
+# AM40H …), and the SKU is the full Bosch part number, so no size guessing is involved.
+#
+# Codes are compared as whole tokens, NEVER as substrings: H301 (3397004629) and A301H
+# (3397016465) are different parts and one contains the other.
+REAR_CODE=re.compile(r"\b([A-Z]{1,2}\d{2,3}[A-Z]?)\b")
+REAR_SIZE=re.compile(r"(\d{1,2})\s*吋")
+def rear_stock_ok(p):
+    if not p.get("available"): return False
+    vs=p.get("variants") or []
+    return True if not vs else any(variant_ok(v) for v in vs)
+
+rear_by_code={}; rear_skipped=[]
+for p in prods:
+    t=re.sub(r"<[^>]+>","",p.get("title") or "")
+    if "後擋" not in t and "後檔" not in t: continue
+    cm=REAR_CODE.search(t.replace("BOSCH","").replace("HELLA",""))
+    sm_=REAR_SIZE.search(t)
+    if not cm:
+        rear_skipped.append(("標題找不到規格代碼",p.get("handle"),t)); continue
+    if not rear_stock_ok(p): continue
+    code=cm.group(1).upper()
+    prev=rear_by_code.get(code)
+    if prev and prev["price"]<=int(p["price"]): continue   # same code twice -> keep cheaper
+    rear_by_code[code]={"code":code,"size":int(sm_.group(1)) if sm_ else None,
+                        "price":int(p["price"]),"url":prod_url(p,p.get("url")),
+                        "label":t.strip()}
+
 # ---------- combos (2支/組) ----------
 # Both product lines title their vehicle-specific sets the same way
 # ("… 適用車型 HONDA CIVIC 第九代(12~17)26+18吋"), so a combo must record WHICH line it
@@ -246,6 +278,10 @@ for e in rows:
             if o: opts.append(o)
     e["options"]=opts
     if not opts: e["route"]={"type":"contact"}
+    # Rear blade: exact code match, otherwise the row keeps only "rear" and the UI falls
+    # back to the 洽客服 note it has always shown.
+    ro=rear_by_code.get((e.get("rear") or "").upper())
+    if ro: e["rearOption"]=ro
     for k in ["_brand","_model"]+["_combo_"+L["key"] for L in LINES]: e.pop(k,None)
 
 out_brands=[{"name":bn,"models":[brands[bn]["models"][mn] for mn in brands[bn]["order"]]} for bn in order]
@@ -271,6 +307,20 @@ print(f"rows with 0 options (contact): {sum(1 for e in rows if not e['options'])
 # New vehicle-specific sets get added to the store over time. A set that parses but never
 # lands on a car is invisible on the site and produces no error, so surface it here — this
 # log is the only place a newly-added product that failed to match will show up.
+rear_rows=sum(1 for e in rows if e.get("rearOption"))
+rear_with_code=sum(1 for e in rows if e.get("rear"))
+used_rear={e["rearOption"]["code"] for e in rows if e.get("rearOption")}
+print(f"rear products in stock: {len(rear_by_code)} ({', '.join(sorted(rear_by_code))})")
+print(f"  rows with a rear code: {rear_with_code} | now buyable: {rear_rows}"
+      + (f" ({rear_rows*100//rear_with_code}%)" if rear_with_code else ""))
+rear_unused=sorted(set(rear_by_code)-used_rear)
+if rear_unused:
+    print(f"  配不到任何車的後擋商品：{', '.join(rear_unused)}")
+    print("    → 型錄的通用美日韓那 6 頁沒有這些代碼（多半是歐系件），不是錯誤")
+if rear_skipped:
+    print(f"  ⚠️  略過的後擋商品（標題認不出代碼）：{len(rear_skipped)}")
+    for why,h,t in rear_skipped: print(f"    - [{why}] {t[:70]}  ({h})")
+
 unmatched=[c for c in combos if not c["_used"]]
 if skipped:
     print(f"\n⚠️  略過的組合商品（格式不符，不會出現在查詢器）：{len(skipped)}")

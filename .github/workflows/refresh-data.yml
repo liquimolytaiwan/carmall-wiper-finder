@@ -51,3 +51,16 @@ jobs:
             echo "Push rejected (attempt $n); rebasing onto latest origin/main..."
             git pull --rebase -X theirs origin main
           done
+
+      # fetch_products.py leaves this marker when a product listed in a wiper collection
+      # was never fetched (sitemap lag beyond the collection endpoint's 24-item window).
+      # The refreshed prices above are still worth publishing, so the run is failed here
+      # instead of earlier: data ships, and the red job is what actually gets noticed.
+      - name: Fail if the product catalog was incomplete
+        if: always()
+        run: |
+          if [ -f tools/.fetch_incomplete ]; then
+            echo "::error::這些商品在集合裡但沒抓到，查詢器會少東西："
+            cat tools/.fetch_incomplete
+            exit 1
+          fi

@@ -129,9 +129,24 @@
   }
 
   function rearHtml(e) {
+    // A rear blade is a separate, vehicle-specific part. When the store stocks the exact
+    // code this car needs, offer it; otherwise keep the original 洽客服 note.
+    if (e.rearOption) return rearOptionHtml(e.rearOption);
     if (!e.rear) return "";
     return '<div class="note">' + iconInfo() +
       '<span>此車另有後擋雨刷（' + esc(e.rear) + '）。本商品為前擋通用型，後擋為專用規格，如需後擋雨刷請洽客服</span></div>';
+  }
+
+  function rearOptionHtml(r) {
+    var kind = /軟骨/.test(r.label) ? "軟骨" : (/原廠樣式/.test(r.label) ? "原廠樣式" : "");
+    var name = "BOSCH 後擋專用" + (kind ? " " + kind : "");
+    var sub = (r.size ? r.size + "吋　" : "") + "單支，此車後擋專用規格";
+    return '<div class="opt-title rear">後擋雨刷　<span>此車另有後擋，點選前往購買</span></div>' +
+      '<a class="opt" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
+      '<div class="opt-main"><div class="opt-name">' + esc(name) +
+      '<span class="tag tag-rear">' + esc(r.code) + '</span></div>' +
+      '<div class="opt-sub">' + esc(sub) + '</div></div>' +
+      '<div class="opt-right"><div class="opt-price">$' + r.price + '</div>' + cart() + '</div></a>';
   }
 
   // ---- icons ----
