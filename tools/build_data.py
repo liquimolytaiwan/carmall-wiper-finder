@@ -82,6 +82,65 @@ for p in sorted(glob.glob(os.path.join(BASE,"pages","p*.json"))):
     fit+=json.load(open(p))
 for p in sorted(glob.glob(os.path.join(BASE,"pages","eu-p*.json"))):
     rows=json.load(open(p)); eu_rows+=len(rows); fit+=rows
+
+# sp-p*.json = 型錄「專用雨刷對照表 美日韓車種」(型錄 22-23 頁)。
+# 這些車**已經在查詢器裡**（通用頁把它們列出來但尺寸留白），只是後擋代碼只印在這一段。
+# 所以這裡是「補欄位」不是「加車」—— 直接新增會撞到 dedicated 的去重，
+# 後來的那筆被丟掉，連帶把剛拿到的後擋代碼一起丟掉。
+sp_rows=[]
+for p in sorted(glob.glob(os.path.join(BASE,"pages","sp-p*.json"))):
+    sp_rows+=json.load(open(p))
+# 兩段型錄對同一台車的年份寫法常常差一點（M7 第二代「14-」vs「14-20」、Q30「16」vs「16-22」）。
+# 只比對完全相同的字串會把同一台車當成兩台，下拉選單就出現兩個看起來一樣、結果卻不同的選項。
+# 所以字串對不上時改用「同車廠同車款＋年份區間有重疊」來認人；認不出唯一一台就報出來不猜。
+def yspan(y):
+    ns=[int(x) for x in re.findall(r"\d{2,4}", y or "")]
+    def full(n): return n if n>=1000 else (1900+n if n>=90 else 2000+n)
+    if not ns: return None
+    lo=full(ns[0]); hi=full(ns[1]) if len(ns)>1 else (lo if not re.search(r"\d\s*[-~～]\s*$", y or "") else 9999)
+    if len(ns)==1 and re.search(r"[-~～]", y or ""): hi=9999
+    return (lo,max(lo,hi))
+def overlaps(a,b):
+    sa,sb=yspan(a),yspan(b)
+    return bool(sa and sb and sa[0]<=sb[1] and sb[0]<=sa[1])
+
+# 兩段型錄連車款寫法都會差：「JUKE (第二代)」vs「JUKE 第二代」是同一台車。
+# mkey 去掉標點只留字，pkey 再把括號內容整段拿掉（「MODEL X (噴水接頭)」→「MODEL X」），
+# 兩層都對不到唯一一台才當成新車款。
+def mkey(b,m): return (b.upper().strip(), re.sub(r"[^0-9A-Za-z一-鿿]+","",m or "").upper())
+def pkey(b,m): return mkey(b, re.sub(r"[（(][^（()）]*[)）]"," ",m or ""))
+by_key={}; by_model={}; by_pmodel={}
+for r in fit:
+    by_key.setdefault(nkey(r["brand"],r["model"],r.get("year","")),r)
+    by_model.setdefault(mkey(r["brand"],r["model"]),[]).append(r)
+    by_pmodel.setdefault(pkey(r["brand"],r["model"]),[]).append(r)
+sp_filled=sp_added=sp_conflict=0; sp_unresolved=[]
+def fill_rear(tgt,r):
+    global sp_filled,sp_conflict
+    if not r.get("rear"): return
+    if not tgt.get("rear"):
+        tgt["rear"]=r["rear"]
+        if r.get("rearSize") is not None: tgt["rearSize"]=r["rearSize"]
+        sp_filled+=1
+    elif tgt["rear"]!=r["rear"]:
+        sp_conflict+=1
+        print(f"  ⚠️ 後擋代碼衝突 {r['brand']} {r['model']} {r.get('year')}: "
+              f"既有 {tgt['rear']} vs 專用頁 {r['rear']}（保留既有的）")
+for r in sp_rows:
+    tgt=by_key.get(nkey(r["brand"],r["model"],r.get("year","")))
+    if tgt is not None: fill_rear(tgt,r); continue
+    cands=by_model.get(mkey(r["brand"],r["model"])) or by_pmodel.get(pkey(r["brand"],r["model"])) or []
+    if not cands:                      # 型錄他處根本沒這台車 → 這才是真的新車款
+        fit.append(r)
+        by_key[nkey(r["brand"],r["model"],r.get("year",""))]=r
+        by_model.setdefault(mkey(r["brand"],r["model"]),[]).append(r)
+        by_pmodel.setdefault(pkey(r["brand"],r["model"]),[]).append(r)
+        sp_added+=1; continue
+    hit=[c for c in cands if overlaps(c.get("year",""),r.get("year",""))]
+    if len(hit)==1:
+        fill_rear(hit[0],r)
+    else:
+        sp_unresolved.append((r,[c.get("year","") for c in cands]))
 applied=0
 for r in fit:
     k=nkey(r["brand"],r["model"],r.get("year",""))
@@ -89,6 +148,10 @@ for r in fit:
         c=corr[k]
         if c.get("driver") is not None: r["driver"]=c["driver"]
         if c.get("passenger") is not None: r["passenger"]=c["passenger"]
+        # 型錄把後擋欄位留白、但市場查證確定有對應件時，也走 corrections（例如 KAROQ）。
+        if c.get("rear") is not None:
+            r["rear"]=c["rear"]
+            if c.get("rearSize") is not None: r["rearSize"]=c["rearSize"]
         applied+=1
 
 # ---------- products ----------
@@ -138,6 +201,14 @@ def rear_stock_ok(p):
     vs=p.get("variants") or []
     return True if not vs else any(variant_ok(v) for v in vs)
 
+# Multi-fit rear blades: not vehicle-specific parts, so they can never be reached by code
+# matching and would sit in the "matched no car" list forever. They are offered instead as
+# a same-size substitute when a car's exact part is not stocked.
+# This is an explicit allowlist on purpose — telling a customer a blade fits their car is a
+# promise, so a part only lands here after its multi-fit claim has been checked by a human.
+# AM40H (3397016509) = Bosch multi-clip 400mm, ships with 4 arm adapters.
+MULTIFIT_REAR={"AM40H"}
+
 rear_by_code={}; rear_skipped=[]
 for p in prods:
     t=re.sub(r"<[^>]+>","",p.get("title") or "")
@@ -153,6 +224,12 @@ for p in prods:
     rear_by_code[code]={"code":code,"size":int(sm_.group(1)) if sm_ else None,
                         "price":int(p["price"]),"url":prod_url(p,p.get("url")),
                         "label":t.strip()}
+
+# size -> multi-fit product, used only when the car's own part is not stocked
+rear_multifit={}
+for code in MULTIFIT_REAR:
+    pr=rear_by_code.get(code)
+    if pr and pr.get("size") is not None: rear_multifit[pr["size"]]=pr
 
 # ---------- combos (2支/組) ----------
 # Both product lines title their vehicle-specific sets the same way
@@ -229,6 +306,18 @@ def single_option(brand,label,material,url,var,d,p,pair_promo=None):
         o["listPrice"]=listp; o["price"]=pair_promo["price"]; o["promo"]=True
     return o
 
+def attach_rear(e):
+    """Exact part first; a same-size multi-fit blade only when the exact one is not stocked.
+
+    The substitute is keyed on the size the CATALOGUE prints for that car, never on a size
+    inferred from the part code — inferring it would be exactly the mechanical substitution
+    this project forbids."""
+    ro=rear_by_code.get((e.get("rear") or "").upper())
+    if ro:
+        e["rearOption"]=ro; return
+    alt=rear_multifit.get(e.get("rearSize"))
+    if e.get("rear") and alt: e["rearAlt"]=alt
+
 # ---------- build cascade ----------
 brands={}; order=[]; seen_ded=set(); rows=[]; ded_rows=[]
 for r in fit:
@@ -243,10 +332,14 @@ for r in fit:
         seen_ded.add(dk)
         # A dedicated-front car still has a rear blade we can sell today, so the rear code
         # rides along even though there is no front option to show.
-        entry["rear"]=r.get("rear"); ded_rows.append(entry)
+        entry["rear"]=r.get("rear")
+        if r.get("rearSize") is not None: entry["rearSize"]=r["rearSize"]
+        ded_rows.append(entry)
     else:
         entry["fit"]="universal"; entry["driver"]=r["driver"]; entry["passenger"]=r["passenger"]
-        entry["rear"]=r.get("rear"); entry["_brand"]=brand; entry["_model"]=r["model"]; rows.append(entry)
+        entry["rear"]=r.get("rear")
+        if r.get("rearSize") is not None: entry["rearSize"]=r["rearSize"]
+        entry["_brand"]=brand; entry["_model"]=r["model"]; rows.append(entry)
     if brand not in brands:
         brands[brand]={"name":brand,"models":{},"order":[]}; order.append(brand)
     bb=brands[brand]
@@ -289,14 +382,12 @@ for e in rows:
     if not opts: e["route"]={"type":"contact"}
     # Rear blade: exact code match, otherwise the row keeps only "rear" and the UI falls
     # back to the 洽客服 note it has always shown.
-    ro=rear_by_code.get((e.get("rear") or "").upper())
-    if ro: e["rearOption"]=ro
+    attach_rear(e)
     for k in ["_brand","_model"]+["_combo_"+L["key"] for L in LINES]: e.pop(k,None)
 
 # Dedicated-front rows (歐系全部，加上美日韓的專用接頭車) get the same rear treatment.
 for e in ded_rows:
-    ro=rear_by_code.get((e.get("rear") or "").upper())
-    if ro: e["rearOption"]=ro
+    attach_rear(e)
 
 out_brands=[{"name":bn,"models":[brands[bn]["models"][mn] for mn in brands[bn]["order"]]} for bn in order]
 data={"meta":{"updated":"2026-08-14",
@@ -327,11 +418,23 @@ rear_rows=sum(1 for e in all_rows if e.get("rearOption"))
 rear_with_code=sum(1 for e in all_rows if e.get("rear"))
 used_rear={e["rearOption"]["code"] for e in all_rows if e.get("rearOption")}
 print(f"專用接頭車款列: {len(ded_rows)}（歐系型錄讀進 {eu_rows} 列，同車款同年份會合併）")
+print(f"美日韓專用頁: 補上既有車款的後擋代碼 {sp_filled} 筆、新增 {sp_added} 列"
+      + (f"、代碼衝突 {sp_conflict} 筆" if sp_conflict else ""))
+if sp_unresolved:
+    print(f"  ⚠️ 對不到唯一一台車、已略過（沒有猜）：{len(sp_unresolved)}")
+    for r,yrs in sp_unresolved:
+        print(f"    - {r['brand']} {r['model']} {r.get('year')}"
+              f"（後擋 {r.get('rear') or '無'}）｜型錄他處同車款年份：{yrs}")
 print(f"rear products in stock: {len(rear_by_code)} ({', '.join(sorted(rear_by_code))})")
 print(f"  rows with a rear code: {rear_with_code} | now buyable: {rear_rows}"
       + (f" ({rear_rows*100//rear_with_code}%)" if rear_with_code else ""))
 print(f"    其中通用美日韓 {sum(1 for e in rows if e.get('rearOption'))}"
       f" / 專用（含歐系）{sum(1 for e in ded_rows if e.get('rearOption'))}")
+alt_rows=sum(1 for e in all_rows if e.get("rearAlt"))
+if rear_multifit:
+    print(f"  多用途替代款: {', '.join(sorted(MULTIFIT_REAR))} → 補上 {alt_rows} 個"
+          f"「專用款沒貨但尺寸相同」的車款列")
+used_rear|={e["rearAlt"]["code"] for e in all_rows if e.get("rearAlt")}
 rear_unused=sorted(set(rear_by_code)-used_rear)
 if rear_unused:
     print(f"  配不到任何車的後擋商品：{', '.join(rear_unused)}")

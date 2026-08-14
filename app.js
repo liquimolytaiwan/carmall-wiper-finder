@@ -134,6 +134,7 @@
     // A rear blade is a separate, vehicle-specific part. When the store stocks the exact
     // code this car needs, offer it; otherwise keep the original 洽客服 note.
     if (e.rearOption) return rearOptionHtml(e.rearOption);
+    if (e.rearAlt) return rearAltHtml(e);
     if (!e.rear) return "";
     // Wording differs by row type: a dedicated-front car has no 通用型 front product to
     // refer to, so the universal copy would be describing a product that isn't on screen.
@@ -141,6 +142,21 @@
       ? '此車另有後擋雨刷（' + esc(e.rear) + '），為專用規格，目前尚未供應，請洽客服協助選購'
       : '此車另有後擋雨刷（' + esc(e.rear) + '）。本商品為前擋通用型，後擋為專用規格，如需後擋雨刷請洽客服';
     return '<div class="note">' + iconInfo() + '<span>' + msg + '</span></div>';
+  }
+
+  // Substitute, not the car's own part — so it says so, on the card and again underneath.
+  // Overstating this is how someone ends up with a blade that won't clip on.
+  function rearAltHtml(e) {
+    var r = e.rearAlt;
+    return '<div class="opt-title rear">後擋雨刷　<span>原廠專用款缺貨，以下為同尺寸替代方案</span></div>' +
+      '<a class="opt" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
+      '<div class="opt-main"><div class="opt-name">BOSCH 後擋多用途款' +
+      '<span class="tag tag-alt">替代</span></div>' +
+      '<div class="opt-sub">' + esc(r.size + "吋　單支，附轉接頭") + '</div></div>' +
+      '<div class="opt-right"><div class="opt-price">$' + r.price + '</div>' + cart() + '</div></a>' +
+      '<div class="note">' + iconAlert() + '<span>此車原廠專用規格為 ' + esc(e.rear) +
+      '（' + esc(String(e.rearSize)) + '吋），目前缺貨。上方為同尺寸多用途款，<b>不是原車專用件</b>，' +
+      '購買前請先確認雨刷臂的接頭型式，不確定請洽客服</span></div>';
   }
 
   function rearOptionHtml(r) {

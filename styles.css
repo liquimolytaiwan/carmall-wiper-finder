@@ -133,6 +133,8 @@ body{
 .tag-mat{background:#f0eee6;color:#7a6a3a}
 .tag-promo{background:#fdecec;color:var(--sale)}
 .tag-rear{background:#e8eef8;color:#2b2b6e}
+.tag-alt{background:#fdf3e3;color:#8a6415}
+.note b{color:var(--ink)}
 .opt-title.rear{margin-top:16px}
 /* rear / info notes */
 .note{
