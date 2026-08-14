@@ -389,7 +389,22 @@ for e in rows:
 for e in ded_rows:
     attach_rear(e)
 
-out_brands=[{"name":bn,"models":[brands[bn]["models"][mn] for mn in brands[bn]["order"]]} for bn in order]
+# 顯示用中文名。**只加欄位，不動 name** —— brands[].name / models[].name 是跨專案的鍵，
+# carmall-blog-automation 的 vehicles.py 靠它比對車款，改名等於打壞別人的資料契約
+# （2026-08-06 已經因此壞過一次）。
+zh={}
+zpath=os.path.join(BASE,"brand_names.json")
+if os.path.exists(zpath):
+    zh={k:v for k,v in json.load(open(zpath)).items() if not k.startswith("_")}
+missing_zh=sorted(b for b in brands if b not in zh)
+
+# 2026-08-14 Jerry 指定：車廠與車款都照英文字母排序（原本是型錄出現順序）。
+# 年份選項不排 —— 那是世代順序，照字母排會變成亂序。
+# casefold 而不是預設排序：預設是照碼位排，大寫字母全部排在小寫前面，
+# HYUNDAI 的 i10／i30 會掉到 VERNA 後面、BMW 的 i3／i4 會掉到所有大寫車款後面。
+out_brands=[{"name":bn,"tw":zh.get(bn,""),
+             "models":[brands[bn]["models"][mn] for mn in sorted(brands[bn]["order"], key=str.casefold)]}
+            for bn in sorted(order, key=str.casefold)]
 data={"meta":{"updated":"2026-08-14",
               "source":"BOSCH 2026 雨刷型錄（通用美日韓＋專用歐系）＋市場查證校正",
               "lines":["BOSCH 通用軟骨 旗艦款","HELLA 三節式 Hybrid"]},
@@ -400,6 +415,8 @@ json.dump(data,open(OUT,"w"),ensure_ascii=False,indent=1)
 def has(line): return sum(1 for e in rows for o in e["options"] if o["brand"]==line)
 def ncombo(line): return sum(1 for e in rows for o in e["options"]
                             if o["brand"]==line and o["kind"]=="combo")
+print(f"車廠中文名: {sum(1 for b in brands if zh.get(b))}/{len(brands)} 有中文"
+      + (f"｜brand_names.json 沒收錄: {missing_zh}" if missing_zh else ""))
 print(f"corrections applied: {applied}")
 print(f"BOSCH single-product variants: {sorted(bosch_var)} | HELLA variants: {sorted(hella_var)}")
 print(f"combo products parsed: " + " ".join(

@@ -17,6 +17,10 @@
   }
   function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]; }); }
+  // Display name = English + the Taiwanese name when there is one. The English name stays
+  // the option VALUE and the lookup key — it is what data.json and the blog automation
+  // both key on, so only what the eye sees changes here.
+  function disp(o){ return o && o.tw ? o.name + " " + o.tw : (o ? o.name : ""); }
 
   // ---- load data ----
   fetch("data.json", { cache: "no-cache" })
@@ -24,7 +28,7 @@
     .then(function (d) {
       DATA = d;
       clearSelect(elBrand, "請選擇車廠");
-      d.brands.forEach(function (b) { elBrand.appendChild(opt(b.name, b.name)); });
+      d.brands.forEach(function (b) { elBrand.appendChild(opt(b.name, disp(b))); });
       postHeight();
     })
     .catch(function (e) {
@@ -41,7 +45,7 @@
     elYear.disabled = true;
     var b = findBrand(elBrand.value);
     if (!b) { elModel.disabled = true; postHeight(); return; }
-    b.models.forEach(function (m) { elModel.appendChild(opt(m.name, m.name)); });
+    b.models.forEach(function (m) { elModel.appendChild(opt(m.name, disp(m))); });
     elModel.disabled = false;
     postHeight();
   });
@@ -68,7 +72,8 @@
   // ---- render result ----
   function render(e, modelName) {
     var brand = elBrand.value;
-    var head = '<div class="rc-top"><div class="rc-veh">' + esc(brand + " " + modelName) +
+    var head = '<div class="rc-top"><div class="rc-veh">'
+      + esc(disp(findBrand(brand)) + " " + disp(findModel(brand, modelName))) +
       '<small>' + esc(e.label) + '</small></div></div>';
 
     if (e.fit === "dedicated") {
