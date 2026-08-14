@@ -1,0 +1,45 @@
+[
+ {"brand": "LAND ROVER", "model": "EVOQUE I", "year": "11-19", "driver": null, "passenger": null, "rear": null},
+ {"brand": "LAND ROVER", "model": "EVOQUE II", "year": "19-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "LAND ROVER", "model": "DEFENDER 90 / 110", "year": "04-09", "driver": null, "passenger": null, "rear": "H340", "rearSize": 13},
+ {"brand": "LAND ROVER", "model": "DEFENDER 110", "year": "21-", "driver": null, "passenger": null, "rear": "A334H", "rearSize": 12},
+
+ {"brand": "MASERATI", "model": "GHIBLI", "year": "13-22", "driver": null, "passenger": null, "rear": null},
+ {"brand": "MASERATI", "model": "LEVANTE", "year": "16-22", "driver": null, "passenger": null, "rear": null},
+ {"brand": "MASERATI", "model": "QUATTROPORTE", "year": "13-20", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "MINI", "model": "MINI (R50 / R52 / R53 / R56)", "year": "01-13", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "MINI", "model": "MINI (F55 / F56)", "year": "13-", "driver": null, "passenger": null, "rear": "H240", "rearSize": 10},
+ {"brand": "MINI", "model": "MINI CABRIO (R57)", "year": "12-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "MINI", "model": "MINI CABRIO (R57)", "year": "16-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "MINI", "model": "CLUBMAN (R55)", "year": "07-12", "driver": null, "passenger": null, "rear": "A280H", "rearSize": 11},
+ {"brand": "MINI", "model": "CLUBMAN (R55)", "year": "12-14", "driver": null, "passenger": null, "rear": "A280H", "rearSize": 11},
+ {"brand": "MINI", "model": "CLUBMAN (F54)", "year": "15-", "driver": null, "passenger": null, "rear": "H250", "rearSize": 10},
+ {"brand": "MINI", "model": "COUPE (R58 / R59)", "year": "11-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "MINI", "model": "COUNTRYMAN (R60)", "year": "10-17", "driver": null, "passenger": null, "rear": "H240", "rearSize": 10},
+ {"brand": "MINI", "model": "COUNTRYMAN (F60)", "year": "17-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "MG", "model": "HS", "year": "22-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "MG", "model": "ZS", "year": "23-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "OPEL", "model": "ASTRA", "year": "04-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "OPEL", "model": "ASTRA", "year": "09-15", "driver": null, "passenger": null, "rear": "H311", "rearSize": 12},
+ {"brand": "OPEL", "model": "ASTRA", "year": "15-20", "driver": null, "passenger": null, "rear": null},
+ {"brand": "OPEL", "model": "ASTRA", "year": "23-", "driver": null, "passenger": null, "rear": "A251H", "rearSize": 10},
+ {"brand": "OPEL", "model": "CORSA", "year": "00-06", "driver": null, "passenger": null, "rear": "H402", "rearSize": 16},
+ {"brand": "OPEL", "model": "CORSA", "year": "06-14", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "OPEL", "model": "CORSA", "year": "14-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "OPEL", "model": "INSIGNIA", "year": "10-17", "driver": null, "passenger": null, "rear": null},
+ {"brand": "OPEL", "model": "MOKKA", "year": "23-", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "OPEL", "model": "VECTRA", "year": "03-08", "driver": null, "passenger": null, "rear": null},
+ {"brand": "OPEL", "model": "ZAFIRA", "year": "00-05", "driver": null, "passenger": null, "rear": "H402", "rearSize": 16},
+ {"brand": "OPEL", "model": "ZAFIRA", "year": "05-12", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "OPEL", "model": "ZAFIRA", "year": "12-", "driver": null, "passenger": null, "rear": "H357", "rearSize": 14},
+
+ {"brand": "PEUGEOT", "model": "107", "year": "05-14", "driver": null, "passenger": null, "rear": "H300", "rearSize": 12},
+ {"brand": "PEUGEOT", "model": "1007", "year": "05-11", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "PEUGEOT", "model": "206", "year": "00-07", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "PEUGEOT", "model": "207", "year": "06-12", "driver": null, "passenger": null, "rear": "H406", "rearSize": 16},
+ {"brand": "PEUGEOT", "model": "208", "year": "12-", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "PEUGEOT", "model": "2008", "year": "13-", "driver": null, "passenger": null, "rear": "H840", "rearSize": 12}
+]

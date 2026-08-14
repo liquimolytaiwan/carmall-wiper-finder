@@ -1,0 +1,45 @@
+[
+ {"brand": "CITROEN", "model": "DS3", "year": "10-15", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "CITROEN", "model": "DS4", "year": "11-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CITROEN", "model": "DS5", "year": "12-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CITROEN", "model": "XSARA PICASSO", "year": "00-05", "driver": null, "passenger": null, "rear": "H402", "rearSize": 16},
+ {"brand": "CITROEN", "model": "XSARA PICASSO", "year": "05-10", "driver": null, "passenger": null, "rear": "H402", "rearSize": 16},
+
+ {"brand": "FIAT", "model": "GRAND PUNTO", "year": "05-09", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "FIAT", "model": "PANDA", "year": "90-03", "driver": null, "passenger": null, "rear": "H340", "rearSize": 13},
+ {"brand": "FIAT", "model": "PANDA", "year": "03-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "FIAT", "model": "500 / 500C", "year": "12-15", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "FIAT", "model": "500X", "year": "14-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "JAGUAR", "model": "E-PACE", "year": "18-", "driver": null, "passenger": null, "rear": "A310H", "rearSize": 13},
+ {"brand": "JAGUAR", "model": "F-PACE", "year": "16-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "F-TYPE", "year": "14-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "I-PACE", "year": "19-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "S-TYPE", "year": "00-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "X-TYPE", "year": "01-12", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "XE", "year": "15-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "XF", "year": "08-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "XF", "year": "15-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "XJ-6 / XJ-8", "year": "03-10", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "XJ", "year": "10-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JAGUAR", "model": "XK", "year": "06-14", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "JEEP", "model": "GRAND CHEROKEE", "year": "99-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "JEEP", "model": "WRANGLER", "year": "07-", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+
+ {"brand": "LANCIA", "model": "YPSILON", "year": "03-11", "driver": null, "passenger": null, "rear": null},
+ {"brand": "LANCIA", "model": "YPSILON", "year": "11-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "LAND ROVER", "model": "DISCOVERY II", "year": "98-04", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "LAND ROVER", "model": "DISCOVERY III", "year": "04-09", "driver": null, "passenger": null, "rear": "H403", "rearSize": 16},
+ {"brand": "LAND ROVER", "model": "DISCOVERY IV", "year": "09-16", "driver": null, "passenger": null, "rear": "H403", "rearSize": 16},
+ {"brand": "LAND ROVER", "model": "DISCOVERY V", "year": "17-", "driver": null, "passenger": null, "rear": "A333H", "rearSize": 13},
+ {"brand": "LAND ROVER", "model": "FREELANDER I", "year": "97-07", "driver": null, "passenger": null, "rear": null},
+ {"brand": "LAND ROVER", "model": "FREELANDER II", "year": "06-15", "driver": null, "passenger": null, "rear": "H340", "rearSize": 13},
+ {"brand": "LAND ROVER", "model": "RANGE ROVER II & III", "year": "02-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "LAND ROVER", "model": "RANGE ROVER IV", "year": "13-16", "driver": null, "passenger": null, "rear": "H426", "rearSize": 17},
+ {"brand": "LAND ROVER", "model": "RANGE ROVER IV", "year": "17-", "driver": null, "passenger": null, "rear": "A425H", "rearSize": 17},
+ {"brand": "LAND ROVER", "model": "RANGE ROVER VELAR", "year": "18-", "driver": null, "passenger": null, "rear": "A334H", "rearSize": 12},
+ {"brand": "LAND ROVER", "model": "RANGE ROVER SPORT I", "year": "05-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "LAND ROVER", "model": "RANGE ROVER SPORT II", "year": "13-", "driver": null, "passenger": null, "rear": null}
+]

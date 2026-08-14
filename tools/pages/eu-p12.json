@@ -1,0 +1,44 @@
+[
+ {"brand": "AUDI", "model": "A7 / S7 (S7 / RS7 4.0 V8 Sportback)", "year": "11-19", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A7 / S7 (2.0 Sporkback)", "year": "20-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "A8 / S8 第二代 (3.7)", "year": "02-05", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第二代 (4.2)", "year": "02-05", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第二代 (3)", "year": "02-05", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第二代 (3.2)", "year": "02-05", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第三代 (3.0 / 3.2 V6)", "year": "05-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第三代 (3.7 / 4.2 V8)", "year": "05-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第三代 (6.0 W12)", "year": "05-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第三代 (S8 5.2 V8)", "year": "05-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第四代 (3.0 / 4.2 V6)", "year": "10-18", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第四代 (4.0 V8)", "year": "10-18", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第四代 (6.3 W12)", "year": "10-18", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第四代 (S8 4.0 V8)", "year": "13-18", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A8 / S8 第五代 (3.0 V6)", "year": "19-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "Q etron (SUV)", "year": "20-", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 12},
+ {"brand": "AUDI", "model": "Q2 (1.0 / 1.4 / 2.0 GAB)", "year": "18-", "driver": null, "passenger": null, "rear": "A331H", "rearSize": 13},
+ {"brand": "AUDI", "model": "Q3 (1.4 / 2.0 8UB)", "year": "11-18", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+ {"brand": "AUDI", "model": "Q3 (F3B)", "year": "19-24", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "AUDI", "model": "RS Q3 (2.5)", "year": "16-18", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+ {"brand": "AUDI", "model": "Q5 (2.0 / 3.0 8RB)", "year": "12-17", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "AUDI", "model": "Q5 (2.0 / 3.0 FYB)", "year": "17-24", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "SQ5 (8RB)", "year": "13-17", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "AUDI", "model": "SQ5 (FYB)", "year": "17-24", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "Q7 (4LB)", "year": "06-14", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "Q7 (4MB)", "year": "16-", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "SQ7 (4MB)", "year": "18-", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "Q8 (4MN)", "year": "20-", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+
+ {"brand": "AUDI", "model": "R8 (5.2 V10)", "year": "08-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "R8 (5.2 V10)", "year": "15-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "TT (8N3 / 8N9)", "year": "03-06", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "TT (8J3 / 8J9)", "year": "06-14", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "TT (FV3 / FV9)", "year": "15-19", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "1 Series (E81 / E82 / E87 / E88)", "year": "04-10", "driver": null, "passenger": null, "rear": "A280H", "rearSize": 11},
+ {"brand": "BMW", "model": "1 Series (F20 / F21)", "year": "11-19", "driver": null, "passenger": null, "rear": "H306", "rearSize": 12},
+ {"brand": "BMW", "model": "1 Series (F40)", "year": "20-24", "driver": null, "passenger": null, "rear": "A351H", "rearSize": 14},
+ {"brand": "BMW", "model": "1 Series (F70)", "year": "25-", "driver": null, "passenger": null, "rear": "A351H", "rearSize": 14}
+]

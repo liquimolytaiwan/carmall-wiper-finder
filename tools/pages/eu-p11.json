@@ -1,0 +1,36 @@
+[
+ {"brand": "AUDI", "model": "A4 / S4 (1.6 / 1.8 / 2.4 / 2.8)", "year": "94-99", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A4 / S4 第三代 8V (1.8 T / 1.8 T Avant)", "year": "00-08", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A4 / S4 第三代 8V (2.0 / 2.4 / 3.0 / 3.2)", "year": "00-08", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A4 / S4 第三代 8V (2.0 / 2.4 / 3.0 / 3.2 Avant)", "year": "00-08", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A4 / S4 第四代 B8 / 8K (1.8 / 2.0)", "year": "08-16", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A4 / S4 第四代 B8 / 8K (S4 / S4 3.0 Avant)", "year": "10-14", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A4 / S4 第四代 B8 / 8K (RS4 4.2 Avant)", "year": "13-15", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A4 / S4 第五代 (1.4 / 2.0)", "year": "16-23", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A4 / S4 第五代 (1.4 / 2.0 Avant)", "year": "16-23", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "A4 / S4 第五代 (S4 / RS4 3.0)", "year": "16-23", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A4 / S4 第五代 (S4 / RS4 3.0 Avant)", "year": "16-23", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+
+ {"brand": "AUDI", "model": "A5 / S5 第一代 (1.8 / 2.0 / 3.0 / 3.2)", "year": "09-16", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A5 / S5 第一代 (1.8 / 2.0 / 3.0 / 3.2 Sportback)", "year": "09-16", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A5 / S5 第一代 (S5 / RS5 3.0 / 4.2 sportback)", "year": "09-16", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A5 / S5 第二代 (1.8 / 2.0 / 3.0 / 3.2)", "year": "17-19", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A5 / S5 第二代 (1.8 / 2.0 / 3.0 / 3.2 Sportback)", "year": "17-19", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "A6 / S6 (1.8 T)", "year": "97-01", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 (1.8 T / 2.4 / 2.7 / 3.0)", "year": "01-04", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 (S6 4.2 V8)", "year": "03-04", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 第三代 (2.0 / 2.4 / 2.8 / 3.0 / 3.2 V6)", "year": "04-11", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 第三代 (S6 4.2 V8)", "year": "04-11", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 第三代 (S6 3.0 Avant V6)", "year": "07-11", "driver": null, "passenger": null, "rear": "H383", "rearSize": 15},
+ {"brand": "AUDI", "model": "A6 / S6 第三代 (RS6 4.2 Avant V8)", "year": "04-05", "driver": null, "passenger": null, "rear": "H383", "rearSize": 15},
+ {"brand": "AUDI", "model": "A6 / S6 第三代 (RS6 5.0 Avant V10)", "year": "09-11", "driver": null, "passenger": null, "rear": "H383", "rearSize": 15},
+ {"brand": "AUDI", "model": "A6 / S6 第四代 (2.0 / 2.8 / 3.0)", "year": "11-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 第四代 (1.8 / 2.0)", "year": "15-19", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A6 / S6 第四代 (2.0 / 3.0 Avant)", "year": "12-15", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+ {"brand": "AUDI", "model": "A6 / S6 第四代 (1.8 / 2.0 Avant)", "year": "15-19", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+ {"brand": "AUDI", "model": "A6 / S6 第四代 (S6 / RS6 4.0 Avant V8)", "year": "13-19", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+ {"brand": "AUDI", "model": "A6 / S6 第五代 (2.0 Avant C8)", "year": "19-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "A7 / S7 (2.8 / 3.0 V6 Sportback)", "year": "11-19", "driver": null, "passenger": null, "rear": null}
+]

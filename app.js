@@ -72,11 +72,13 @@
       '<small>' + esc(e.label) + '</small></div></div>';
 
     if (e.fit === "dedicated") {
-      elResult.innerHTML = '<div class="rc">' + head +
+      // Front is a dedicated-fitting blade the store does not carry yet. The rear is a
+      // separate part, so if we stock this car's rear code it is still offered here.
+      elResult.innerHTML = '<div class="rc">' + head + '<div class="rc-body">' +
         '<div class="state">' + iconWrench() +
         '<h3>此車型前擋需使用「專用型雨刷」</h3>' +
-        '<p>原廠通用型雨刷不適用於此車型。<br>專用型雨刷即將推出，或請洽客服協助選購</p>' +
-        '</div></div>';
+        '<p>原廠通用型雨刷不適用於此車型。<br>專用型雨刷即將上市，敬請期待</p>' +
+        '</div>' + rearHtml(e) + '</div></div>';
       elResult.hidden = false; postHeight(); return;
     }
 
@@ -133,8 +135,12 @@
     // code this car needs, offer it; otherwise keep the original 洽客服 note.
     if (e.rearOption) return rearOptionHtml(e.rearOption);
     if (!e.rear) return "";
-    return '<div class="note">' + iconInfo() +
-      '<span>此車另有後擋雨刷（' + esc(e.rear) + '）。本商品為前擋通用型，後擋為專用規格，如需後擋雨刷請洽客服</span></div>';
+    // Wording differs by row type: a dedicated-front car has no 通用型 front product to
+    // refer to, so the universal copy would be describing a product that isn't on screen.
+    var msg = e.fit === "dedicated"
+      ? '此車另有後擋雨刷（' + esc(e.rear) + '），為專用規格，目前尚未供應，請洽客服協助選購'
+      : '此車另有後擋雨刷（' + esc(e.rear) + '）。本商品為前擋通用型，後擋為專用規格，如需後擋雨刷請洽客服';
+    return '<div class="note">' + iconInfo() + '<span>' + msg + '</span></div>';
   }
 
   function rearOptionHtml(r) {

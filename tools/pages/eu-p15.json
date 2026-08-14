@@ -1,0 +1,45 @@
+[
+ {"brand": "BENZ", "model": "B Class (W246)", "year": "12-15", "driver": null, "passenger": null, "rear": "H261", "rearSize": 10},
+ {"brand": "BENZ", "model": "B Class (W246)", "year": "15-18", "driver": null, "passenger": null, "rear": "H261", "rearSize": 10},
+ {"brand": "BENZ", "model": "B Class (W247)", "year": "19-", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+
+ {"brand": "BENZ", "model": "C Class (W202)", "year": "93-00", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "C Class (W203)", "year": "00-04", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "C Class (W203)", "year": "04-07", "driver": null, "passenger": null, "rear": "H382", "rearSize": 15},
+ {"brand": "BENZ", "model": "C Class (W204)", "year": "07-08", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "BENZ", "model": "C Class (W204)", "year": "09-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "C Class (W204)", "year": "13-14", "driver": null, "passenger": null, "rear": "H840", "rearSize": 14},
+ {"brand": "BENZ", "model": "C Class (W205)", "year": "13-14", "driver": null, "passenger": null, "rear": "A275H", "rearSize": 10},
+ {"brand": "BENZ", "model": "C Class (W205)", "year": "14-", "driver": null, "passenger": null, "rear": "A275H", "rearSize": 10},
+ {"brand": "BENZ", "model": "C Class (W206)", "year": "21-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "C Class Coupe (W204)", "year": "11-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "C Class Coupe (W205)", "year": "15-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "C Class Coupe (W206)", "year": "21-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "CL Class (C215)", "year": "99-06", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "CL Class (C216)", "year": "06-14", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "CLA (C117 / X117)", "year": "12-15", "driver": null, "passenger": null, "rear": "A275H", "rearSize": 14},
+ {"brand": "BENZ", "model": "CLA (C117 / X117)", "year": "15-19", "driver": null, "passenger": null, "rear": "A275H", "rearSize": 14},
+ {"brand": "BENZ", "model": "CLA (C118)", "year": "20-", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "BENZ", "model": "CLC (W203)", "year": "08-11", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "CLK (W209)", "year": "02-10", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "CLE (C236)", "year": "23-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "CLS (W219)", "year": "04-11", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "CLS Coupe (W218 / X218)", "year": "10-14", "driver": null, "passenger": null, "rear": "A333H", "rearSize": 13},
+ {"brand": "BENZ", "model": "CLS Coupe (W218 / X218)", "year": "14-", "driver": null, "passenger": null, "rear": "A333H", "rearSize": 13},
+ {"brand": "BENZ", "model": "CLS Coupe (C257)", "year": "18-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "E Class (W210)", "year": "95-03", "driver": null, "passenger": null, "rear": "H400", "rearSize": 16},
+ {"brand": "BENZ", "model": "E Class (W211)", "year": "02-09", "driver": null, "passenger": null, "rear": "H420", "rearSize": 17},
+ {"brand": "BENZ", "model": "E Class (W212)", "year": "09-14", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "E Class (W212)", "year": "14-16", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "E Class (W213)", "year": "16-23", "driver": null, "passenger": null, "rear": "A301H", "rearSize": 12},
+ {"brand": "BENZ", "model": "E Class (W214)", "year": "24-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "E Class Coupe (W207)", "year": "09-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "E Class Coupe (W207)", "year": "13-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "E Class Coupe (C238)", "year": "13-17", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "G Class (W461 / W462)", "year": "89-18", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "G Class (W463)", "year": "19-", "driver": null, "passenger": null, "rear": "H380", "rearSize": 15}
+]

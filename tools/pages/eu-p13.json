@@ -1,0 +1,44 @@
+[
+ {"brand": "BMW", "model": "2 Series (F22 / F23)", "year": "14-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "2 Series (F44)", "year": "19-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "2 Series (F45)", "year": "14-", "driver": null, "passenger": null, "rear": "H306", "rearSize": 12},
+ {"brand": "BMW", "model": "2 Series (F46)", "year": "14-", "driver": null, "passenger": null, "rear": "A282H", "rearSize": 11},
+ {"brand": "BMW", "model": "2 Series (F74)", "year": "25-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "2 Series (G42 / G43)", "year": "21-24", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "3 Series (E90)", "year": "05-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "3 Series (E91 Touring)", "year": "05-09", "driver": null, "passenger": null, "rear": "A340H", "rearSize": 13},
+ {"brand": "BMW", "model": "3 Series (F31 Touring)", "year": "09-13", "driver": null, "passenger": null, "rear": "A340H", "rearSize": 13},
+ {"brand": "BMW", "model": "3 Series (E92 / E93)", "year": "06-10", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "3 Series (E92 / E93)", "year": "10-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "3 Series (F30 / F31 / F34)", "year": "12-19", "driver": null, "passenger": null, "rear": "A281H", "rearSize": 11},
+ {"brand": "BMW", "model": "3 Series (G20)", "year": "19-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "3 Series (G21 Touring)", "year": "19-", "driver": null, "passenger": null, "rear": "A280H", "rearSize": 11},
+
+ {"brand": "BMW", "model": "4 Series (F32 / F33 / F36)", "year": "14-20", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "4 Series (G22 / G23)", "year": "21-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "5 Series (E39)", "year": "95-04", "driver": null, "passenger": null, "rear": "H425", "rearSize": 17},
+ {"brand": "BMW", "model": "5 Series (E60 / E61)", "year": "04-08", "driver": null, "passenger": null, "rear": "H753", "rearSize": 15},
+ {"brand": "BMW", "model": "5 Series (F07)", "year": "09-17", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "5 Series (F10 / F11)", "year": "09-17", "driver": null, "passenger": null, "rear": "A351H", "rearSize": 14},
+ {"brand": "BMW", "model": "5 Series (G30 / G31)", "year": "17-23", "driver": null, "passenger": null, "rear": "A351H", "rearSize": 14},
+ {"brand": "BMW", "model": "5 Series (G60 / G61)", "year": "24-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "6 Series (E63 / E64)", "year": "04-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "6 Series (F12 / F13 / F06)", "year": "11-17", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "6 Series (G32)", "year": "17-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "7 Series (E38)", "year": "95-01", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "7 Series (E65 / E66)", "year": "01-05", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "7 Series (F01 / F02 / F04)", "year": "08-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "7 Series (G11 / G12)", "year": "16-23", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BMW", "model": "7 Series (G70)", "year": "24-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "8 Series (G14 / G15 / G16)", "year": "19-", "driver": null, "passenger": null, "rear": "H306", "rearSize": 12},
+
+ {"brand": "BMW", "model": "i3 (i01)", "year": "13-", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "BMW", "model": "i4", "year": "21-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BMW", "model": "M2 (F87)", "year": "16-21", "driver": null, "passenger": null, "rear": null}
+]

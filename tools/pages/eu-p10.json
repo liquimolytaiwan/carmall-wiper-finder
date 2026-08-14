@@ -1,0 +1,38 @@
+[
+ {"brand": "ALFA ROMEO", "model": "159 / 159 SPORTWAGON", "year": "05-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "ALFA ROMEO", "model": "166", "year": "98-07", "driver": null, "passenger": null, "rear": null},
+ {"brand": "ALFA ROMEO", "model": "BRERA", "year": "06-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "ALFA ROMEO", "model": "GT / 147GT", "year": "05-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "ALFA ROMEO", "model": "MITO", "year": "10-", "driver": null, "passenger": null, "rear": "A301H", "rearSize": 12},
+ {"brand": "ALFA ROMEO", "model": "SPIDER", "year": "06-10", "driver": null, "passenger": null, "rear": null},
+ {"brand": "ALFA ROMEO", "model": "STELVIO", "year": "18-", "driver": null, "passenger": null, "rear": "A310H", "rearSize": 12},
+ {"brand": "ALFA ROMEO", "model": "GIULIETTA", "year": "14-17", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "ALFA ROMEO", "model": "GIULIA", "year": "17-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "A1 / S1 (A1)", "year": "10-15", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "A1 / S1 (A1 sportback)", "year": "11-15", "driver": null, "passenger": null, "rear": "A282H", "rearSize": 11},
+ {"brand": "AUDI", "model": "A1 / S1 (S1)", "year": "14-19", "driver": null, "passenger": null, "rear": "A360H", "rearSize": 15},
+ {"brand": "AUDI", "model": "A1 / S1 (S1 Sportback)", "year": "14-19", "driver": null, "passenger": null, "rear": "A282H", "rearSize": 11},
+ {"brand": "AUDI", "model": "A1 / S1 (A1 sportback)", "year": "19-", "driver": null, "passenger": null, "rear": "A282H", "rearSize": 11},
+
+ {"brand": "AUDI", "model": "A2", "year": "01-05", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "AUDI", "model": "A3 / S3 (1.6 / 1.8 / 1.8T)", "year": "96-03", "driver": null, "passenger": null, "rear": "H380", "rearSize": 15},
+ {"brand": "AUDI", "model": "A3 / S3 (1.6 / 1.8 / 2.0 FSI)", "year": "03-04", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第一代 (1.6)", "year": "04-09", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A3 / S3 第一代 (1.8 TFSI Sportback)", "year": "04-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第一代 (2.0 TFSI Sportback)", "year": "04-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第一代 (2.0 FSI)", "year": "04-09", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A3 / S3 第一代 (2.0 TDI Sportback)", "year": "04-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第一代 (3.2 Sportback quattro)", "year": "04-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第二代 8PA (1.4 TFSI)", "year": "09-13", "driver": null, "passenger": null, "rear": "H772", "rearSize": 13},
+ {"brand": "AUDI", "model": "A3 / S3 第二代 8PA (2.0 TFSI Sportback)", "year": "09-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第二代 8PA (TDI Sportback)", "year": "09-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第二代 8PA (S3 2.0 TFSI quattro)", "year": "09-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第三代 8V (1.4 TFSI Sportlimousine)", "year": "12-19", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "AUDI", "model": "A3 / S3 第三代 8V (1.8 FSI)", "year": "12-19", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "AUDI", "model": "A3 / S3 第三代 8V (2.0 TDI Sportback)", "year": "12-19", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "AUDI", "model": "A3 / S3 第三代 8V (1.4 TSI)", "year": "-19", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第三代 8V (2.0 Sporkback)", "year": "-19", "driver": null, "passenger": null, "rear": null},
+ {"brand": "AUDI", "model": "A3 / S3 第四代 (Sportback 8YA)", "year": "20-", "driver": null, "passenger": null, "rear": null}
+]

@@ -1,0 +1,44 @@
+[
+ {"brand": "BENZ", "model": "GL Class (W164)", "year": "06-12", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "GL Class (W166)", "year": "12-15", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "GLA (X156)", "year": "13-15", "driver": null, "passenger": null, "rear": "A275H", "rearSize": 11},
+ {"brand": "BENZ", "model": "GLA (X156)", "year": "15-20", "driver": null, "passenger": null, "rear": "A275H", "rearSize": 11},
+ {"brand": "BENZ", "model": "GLA (H247)", "year": "20-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "GLK (X204)", "year": "08-14", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "GLK (X204)", "year": "14-15", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "GLB (X247)", "year": "19-", "driver": null, "passenger": null, "rear": "A282H", "rearSize": null},
+ {"brand": "BENZ", "model": "GLC (X253 C253 coupe)", "year": "15-23", "driver": null, "passenger": null, "rear": "A334H", "rearSize": 13},
+ {"brand": "BENZ", "model": "GLC (X254)", "year": "23-24", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "GLE (W166)", "year": "15-18", "driver": null, "passenger": null, "rear": "H840", "rearSize": 12},
+ {"brand": "BENZ", "model": "GLE (V167)", "year": "19-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "GLS (X164 / X166)", "year": "15-19", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "GLS (X167)", "year": "19-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "EQA (H243)", "year": "22-", "driver": null, "passenger": null, "rear": "A332H", "rearSize": 13},
+ {"brand": "BENZ", "model": "EQB (X243)", "year": "22-", "driver": null, "passenger": null, "rear": "A282H", "rearSize": 11},
+ {"brand": "BENZ", "model": "EQC (N293)", "year": "20-", "driver": null, "passenger": null, "rear": "A282H", "rearSize": 11},
+ {"brand": "BENZ", "model": "EQE", "year": "22-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "EQS", "year": "22-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "AMG GT (M178)", "year": "15-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "GT 43 / 53 / 63", "year": "20-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "ML Class (W163)", "year": "98-05", "driver": null, "passenger": null, "rear": "H420", "rearSize": 17},
+ {"brand": "BENZ", "model": "ML Class (W164)", "year": "05-11", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+ {"brand": "BENZ", "model": "ML Class (W166)", "year": "11-15", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+
+ {"brand": "BENZ", "model": "R Class (W251)", "year": "05-14", "driver": null, "passenger": null, "rear": "H301", "rearSize": 12},
+
+ {"brand": "BENZ", "model": "S Class (W140)", "year": "93-98", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "S Class (W220)", "year": "98-00", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "S Class (W220)", "year": "00-06", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "S Class (W221)", "year": "06-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "S Class (W222 / X222 非噴水接頭)", "year": "13-20", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "S Class Coupe (C217)", "year": "14-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "SL (R230 / R231)", "year": "01-12", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "SLK (R170)", "year": "96-04", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "SLK (R171)", "year": "04-11", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "SLK (R172)", "year": "11-15", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "SLC (W172)", "year": "15-", "driver": null, "passenger": null, "rear": null}
+]

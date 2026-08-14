@@ -1,7 +1,7 @@
 {
  "meta": {
-  "updated": "2026-06-25",
-  "source": "BOSCH 2026 通用雨刷型錄（美日韓）＋市場查證校正",
+  "updated": "2026-08-14",
+  "source": "BOSCH 2026 雨刷型錄（通用美日韓＋專用歐系）＋市場查證校正",
   "lines": [
    "BOSCH 通用軟骨 旗艦款",
    "HELLA 三節式 Hybrid"
@@ -453,7 +453,8 @@
       {
        "label": "(17-19)",
        "year": "17-19",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -463,12 +464,14 @@
       {
        "label": "(13-18)",
        "year": "13-18",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(18-)",
        "year": "18-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -555,17 +558,20 @@
       {
        "label": "第六代 (08-12)",
        "year": "08-12",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第六代 小改款 (12-17)",
        "year": "12-17",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第七代 (17-19)",
        "year": "17-19",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -599,22 +605,26 @@
       {
        "label": "第二代 (04-11)",
        "year": "04-11",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第三代 (11-15)",
        "year": "11-15",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第三代 小改款 (15-18)",
        "year": "15-18",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第四代 (19-)",
        "year": "19-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -655,12 +665,14 @@
       {
        "label": "(13-19)",
        "year": "13-19",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第二代 (20-)",
        "year": "20-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -788,12 +800,14 @@
       {
        "label": "第四代 (07-14)",
        "year": "07-14",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第五代 (14-)",
        "year": "14-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -803,12 +817,14 @@
       {
        "label": "(09-14)",
        "year": "09-14",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(15-19)",
        "year": "15-19",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -900,7 +916,8 @@
       {
        "label": "NEO (14-)",
        "year": "14-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -910,7 +927,8 @@
       {
        "label": "NEO (12-)",
        "year": "12-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -920,7 +938,8 @@
       {
        "label": "NEO (18-)",
        "year": "18-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -930,12 +949,14 @@
       {
        "label": "T6 (10-15)",
        "year": "10-15",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "T7/T8 (16-23)",
        "year": "16-23",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     }
@@ -1075,7 +1096,8 @@
       {
        "label": "第八代 (06-12)",
        "year": "06-12",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第九代 (12-17)",
@@ -1106,7 +1128,8 @@
       {
        "label": "第十一代 進口 (23-)",
        "year": "23-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -1287,7 +1310,8 @@
       {
        "label": "第六代 (23-)",
        "year": "23-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -1689,7 +1713,8 @@
       {
        "label": "(22-23)",
        "year": "22-23",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -3088,7 +3113,8 @@
       {
        "label": "(16-22)",
        "year": "16-22",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -3098,7 +3124,8 @@
       {
        "label": "(17-22)",
        "year": "17-22",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -4785,12 +4812,14 @@
       {
        "label": "(19-23)",
        "year": "19-23",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第二代 (23-)",
        "year": "23-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -4996,7 +5025,8 @@
       {
        "label": "(14-18)",
        "year": "14-18",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(18-21)",
@@ -5254,12 +5284,14 @@
       {
        "label": "第四代 (16-22)",
        "year": "16-22",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "第五代 (23-)",
        "year": "23-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -5341,7 +5373,8 @@
       {
        "label": "第二代 (14-20)",
        "year": "14-20",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -5480,7 +5513,8 @@
       {
        "label": "第二代 (14-21)",
        "year": "14-21",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -5614,7 +5648,8 @@
       {
        "label": "(16-21)",
        "year": "16-21",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     }
@@ -5794,7 +5829,8 @@
       {
        "label": "(16)",
        "year": "16",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -5923,7 +5959,8 @@
       {
        "label": "(17-)",
        "year": "17-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -6265,7 +6302,8 @@
       {
        "label": "第三代 小改款 (18-)",
        "year": "18-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -7861,7 +7899,8 @@
       {
        "label": "第二代 (21-)",
        "year": "21-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -8972,7 +9011,8 @@
       {
        "label": "(19-)",
        "year": "19-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -9294,7 +9334,8 @@
       {
        "label": "第五代 (18-)",
        "year": "18-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -9390,7 +9431,8 @@
       {
        "label": "第六代 (17-)",
        "year": "17-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -9704,7 +9746,8 @@
       {
        "label": "(17-)",
        "year": "17-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     }
@@ -10331,7 +10374,8 @@
       {
        "label": "(16-)",
        "year": "16-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -10341,7 +10385,8 @@
       {
        "label": "(11-)",
        "year": "11-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -10351,12 +10396,14 @@
       {
        "label": "(14-22)",
        "year": "14-22",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(23-)",
        "year": "23-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -10366,7 +10413,8 @@
       {
        "label": "(19-)",
        "year": "19-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     }
@@ -10446,7 +10494,8 @@
       {
        "label": "(15-22)",
        "year": "15-22",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(23-)",
@@ -10789,12 +10838,14 @@
       {
        "label": "(17-)",
        "year": "17-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(17-23)",
        "year": "17-23",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -11564,7 +11615,8 @@
       {
        "label": "第四代 (17-)",
        "year": "17-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -11923,7 +11975,8 @@
       {
        "label": "(16-20)",
        "year": "16-20",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       },
       {
        "label": "(21-24)",
@@ -11969,7 +12022,8 @@
       {
        "label": "(19-)",
        "year": "19-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -12020,7 +12074,8 @@
       {
        "label": "(14-)",
        "year": "14-",
-       "fit": "dedicated"
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     },
@@ -12333,6 +12388,4768 @@
          "price": 500
         }
        ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ALFA ROMEO",
+   "models": [
+    {
+     "name": "159 / 159 SPORTWAGON",
+     "entries": [
+      {
+       "label": "(05-)",
+       "year": "05-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "166",
+     "entries": [
+      {
+       "label": "(98-07)",
+       "year": "98-07",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "BRERA",
+     "entries": [
+      {
+       "label": "(06-)",
+       "year": "06-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "GT / 147GT",
+     "entries": [
+      {
+       "label": "(05-)",
+       "year": "05-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "MITO",
+     "entries": [
+      {
+       "label": "(10-)",
+       "year": "10-",
+       "fit": "dedicated",
+       "rear": "A301H",
+       "rearOption": {
+        "code": "A301H",
+        "size": 12,
+        "price": 655,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a301h-12吋",
+        "label": "BOSCH 博世 後擋軟骨雨刷 A301H 12吋"
+       }
+      }
+     ]
+    },
+    {
+     "name": "SPIDER",
+     "entries": [
+      {
+       "label": "(06-10)",
+       "year": "06-10",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "STELVIO",
+     "entries": [
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A310H"
+      }
+     ]
+    },
+    {
+     "name": "GIULIETTA",
+     "entries": [
+      {
+       "label": "(14-17)",
+       "year": "14-17",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "GIULIA",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "AUDI",
+   "models": [
+    {
+     "name": "A1 / S1",
+     "entries": [
+      {
+       "label": "A1 (10-15)",
+       "year": "10-15",
+       "fit": "dedicated",
+       "rear": "A360H"
+      },
+      {
+       "label": "A1 sportback (11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": "A282H"
+      },
+      {
+       "label": "S1 (14-19)",
+       "year": "14-19",
+       "fit": "dedicated",
+       "rear": "A360H"
+      },
+      {
+       "label": "S1 Sportback (14-19)",
+       "year": "14-19",
+       "fit": "dedicated",
+       "rear": "A282H"
+      },
+      {
+       "label": "A1 sportback (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "A2",
+     "entries": [
+      {
+       "label": "(01-05)",
+       "year": "01-05",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A3 / S3",
+     "entries": [
+      {
+       "label": "1.6 / 1.8 / 1.8T (96-03)",
+       "year": "96-03",
+       "fit": "dedicated",
+       "rear": "H380"
+      },
+      {
+       "label": "1.6 / 1.8 / 2.0 FSI (03-04)",
+       "year": "03-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第一代 1.6 (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": "H772"
+      },
+      {
+       "label": "第一代 1.8 TFSI Sportback (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第一代 2.0 TFSI Sportback (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第一代 2.0 FSI (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": "H772"
+      },
+      {
+       "label": "第一代 2.0 TDI Sportback (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第一代 3.2 Sportback quattro (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 Sportback 8YA (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A3 / S3 8PA",
+     "entries": [
+      {
+       "label": "第二代 1.4 TFSI (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": "H772"
+      },
+      {
+       "label": "第二代 2.0 TFSI Sportback (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 TDI Sportback (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 S3 2.0 TFSI quattro (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A3 / S3 8V",
+     "entries": [
+      {
+       "label": "第三代 1.4 TFSI Sportlimousine (12-19)",
+       "year": "12-19",
+       "fit": "dedicated",
+       "rear": "A332H"
+      },
+      {
+       "label": "第三代 1.8 FSI (12-19)",
+       "year": "12-19",
+       "fit": "dedicated",
+       "rear": "A332H"
+      },
+      {
+       "label": "第三代 2.0 TDI Sportback (12-19)",
+       "year": "12-19",
+       "fit": "dedicated",
+       "rear": "A332H"
+      },
+      {
+       "label": "第三代 1.4 TSI (-19)",
+       "year": "-19",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 2.0 Sporkback (-19)",
+       "year": "-19",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A4 / S4",
+     "entries": [
+      {
+       "label": "1.6 / 1.8 / 2.4 / 2.8 (94-99)",
+       "year": "94-99",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第五代 1.4 / 2.0 (16-23)",
+       "year": "16-23",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第五代 1.4 / 2.0 Avant (16-23)",
+       "year": "16-23",
+       "fit": "dedicated",
+       "rear": "A360H"
+      },
+      {
+       "label": "第五代 S4 / RS4 3.0 (16-23)",
+       "year": "16-23",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第五代 S4 / RS4 3.0 Avant (16-23)",
+       "year": "16-23",
+       "fit": "dedicated",
+       "rear": "H772"
+      }
+     ]
+    },
+    {
+     "name": "A4 / S4 8V",
+     "entries": [
+      {
+       "label": "第三代 1.8 T / 1.8 T Avant (00-08)",
+       "year": "00-08",
+       "fit": "dedicated",
+       "rear": "H772"
+      },
+      {
+       "label": "第三代 2.0 / 2.4 / 3.0 / 3.2 (00-08)",
+       "year": "00-08",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 2.0 / 2.4 / 3.0 / 3.2 Avant (00-08)",
+       "year": "00-08",
+       "fit": "dedicated",
+       "rear": "H772"
+      }
+     ]
+    },
+    {
+     "name": "A4 / S4 B8 / 8K",
+     "entries": [
+      {
+       "label": "第四代 1.8 / 2.0 (08-16)",
+       "year": "08-16",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 S4 / S4 3.0 Avant (10-14)",
+       "year": "10-14",
+       "fit": "dedicated",
+       "rear": "H772"
+      },
+      {
+       "label": "第四代 RS4 4.2 Avant (13-15)",
+       "year": "13-15",
+       "fit": "dedicated",
+       "rear": "H772"
+      }
+     ]
+    },
+    {
+     "name": "A5 / S5",
+     "entries": [
+      {
+       "label": "第一代 1.8 / 2.0 / 3.0 / 3.2 (09-16)",
+       "year": "09-16",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第一代 1.8 / 2.0 / 3.0 / 3.2 Sportback (09-16)",
+       "year": "09-16",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第一代 S5 / RS5 3.0 / 4.2 sportback (09-16)",
+       "year": "09-16",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 1.8 / 2.0 / 3.0 / 3.2 (17-19)",
+       "year": "17-19",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 1.8 / 2.0 / 3.0 / 3.2 Sportback (17-19)",
+       "year": "17-19",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A6 / S6",
+     "entries": [
+      {
+       "label": "1.8 T (97-01)",
+       "year": "97-01",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "1.8 T / 2.4 / 2.7 / 3.0 (01-04)",
+       "year": "01-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "S6 4.2 V8 (03-04)",
+       "year": "03-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 2.0 / 2.4 / 2.8 / 3.0 / 3.2 V6 (04-11)",
+       "year": "04-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 S6 4.2 V8 (04-11)",
+       "year": "04-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 S6 3.0 Avant V6 (07-11)",
+       "year": "07-11",
+       "fit": "dedicated",
+       "rear": "H383"
+      },
+      {
+       "label": "第三代 RS6 4.2 Avant V8 (04-05)",
+       "year": "04-05",
+       "fit": "dedicated",
+       "rear": "H383"
+      },
+      {
+       "label": "第三代 RS6 5.0 Avant V10 (09-11)",
+       "year": "09-11",
+       "fit": "dedicated",
+       "rear": "H383"
+      },
+      {
+       "label": "第四代 2.0 / 2.8 / 3.0 (11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 1.8 / 2.0 (15-19)",
+       "year": "15-19",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 2.0 / 3.0 Avant (12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": "A402H"
+      },
+      {
+       "label": "第四代 1.8 / 2.0 Avant (15-19)",
+       "year": "15-19",
+       "fit": "dedicated",
+       "rear": "A402H"
+      },
+      {
+       "label": "第四代 S6 / RS6 4.0 Avant V8 (13-19)",
+       "year": "13-19",
+       "fit": "dedicated",
+       "rear": "A402H"
+      },
+      {
+       "label": "第五代 2.0 Avant C8 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A7 / S7",
+     "entries": [
+      {
+       "label": "2.8 / 3.0 V6 Sportback (11-19)",
+       "year": "11-19",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "S7 / RS7 4.0 V8 Sportback (11-19)",
+       "year": "11-19",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "2.0 Sporkback (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "A8 / S8",
+     "entries": [
+      {
+       "label": "第二代 3.7 (02-05)",
+       "year": "02-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 4.2 (02-05)",
+       "year": "02-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 3 (02-05)",
+       "year": "02-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第二代 3.2 (02-05)",
+       "year": "02-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 3.0 / 3.2 V6 (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 3.7 / 4.2 V8 (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 6.0 W12 (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第三代 S8 5.2 V8 (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 3.0 / 4.2 V6 (10-18)",
+       "year": "10-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 4.0 V8 (10-18)",
+       "year": "10-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 6.3 W12 (10-18)",
+       "year": "10-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第四代 S8 4.0 V8 (13-18)",
+       "year": "13-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "第五代 3.0 V6 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "Q etron",
+     "entries": [
+      {
+       "label": "SUV (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "Q2",
+     "entries": [
+      {
+       "label": "1.0 / 1.4 / 2.0 GAB (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A331H"
+      }
+     ]
+    },
+    {
+     "name": "Q3",
+     "entries": [
+      {
+       "label": "1.4 / 2.0 8UB (11-18)",
+       "year": "11-18",
+       "fit": "dedicated",
+       "rear": "A402H"
+      },
+      {
+       "label": "F3B (19-24)",
+       "year": "19-24",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "RS Q3",
+     "entries": [
+      {
+       "label": "2.5 (16-18)",
+       "year": "16-18",
+       "fit": "dedicated",
+       "rear": "A402H"
+      }
+     ]
+    },
+    {
+     "name": "Q5",
+     "entries": [
+      {
+       "label": "2.0 / 3.0 8RB (12-17)",
+       "year": "12-17",
+       "fit": "dedicated",
+       "rear": "A332H"
+      },
+      {
+       "label": "2.0 / 3.0 FYB (17-24)",
+       "year": "17-24",
+       "fit": "dedicated",
+       "rear": "A360H"
+      }
+     ]
+    },
+    {
+     "name": "SQ5",
+     "entries": [
+      {
+       "label": "8RB (13-17)",
+       "year": "13-17",
+       "fit": "dedicated",
+       "rear": "A332H"
+      },
+      {
+       "label": "FYB (17-24)",
+       "year": "17-24",
+       "fit": "dedicated",
+       "rear": "A360H"
+      }
+     ]
+    },
+    {
+     "name": "Q7",
+     "entries": [
+      {
+       "label": "4LB (06-14)",
+       "year": "06-14",
+       "fit": "dedicated",
+       "rear": "H772"
+      },
+      {
+       "label": "4MB (16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": "A360H"
+      }
+     ]
+    },
+    {
+     "name": "SQ7",
+     "entries": [
+      {
+       "label": "4MB (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A360H"
+      }
+     ]
+    },
+    {
+     "name": "Q8",
+     "entries": [
+      {
+       "label": "4MN (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": "A402H"
+      }
+     ]
+    },
+    {
+     "name": "R8",
+     "entries": [
+      {
+       "label": "5.2 V10 (08-15)",
+       "year": "08-15",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "5.2 V10 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "TT",
+     "entries": [
+      {
+       "label": "8N3 / 8N9 (03-06)",
+       "year": "03-06",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "8J3 / 8J9 (06-14)",
+       "year": "06-14",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "FV3 / FV9 (15-19)",
+       "year": "15-19",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BMW",
+   "models": [
+    {
+     "name": "1 Series",
+     "entries": [
+      {
+       "label": "E81 / E82 / E87 / E88 (04-10)",
+       "year": "04-10",
+       "fit": "dedicated",
+       "rear": "A280H"
+      },
+      {
+       "label": "F20 / F21 (11-19)",
+       "year": "11-19",
+       "fit": "dedicated",
+       "rear": "H306",
+       "rearOption": {
+        "code": "H306",
+        "size": 12,
+        "price": 505,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h306-12吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H306 12吋"
+       }
+      },
+      {
+       "label": "F40 (20-24)",
+       "year": "20-24",
+       "fit": "dedicated",
+       "rear": "A351H"
+      },
+      {
+       "label": "F70 (25-)",
+       "year": "25-",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    },
+    {
+     "name": "2 Series",
+     "entries": [
+      {
+       "label": "F22 / F23 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F44 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F45 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "H306",
+       "rearOption": {
+        "code": "H306",
+        "size": 12,
+        "price": 505,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h306-12吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H306 12吋"
+       }
+      },
+      {
+       "label": "F46 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      },
+      {
+       "label": "F74 (25-)",
+       "year": "25-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G42 / G43 (21-24)",
+       "year": "21-24",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "3 Series",
+     "entries": [
+      {
+       "label": "E90 (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "E91 Touring (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": "A340H"
+      },
+      {
+       "label": "F31 Touring (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": "A340H"
+      },
+      {
+       "label": "E92 / E93 (06-10)",
+       "year": "06-10",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "E92 / E93 (10-13)",
+       "year": "10-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F30 / F31 / F34 (12-19)",
+       "year": "12-19",
+       "fit": "dedicated",
+       "rear": "A281H"
+      },
+      {
+       "label": "G20 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G21 Touring (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A280H"
+      }
+     ]
+    },
+    {
+     "name": "4 Series",
+     "entries": [
+      {
+       "label": "F32 / F33 / F36 (14-20)",
+       "year": "14-20",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G22 / G23 (21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "5 Series",
+     "entries": [
+      {
+       "label": "E39 (95-04)",
+       "year": "95-04",
+       "fit": "dedicated",
+       "rear": "H425"
+      },
+      {
+       "label": "E60 / E61 (04-08)",
+       "year": "04-08",
+       "fit": "dedicated",
+       "rear": "H753"
+      },
+      {
+       "label": "F07 (09-17)",
+       "year": "09-17",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F10 / F11 (09-17)",
+       "year": "09-17",
+       "fit": "dedicated",
+       "rear": "A351H"
+      },
+      {
+       "label": "G30 / G31 (17-23)",
+       "year": "17-23",
+       "fit": "dedicated",
+       "rear": "A351H"
+      },
+      {
+       "label": "G60 / G61 (24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "6 Series",
+     "entries": [
+      {
+       "label": "E63 / E64 (04-)",
+       "year": "04-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F12 / F13 / F06 (11-17)",
+       "year": "11-17",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G32 (17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "7 Series",
+     "entries": [
+      {
+       "label": "E38 (95-01)",
+       "year": "95-01",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "E65 / E66 (01-05)",
+       "year": "01-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F01 / F02 / F04 (08-15)",
+       "year": "08-15",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G11 / G12 (16-23)",
+       "year": "16-23",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G70 (24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "8 Series",
+     "entries": [
+      {
+       "label": "G14 / G15 / G16 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "H306",
+       "rearOption": {
+        "code": "H306",
+        "size": 12,
+        "price": 505,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h306-12吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H306 12吋"
+       }
+      }
+     ]
+    },
+    {
+     "name": "i3",
+     "entries": [
+      {
+       "label": "i01 (13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "i4",
+     "entries": [
+      {
+       "label": "(21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "M2",
+     "entries": [
+      {
+       "label": "F87 (16-21)",
+       "year": "16-21",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G87 (24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "M3",
+     "entries": [
+      {
+       "label": "F80 (14-20)",
+       "year": "14-20",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G80 (21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "M4",
+     "entries": [
+      {
+       "label": "F82 / F83 (14-20)",
+       "year": "14-20",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G82 (21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "M5",
+     "entries": [
+      {
+       "label": "F10 (11-16)",
+       "year": "11-16",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F90 (17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "M6",
+     "entries": [
+      {
+       "label": "F14 (13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "Z3",
+     "entries": [
+      {
+       "label": "E36 / E37 / E38 (95-03)",
+       "year": "95-03",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "Z4",
+     "entries": [
+      {
+       "label": "E85 / E86 (01-06)",
+       "year": "01-06",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "E89 (09-14)",
+       "year": "09-14",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G29 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X1",
+     "entries": [
+      {
+       "label": "E84 (09-)",
+       "year": "09-",
+       "fit": "dedicated",
+       "rear": "A333H"
+      },
+      {
+       "label": "F48 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "X1 / iX1",
+     "entries": [
+      {
+       "label": "U11 (22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X2",
+     "entries": [
+      {
+       "label": "F39 (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "X2 / iX2",
+     "entries": [
+      {
+       "label": "U10 (23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X3",
+     "entries": [
+      {
+       "label": "E83 (05-)",
+       "year": "05-",
+       "fit": "dedicated",
+       "rear": "H351"
+      },
+      {
+       "label": "F25 (10-)",
+       "year": "10-",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "G45 (24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X3 / iX3",
+     "entries": [
+      {
+       "label": "G01 G08 (18-24)",
+       "year": "18-24",
+       "fit": "dedicated",
+       "rear": "A281H"
+      }
+     ]
+    },
+    {
+     "name": "X4",
+     "entries": [
+      {
+       "label": "F26 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G02 (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X5",
+     "entries": [
+      {
+       "label": "E53 (00-05)",
+       "year": "00-05",
+       "fit": "dedicated",
+       "rear": "H425"
+      },
+      {
+       "label": "E70 (06-12)",
+       "year": "06-12",
+       "fit": "dedicated",
+       "rear": "A380H"
+      },
+      {
+       "label": "F15 / F85 (13-18)",
+       "year": "13-18",
+       "fit": "dedicated",
+       "rear": "H306",
+       "rearOption": {
+        "code": "H306",
+        "size": 12,
+        "price": 505,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h306-12吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H306 12吋"
+       }
+      },
+      {
+       "label": "G05 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    },
+    {
+     "name": "X6",
+     "entries": [
+      {
+       "label": "E71 (08-12)",
+       "year": "08-12",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "E72 (12-14)",
+       "year": "12-14",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "F16 / F86 (14-19)",
+       "year": "14-19",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "G06 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X7",
+     "entries": [
+      {
+       "label": "G07 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A401H"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BENZ",
+   "models": [
+    {
+     "name": "A Class",
+     "entries": [
+      {
+       "label": "W168 (97-04)",
+       "year": "97-04",
+       "fit": "dedicated",
+       "rear": "H341"
+      },
+      {
+       "label": "W169 (04-12)",
+       "year": "04-12",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "W176 (12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": "A230H"
+      },
+      {
+       "label": "W176 (15-18)",
+       "year": "15-18",
+       "fit": "dedicated",
+       "rear": "A230H"
+      },
+      {
+       "label": "W177 (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "B Class",
+     "entries": [
+      {
+       "label": "W245 (05-12)",
+       "year": "05-12",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "W246 (12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": "H261",
+       "rearOption": {
+        "code": "H261",
+        "size": 10,
+        "price": 525,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h261-10吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H261 10吋"
+       }
+      },
+      {
+       "label": "W246 (15-18)",
+       "year": "15-18",
+       "fit": "dedicated",
+       "rear": "H261",
+       "rearOption": {
+        "code": "H261",
+        "size": 10,
+        "price": 525,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h261-10吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H261 10吋"
+       }
+      },
+      {
+       "label": "W247 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "C Class",
+     "entries": [
+      {
+       "label": "W202 (93-00)",
+       "year": "93-00",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W203 (00-04)",
+       "year": "00-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W203 (04-07)",
+       "year": "04-07",
+       "fit": "dedicated",
+       "rear": "H382"
+      },
+      {
+       "label": "W204 (07-08)",
+       "year": "07-08",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "W204 (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W204 (13-14)",
+       "year": "13-14",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "W205 (13-14)",
+       "year": "13-14",
+       "fit": "dedicated",
+       "rear": "A275H"
+      },
+      {
+       "label": "W205 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "A275H"
+      },
+      {
+       "label": "W206 (21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "C Class Coupe",
+     "entries": [
+      {
+       "label": "W204 (11-13)",
+       "year": "11-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W205 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W206 (21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CL Class",
+     "entries": [
+      {
+       "label": "C215 (99-06)",
+       "year": "99-06",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "C216 (06-14)",
+       "year": "06-14",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CLA",
+     "entries": [
+      {
+       "label": "C117 / X117 (12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": "A275H"
+      },
+      {
+       "label": "C117 / X117 (15-19)",
+       "year": "15-19",
+       "fit": "dedicated",
+       "rear": "A275H"
+      },
+      {
+       "label": "C118 (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "CLC",
+     "entries": [
+      {
+       "label": "W203 (08-11)",
+       "year": "08-11",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CLK",
+     "entries": [
+      {
+       "label": "W209 (02-10)",
+       "year": "02-10",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CLE",
+     "entries": [
+      {
+       "label": "C236 (23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CLS",
+     "entries": [
+      {
+       "label": "W219 (04-11)",
+       "year": "04-11",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CLS Coupe",
+     "entries": [
+      {
+       "label": "W218 / X218 (10-14)",
+       "year": "10-14",
+       "fit": "dedicated",
+       "rear": "A333H"
+      },
+      {
+       "label": "W218 / X218 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "A333H"
+      },
+      {
+       "label": "C257 (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "E Class",
+     "entries": [
+      {
+       "label": "W210 (95-03)",
+       "year": "95-03",
+       "fit": "dedicated",
+       "rear": "H400"
+      },
+      {
+       "label": "W211 (02-09)",
+       "year": "02-09",
+       "fit": "dedicated",
+       "rear": "H420"
+      },
+      {
+       "label": "W212 (09-14)",
+       "year": "09-14",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W212 (14-16)",
+       "year": "14-16",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "W213 (16-23)",
+       "year": "16-23",
+       "fit": "dedicated",
+       "rear": "A301H",
+       "rearOption": {
+        "code": "A301H",
+        "size": 12,
+        "price": 655,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a301h-12吋",
+        "label": "BOSCH 博世 後擋軟骨雨刷 A301H 12吋"
+       }
+      },
+      {
+       "label": "W214 (24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "E Class Coupe",
+     "entries": [
+      {
+       "label": "W207 (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W207 (13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "C238 (13-17)",
+       "year": "13-17",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "G Class",
+     "entries": [
+      {
+       "label": "W461 / W462 (89-18)",
+       "year": "89-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W463 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "H380"
+      }
+     ]
+    },
+    {
+     "name": "GL Class",
+     "entries": [
+      {
+       "label": "W164 (06-12)",
+       "year": "06-12",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "W166 (12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "GLA",
+     "entries": [
+      {
+       "label": "X156 (13-15)",
+       "year": "13-15",
+       "fit": "dedicated",
+       "rear": "A275H"
+      },
+      {
+       "label": "X156 (15-20)",
+       "year": "15-20",
+       "fit": "dedicated",
+       "rear": "A275H"
+      },
+      {
+       "label": "H247 (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "GLK",
+     "entries": [
+      {
+       "label": "X204 (08-14)",
+       "year": "08-14",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "X204 (14-15)",
+       "year": "14-15",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "GLB",
+     "entries": [
+      {
+       "label": "X247 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "GLC",
+     "entries": [
+      {
+       "label": "X253 C253 coupe (15-23)",
+       "year": "15-23",
+       "fit": "dedicated",
+       "rear": "A334H",
+       "rearOption": {
+        "code": "A334H",
+        "size": 13,
+        "price": 620,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a334h-13吋",
+        "label": "BOSCH 博世 後擋軟骨雨刷 A334H 13吋"
+       }
+      },
+      {
+       "label": "X254 (23-24)",
+       "year": "23-24",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "GLE",
+     "entries": [
+      {
+       "label": "W166 (15-18)",
+       "year": "15-18",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "V167 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "GLS",
+     "entries": [
+      {
+       "label": "X164 / X166 (15-19)",
+       "year": "15-19",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "X167 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "EQA",
+     "entries": [
+      {
+       "label": "H243 (22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "EQB",
+     "entries": [
+      {
+       "label": "X243 (22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "EQC",
+     "entries": [
+      {
+       "label": "N293 (20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "EQE",
+     "entries": [
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "EQS",
+     "entries": [
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "AMG GT",
+     "entries": [
+      {
+       "label": "M178 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "GT 43 / 53 / 63",
+     "entries": [
+      {
+       "label": "(20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ML Class",
+     "entries": [
+      {
+       "label": "W163 (98-05)",
+       "year": "98-05",
+       "fit": "dedicated",
+       "rear": "H420"
+      },
+      {
+       "label": "W164 (05-11)",
+       "year": "05-11",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "W166 (11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "R Class",
+     "entries": [
+      {
+       "label": "W251 (05-14)",
+       "year": "05-14",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "S Class",
+     "entries": [
+      {
+       "label": "W140 (93-98)",
+       "year": "93-98",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W220 (98-00)",
+       "year": "98-00",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W220 (00-06)",
+       "year": "00-06",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W221 (06-13)",
+       "year": "06-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W222 / X222 非噴水接頭 (13-20)",
+       "year": "13-20",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "S Class Coupe",
+     "entries": [
+      {
+       "label": "C217 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SL",
+     "entries": [
+      {
+       "label": "R230 / R231 (01-12)",
+       "year": "01-12",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SLK",
+     "entries": [
+      {
+       "label": "R170 (96-04)",
+       "year": "96-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "R171 (04-11)",
+       "year": "04-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "R172 (11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SLC",
+     "entries": [
+      {
+       "label": "W172 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SLR",
+     "entries": [
+      {
+       "label": "R199 (04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SLS",
+     "entries": [
+      {
+       "label": "C197 (10-14)",
+       "year": "10-14",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "V Class VITO",
+     "entries": [
+      {
+       "label": "W638 (95-03)",
+       "year": "95-03",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "W447 (14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "A402H"
+      }
+     ]
+    },
+    {
+     "name": "V Class VIANO / VITO",
+     "entries": [
+      {
+       "label": "W639 (05-10)",
+       "year": "05-10",
+       "fit": "dedicated",
+       "rear": "H400"
+      },
+      {
+       "label": "W639 (10-14)",
+       "year": "10-14",
+       "fit": "dedicated",
+       "rear": "A381H"
+      }
+     ]
+    },
+    {
+     "name": "CITAN",
+     "entries": [
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BUICK",
+   "models": [
+    {
+     "name": "Excelle",
+     "entries": [
+      {
+       "label": "(06-10)",
+       "year": "06-10",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "LA CROSSE",
+     "entries": [
+      {
+       "label": "(06-10)",
+       "year": "06-10",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "RENDEZVOUS",
+     "entries": [
+      {
+       "label": "(03-08)",
+       "year": "03-08",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CADILLAC",
+   "models": [
+    {
+     "name": "CTS",
+     "entries": [
+      {
+       "label": "(02-08)",
+       "year": "02-08",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(08-13)",
+       "year": "08-13",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SRX",
+     "entries": [
+      {
+       "label": "(03-09)",
+       "year": "03-09",
+       "fit": "dedicated",
+       "rear": "H340"
+      },
+      {
+       "label": "(09-)",
+       "year": "09-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "STS-V / STS",
+     "entries": [
+      {
+       "label": "(04-)",
+       "year": "04-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CHRYSLER",
+   "models": [
+    {
+     "name": "300 / 300C",
+     "entries": [
+      {
+       "label": "(04-)",
+       "year": "04-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CARAVAN / VOYAGER",
+     "entries": [
+      {
+       "label": "(02-)",
+       "year": "02-",
+       "fit": "dedicated",
+       "rear": "H400"
+      },
+      {
+       "label": "(07-)",
+       "year": "07-",
+       "fit": "dedicated",
+       "rear": "H402"
+      }
+     ]
+    },
+    {
+     "name": "SEBRING",
+     "entries": [
+      {
+       "label": "(00-07)",
+       "year": "00-07",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(07-)",
+       "year": "07-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "PT Cruiser",
+     "entries": [
+      {
+       "label": "(00-10)",
+       "year": "00-10",
+       "fit": "dedicated",
+       "rear": "H400"
+      }
+     ]
+    },
+    {
+     "name": "Voyager",
+     "entries": [
+      {
+       "label": "(09-)",
+       "year": "09-",
+       "fit": "dedicated",
+       "rear": "H403"
+      }
+     ]
+    },
+    {
+     "name": "Town&Country",
+     "entries": [
+      {
+       "label": "(97-05)",
+       "year": "97-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(06-10)",
+       "year": "06-10",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CITROEN",
+   "models": [
+    {
+     "name": "Berlingo",
+     "entries": [
+      {
+       "label": "(08-)",
+       "year": "08-",
+       "fit": "dedicated",
+       "rear": "H353"
+      },
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "C2",
+     "entries": [
+      {
+       "label": "(03-08)",
+       "year": "03-08",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "C3",
+     "entries": [
+      {
+       "label": "(02-08)",
+       "year": "02-08",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "C3 Picasso",
+     "entries": [
+      {
+       "label": "(15-17)",
+       "year": "15-17",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "C4",
+     "entries": [
+      {
+       "label": "(04-08)",
+       "year": "04-08",
+       "fit": "dedicated",
+       "rear": "H304"
+      }
+     ]
+    },
+    {
+     "name": "C4 Picasso",
+     "entries": [
+      {
+       "label": "(06-08)",
+       "year": "06-08",
+       "fit": "dedicated",
+       "rear": "H351"
+      },
+      {
+       "label": "(08-13)",
+       "year": "08-13",
+       "fit": "dedicated",
+       "rear": "H351"
+      }
+     ]
+    },
+    {
+     "name": "C4 Picasso II",
+     "entries": [
+      {
+       "label": "(14-16)",
+       "year": "14-16",
+       "fit": "dedicated",
+       "rear": "H351"
+      },
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": "H351"
+      }
+     ]
+    },
+    {
+     "name": "C4 Spacetourer",
+     "entries": [
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "H351"
+      }
+     ]
+    },
+    {
+     "name": "C5",
+     "entries": [
+      {
+       "label": "(01-07)",
+       "year": "01-07",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "(19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "C6",
+     "entries": [
+      {
+       "label": "(05-)",
+       "year": "05-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "C8",
+     "entries": [
+      {
+       "label": "(05-14)",
+       "year": "05-14",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "DS3",
+     "entries": [
+      {
+       "label": "(10-15)",
+       "year": "10-15",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "DS4",
+     "entries": [
+      {
+       "label": "(11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "DS5",
+     "entries": [
+      {
+       "label": "(12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XSARA PICASSO",
+     "entries": [
+      {
+       "label": "(00-05)",
+       "year": "00-05",
+       "fit": "dedicated",
+       "rear": "H402"
+      },
+      {
+       "label": "(05-10)",
+       "year": "05-10",
+       "fit": "dedicated",
+       "rear": "H402"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "FIAT",
+   "models": [
+    {
+     "name": "GRAND PUNTO",
+     "entries": [
+      {
+       "label": "(05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "PANDA",
+     "entries": [
+      {
+       "label": "(90-03)",
+       "year": "90-03",
+       "fit": "dedicated",
+       "rear": "H340"
+      },
+      {
+       "label": "(03-)",
+       "year": "03-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "500 / 500C",
+     "entries": [
+      {
+       "label": "(12-15)",
+       "year": "12-15",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "500X",
+     "entries": [
+      {
+       "label": "(14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "JAGUAR",
+   "models": [
+    {
+     "name": "E-PACE",
+     "entries": [
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A310H"
+      }
+     ]
+    },
+    {
+     "name": "F-PACE",
+     "entries": [
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "F-TYPE",
+     "entries": [
+      {
+       "label": "(14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "I-PACE",
+     "entries": [
+      {
+       "label": "(19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "S-TYPE",
+     "entries": [
+      {
+       "label": "(00-09)",
+       "year": "00-09",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "X-TYPE",
+     "entries": [
+      {
+       "label": "(01-12)",
+       "year": "01-12",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XE",
+     "entries": [
+      {
+       "label": "(15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XF",
+     "entries": [
+      {
+       "label": "(08-15)",
+       "year": "08-15",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XJ-6 / XJ-8",
+     "entries": [
+      {
+       "label": "(03-10)",
+       "year": "03-10",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XJ",
+     "entries": [
+      {
+       "label": "(10-)",
+       "year": "10-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XK",
+     "entries": [
+      {
+       "label": "(06-14)",
+       "year": "06-14",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "JEEP",
+   "models": [
+    {
+     "name": "GRAND CHEROKEE",
+     "entries": [
+      {
+       "label": "(99-)",
+       "year": "99-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "WRANGLER",
+     "entries": [
+      {
+       "label": "(07-)",
+       "year": "07-",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LANCIA",
+   "models": [
+    {
+     "name": "YPSILON",
+     "entries": [
+      {
+       "label": "(03-11)",
+       "year": "03-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(11-)",
+       "year": "11-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LAND ROVER",
+   "models": [
+    {
+     "name": "DISCOVERY II",
+     "entries": [
+      {
+       "label": "(98-04)",
+       "year": "98-04",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "DISCOVERY III",
+     "entries": [
+      {
+       "label": "(04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": "H403"
+      }
+     ]
+    },
+    {
+     "name": "DISCOVERY IV",
+     "entries": [
+      {
+       "label": "(09-16)",
+       "year": "09-16",
+       "fit": "dedicated",
+       "rear": "H403"
+      }
+     ]
+    },
+    {
+     "name": "DISCOVERY V",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A333H"
+      }
+     ]
+    },
+    {
+     "name": "FREELANDER I",
+     "entries": [
+      {
+       "label": "(97-07)",
+       "year": "97-07",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "FREELANDER II",
+     "entries": [
+      {
+       "label": "(06-15)",
+       "year": "06-15",
+       "fit": "dedicated",
+       "rear": "H340"
+      }
+     ]
+    },
+    {
+     "name": "RANGE ROVER II & III",
+     "entries": [
+      {
+       "label": "(02-13)",
+       "year": "02-13",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "RANGE ROVER IV",
+     "entries": [
+      {
+       "label": "(13-16)",
+       "year": "13-16",
+       "fit": "dedicated",
+       "rear": "H426"
+      },
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A425H"
+      }
+     ]
+    },
+    {
+     "name": "RANGE ROVER VELAR",
+     "entries": [
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A334H",
+       "rearOption": {
+        "code": "A334H",
+        "size": 13,
+        "price": 620,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a334h-13吋",
+        "label": "BOSCH 博世 後擋軟骨雨刷 A334H 13吋"
+       }
+      }
+     ]
+    },
+    {
+     "name": "RANGE ROVER SPORT I",
+     "entries": [
+      {
+       "label": "(05-13)",
+       "year": "05-13",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "RANGE ROVER SPORT II",
+     "entries": [
+      {
+       "label": "(13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "EVOQUE I",
+     "entries": [
+      {
+       "label": "(11-19)",
+       "year": "11-19",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "EVOQUE II",
+     "entries": [
+      {
+       "label": "(19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "DEFENDER 90 / 110",
+     "entries": [
+      {
+       "label": "(04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": "H340"
+      }
+     ]
+    },
+    {
+     "name": "DEFENDER 110",
+     "entries": [
+      {
+       "label": "(21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": "A334H",
+       "rearOption": {
+        "code": "A334H",
+        "size": 13,
+        "price": 620,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a334h-13吋",
+        "label": "BOSCH 博世 後擋軟骨雨刷 A334H 13吋"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MASERATI",
+   "models": [
+    {
+     "name": "GHIBLI",
+     "entries": [
+      {
+       "label": "(13-22)",
+       "year": "13-22",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "LEVANTE",
+     "entries": [
+      {
+       "label": "(16-22)",
+       "year": "16-22",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "QUATTROPORTE",
+     "entries": [
+      {
+       "label": "(13-20)",
+       "year": "13-20",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MINI",
+   "models": [
+    {
+     "name": "MINI",
+     "entries": [
+      {
+       "label": "R50 / R52 / R53 / R56 (01-13)",
+       "year": "01-13",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "F55 / F56 (13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": "H240"
+      }
+     ]
+    },
+    {
+     "name": "MINI CABRIO",
+     "entries": [
+      {
+       "label": "R57 (12-)",
+       "year": "12-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "R57 (16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CLUBMAN",
+     "entries": [
+      {
+       "label": "R55 (07-12)",
+       "year": "07-12",
+       "fit": "dedicated",
+       "rear": "A280H"
+      },
+      {
+       "label": "R55 (12-14)",
+       "year": "12-14",
+       "fit": "dedicated",
+       "rear": "A280H"
+      },
+      {
+       "label": "F54 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": "H250"
+      }
+     ]
+    },
+    {
+     "name": "COUPE",
+     "entries": [
+      {
+       "label": "R58 / R59 (11-)",
+       "year": "11-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "COUNTRYMAN",
+     "entries": [
+      {
+       "label": "R60 (10-17)",
+       "year": "10-17",
+       "fit": "dedicated",
+       "rear": "H240"
+      },
+      {
+       "label": "F60 (17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MG",
+   "models": [
+    {
+     "name": "HS",
+     "entries": [
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ZS",
+     "entries": [
+      {
+       "label": "(23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "OPEL",
+   "models": [
+    {
+     "name": "ASTRA",
+     "entries": [
+      {
+       "label": "(04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(09-15)",
+       "year": "09-15",
+       "fit": "dedicated",
+       "rear": "H311"
+      },
+      {
+       "label": "(15-20)",
+       "year": "15-20",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": "A251H"
+      }
+     ]
+    },
+    {
+     "name": "CORSA",
+     "entries": [
+      {
+       "label": "(00-06)",
+       "year": "00-06",
+       "fit": "dedicated",
+       "rear": "H402"
+      },
+      {
+       "label": "(06-14)",
+       "year": "06-14",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "(14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "INSIGNIA",
+     "entries": [
+      {
+       "label": "(10-17)",
+       "year": "10-17",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "MOKKA",
+     "entries": [
+      {
+       "label": "(23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "VECTRA",
+     "entries": [
+      {
+       "label": "(03-08)",
+       "year": "03-08",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ZAFIRA",
+     "entries": [
+      {
+       "label": "(00-05)",
+       "year": "00-05",
+       "fit": "dedicated",
+       "rear": "H402"
+      },
+      {
+       "label": "(05-12)",
+       "year": "05-12",
+       "fit": "dedicated",
+       "rear": "H353"
+      },
+      {
+       "label": "(12-)",
+       "year": "12-",
+       "fit": "dedicated",
+       "rear": "H357"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PEUGEOT",
+   "models": [
+    {
+     "name": "107",
+     "entries": [
+      {
+       "label": "(05-14)",
+       "year": "05-14",
+       "fit": "dedicated",
+       "rear": "H300"
+      }
+     ]
+    },
+    {
+     "name": "1007",
+     "entries": [
+      {
+       "label": "(05-11)",
+       "year": "05-11",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "206",
+     "entries": [
+      {
+       "label": "(00-07)",
+       "year": "00-07",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "207",
+     "entries": [
+      {
+       "label": "(06-12)",
+       "year": "06-12",
+       "fit": "dedicated",
+       "rear": "H406"
+      }
+     ]
+    },
+    {
+     "name": "208",
+     "entries": [
+      {
+       "label": "(12-)",
+       "year": "12-",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "2008",
+     "entries": [
+      {
+       "label": "(13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "(21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "E-2008",
+     "entries": [
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "301",
+     "entries": [
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "307",
+     "entries": [
+      {
+       "label": "T5 (00-05)",
+       "year": "00-05",
+       "fit": "dedicated",
+       "rear": "H353"
+      },
+      {
+       "label": "T5 (04-05)",
+       "year": "04-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "T6 (05-07)",
+       "year": "05-07",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "307 CC",
+     "entries": [
+      {
+       "label": "T5 (03-05)",
+       "year": "03-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "T6 (05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "308",
+     "entries": [
+      {
+       "label": "T7 (07-13)",
+       "year": "07-13",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "T9 (13-)",
+       "year": "13-",
+       "fit": "dedicated",
+       "rear": "H230"
+      }
+     ]
+    },
+    {
+     "name": "308 CC",
+     "entries": [
+      {
+       "label": "T7 (09-)",
+       "year": "09-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "3008",
+     "entries": [
+      {
+       "label": "T8 (09-)",
+       "year": "09-",
+       "fit": "dedicated",
+       "rear": "H301"
+      },
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "407",
+     "entries": [
+      {
+       "label": "D2 (04-11)",
+       "year": "04-11",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "408",
+     "entries": [
+      {
+       "label": "(10-23)",
+       "year": "10-23",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "408 Fastback",
+     "entries": [
+      {
+       "label": "(23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "508",
+     "entries": [
+      {
+       "label": "(10-)",
+       "year": "10-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(21)",
+       "year": "21",
+       "fit": "dedicated",
+       "rear": "H840"
+      }
+     ]
+    },
+    {
+     "name": "5008",
+     "entries": [
+      {
+       "label": "T8 (09-)",
+       "year": "09-",
+       "fit": "dedicated",
+       "rear": "H840"
+      },
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "607",
+     "entries": [
+      {
+       "label": "Z8 / Z9 (00-)",
+       "year": "00-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "807",
+     "entries": [
+      {
+       "label": "(05-13)",
+       "year": "05-13",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "RCZ",
+     "entries": [
+      {
+       "label": "T75 (10-)",
+       "year": "10-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "RIFTER",
+     "entries": [
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "TRAVELLER",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "PORSCHE",
+   "models": [
+    {
+     "name": "BOXSTER",
+     "entries": [
+      {
+       "label": "986 / 987 (96-12)",
+       "year": "96-12",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "981 (12-16)",
+       "year": "12-16",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "718 BOXSTER",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CAYMAN",
+     "entries": [
+      {
+       "label": "987C (05-12)",
+       "year": "05-12",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "981C (13-16)",
+       "year": "13-16",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "718 CAYMAN",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CAYENNE",
+     "entries": [
+      {
+       "label": "9PA (03-07)",
+       "year": "03-07",
+       "fit": "dedicated",
+       "rear": "H383"
+      },
+      {
+       "label": "9PA (07-10)",
+       "year": "07-10",
+       "fit": "dedicated",
+       "rear": "H383"
+      },
+      {
+       "label": "92A (10-18)",
+       "year": "10-18",
+       "fit": "dedicated",
+       "rear": "A360H"
+      },
+      {
+       "label": "9YA (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A332H"
+      }
+     ]
+    },
+    {
+     "name": "MACAN",
+     "entries": [
+      {
+       "label": "95B (14-19)",
+       "year": "14-19",
+       "fit": "dedicated",
+       "rear": "A381H"
+      },
+      {
+       "label": "(19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "PANAMERA",
+     "entries": [
+      {
+       "label": "970 (09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "970 (13-18)",
+       "year": "13-18",
+       "fit": "dedicated",
+       "rear": "A381H"
+      },
+      {
+       "label": "971 (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "Taycan",
+     "entries": [
+      {
+       "label": "(21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "911",
+     "entries": [
+      {
+       "label": "996 (97-04)",
+       "year": "97-04",
+       "fit": "dedicated",
+       "rear": "H550"
+      },
+      {
+       "label": "997 (04-11)",
+       "year": "04-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "991 (11-)",
+       "year": "11-",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "992 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "RENAULT",
+   "models": [
+    {
+     "name": "MEGANE II",
+     "entries": [
+      {
+       "label": "(03-11)",
+       "year": "03-11",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "MODUS",
+     "entries": [
+      {
+       "label": "(06-08)",
+       "year": "06-08",
+       "fit": "dedicated",
+       "rear": "H301"
+      }
+     ]
+    },
+    {
+     "name": "GRAND ESPACE",
+     "entries": [
+      {
+       "label": "(05-08)",
+       "year": "05-08",
+       "fit": "dedicated",
+       "rear": "H353"
+      }
+     ]
+    },
+    {
+     "name": "SCENIC",
+     "entries": [
+      {
+       "label": "(04-08)",
+       "year": "04-08",
+       "fit": "dedicated",
+       "rear": "H801"
+      },
+      {
+       "label": "(08-11)",
+       "year": "08-11",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "SAAB",
+   "models": [
+    {
+     "name": "9-3",
+     "entries": [
+      {
+       "label": "(02-07)",
+       "year": "02-07",
+       "fit": "dedicated",
+       "rear": "H500"
+      },
+      {
+       "label": "(07-12)",
+       "year": "07-12",
+       "fit": "dedicated",
+       "rear": "H500"
+      }
+     ]
+    },
+    {
+     "name": "9-5",
+     "entries": [
+      {
+       "label": "(97-05)",
+       "year": "97-05",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(05-10)",
+       "year": "05-10",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(10-12)",
+       "year": "10-12",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "SKODA",
+   "models": [
+    {
+     "name": "CITIGO",
+     "entries": [
+      {
+       "label": "(14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "A251H"
+      }
+     ]
+    },
+    {
+     "name": "FABIA",
+     "entries": [
+      {
+       "label": "(05-07)",
+       "year": "05-07",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(07-14)",
+       "year": "07-14",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "(15-21)",
+       "year": "15-21",
+       "fit": "dedicated",
+       "rear": "A331H"
+      },
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": "A303H"
+      }
+     ]
+    },
+    {
+     "name": "KAROQ",
+     "entries": [
+      {
+       "label": "(18-23)",
+       "year": "18-23",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "KAODIAQ",
+     "entries": [
+      {
+       "label": "(17-23)",
+       "year": "17-23",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "KAMIQ",
+     "entries": [
+      {
+       "label": "(20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "OCTAVIA",
+     "entries": [
+      {
+       "label": "(05-08)",
+       "year": "05-08",
+       "fit": "dedicated",
+       "rear": "A400H"
+      },
+      {
+       "label": "(09-14)",
+       "year": "09-14",
+       "fit": "dedicated",
+       "rear": "A403H"
+      },
+      {
+       "label": "(14-20)",
+       "year": "14-20",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(21)",
+       "year": "21",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SUPERB",
+     "entries": [
+      {
+       "label": "(01-04)",
+       "year": "01-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(04-08)",
+       "year": "04-08",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(08-15)",
+       "year": "08-15",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": "A403H"
+      }
+     ]
+    },
+    {
+     "name": "SCALA",
+     "entries": [
+      {
+       "label": "(20-)",
+       "year": "20-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "RAPID",
+     "entries": [
+      {
+       "label": "(14-19)",
+       "year": "14-19",
+       "fit": "dedicated",
+       "rear": "A403H"
+      }
+     ]
+    },
+    {
+     "name": "ROOMSTER",
+     "entries": [
+      {
+       "label": "(11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": "A330H"
+      }
+     ]
+    },
+    {
+     "name": "YETI",
+     "entries": [
+      {
+       "label": "(09-19)",
+       "year": "09-19",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "SMART",
+   "models": [
+    {
+     "name": "FORFOUR",
+     "entries": [
+      {
+       "label": "(04-07)",
+       "year": "04-07",
+       "fit": "dedicated",
+       "rear": "H351"
+      },
+      {
+       "label": "(14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "H230"
+      }
+     ]
+    },
+    {
+     "name": "FORTWO",
+     "entries": [
+      {
+       "label": "(04-07)",
+       "year": "04-07",
+       "fit": "dedicated",
+       "rear": "H341"
+      },
+      {
+       "label": "(07-)",
+       "year": "07-",
+       "fit": "dedicated",
+       "rear": "H801"
+      },
+      {
+       "label": "(15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ROADSTER",
+     "entries": [
+      {
+       "label": "(03-05)",
+       "year": "03-05",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SMART",
+     "entries": [
+      {
+       "label": "(98-04)",
+       "year": "98-04",
+       "fit": "dedicated",
+       "rear": "H341"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VOLVO",
+   "models": [
+    {
+     "name": "C30",
+     "entries": [
+      {
+       "label": "(09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": "A401H"
+      }
+     ]
+    },
+    {
+     "name": "C40",
+     "entries": [
+      {
+       "label": "(23-)",
+       "year": "23-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "EC40",
+     "entries": [
+      {
+       "label": "(25-)",
+       "year": "25-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "S40",
+     "entries": [
+      {
+       "label": "(95-04)",
+       "year": "95-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(04-08)",
+       "year": "04-08",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "S60",
+     "entries": [
+      {
+       "label": "(00-04)",
+       "year": "00-04",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(04-09)",
+       "year": "04-09",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(10-18)",
+       "year": "10-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "噴水接頭 (18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "S80",
+     "entries": [
+      {
+       "label": "(04-06)",
+       "year": "04-06",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(06-11)",
+       "year": "06-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(11-)",
+       "year": "11-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "S90",
+     "entries": [
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "V40",
+     "entries": [
+      {
+       "label": "(12-)",
+       "year": "12-",
+       "fit": "dedicated",
+       "rear": "A281H"
+      }
+     ]
+    },
+    {
+     "name": "V50",
+     "entries": [
+      {
+       "label": "(05-12)",
+       "year": "05-12",
+       "fit": "dedicated",
+       "rear": "H874"
+      }
+     ]
+    },
+    {
+     "name": "V60",
+     "entries": [
+      {
+       "label": "(10-18)",
+       "year": "10-18",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "噴水接頭 (19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "V70",
+     "entries": [
+      {
+       "label": "(03-07)",
+       "year": "03-07",
+       "fit": "dedicated",
+       "rear": "H400"
+      },
+      {
+       "label": "(07-)",
+       "year": "07-",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    },
+    {
+     "name": "V90",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    },
+    {
+     "name": "EX30",
+     "entries": [
+      {
+       "label": "(24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "XC40",
+     "entries": [
+      {
+       "label": "(18-)",
+       "year": "18-",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    },
+    {
+     "name": "XC60",
+     "entries": [
+      {
+       "label": "(09-17)",
+       "year": "09-17",
+       "fit": "dedicated",
+       "rear": "A380H"
+      },
+      {
+       "label": "非噴水接頭 (17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "噴水接頭 (17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A330H"
+      }
+     ]
+    },
+    {
+     "name": "XC70",
+     "entries": [
+      {
+       "label": "(02-07)",
+       "year": "02-07",
+       "fit": "dedicated",
+       "rear": "H400"
+      },
+      {
+       "label": "(07-14)",
+       "year": "07-14",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    },
+    {
+     "name": "XC90",
+     "entries": [
+      {
+       "label": "(03-15)",
+       "year": "03-15",
+       "fit": "dedicated",
+       "rear": "A380H"
+      },
+      {
+       "label": "非噴水接頭 (15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": "A351H"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VW",
+   "models": [
+    {
+     "name": "AMAROK",
+     "entries": [
+      {
+       "label": "(11-)",
+       "year": "11-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "Arteon",
+     "entries": [
+      {
+       "label": "3H8 / 3H9 (21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": "A303H"
+      }
+     ]
+    },
+    {
+     "name": "BEETLE",
+     "entries": [
+      {
+       "label": "(98-11)",
+       "year": "98-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(13-19)",
+       "year": "13-19",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "BORA",
+     "entries": [
+      {
+       "label": "(99-06)",
+       "year": "99-06",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "CADDY MAXi",
+     "entries": [
+      {
+       "label": "(06-16)",
+       "year": "06-16",
+       "fit": "dedicated",
+       "rear": "A400H"
+      },
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": "A403H"
+      }
+     ]
+    },
+    {
+     "name": "CADDY VAN",
+     "entries": [
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A403H"
+      }
+     ]
+    },
+    {
+     "name": "CRAFTER",
+     "entries": [
+      {
+       "label": "(06-16)",
+       "year": "06-16",
+       "fit": "dedicated",
+       "rear": "A425H"
+      },
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "GOLF IV",
+     "entries": [
+      {
+       "label": "(99-05)",
+       "year": "99-05",
+       "fit": "dedicated",
+       "rear": "H341"
+      }
+     ]
+    },
+    {
+     "name": "GOLF V",
+     "entries": [
+      {
+       "label": "(03-05)",
+       "year": "03-05",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "(05-08)",
+       "year": "05-08",
+       "fit": "dedicated",
+       "rear": "A330H"
+      }
+     ]
+    },
+    {
+     "name": "GOLF VI",
+     "entries": [
+      {
+       "label": "(09-12)",
+       "year": "09-12",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "GOLF VII",
+     "entries": [
+      {
+       "label": "(13-20)",
+       "year": "13-20",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "GOLF VIII",
+     "entries": [
+      {
+       "label": "(21-)",
+       "year": "21-",
+       "fit": "dedicated",
+       "rear": "A252H"
+      }
+     ]
+    },
+    {
+     "name": "GOLF PLUS",
+     "entries": [
+      {
+       "label": "(05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": "A330H"
+      }
+     ]
+    },
+    {
+     "name": "GOLF SPORTSVAN",
+     "entries": [
+      {
+       "label": "(15-)",
+       "year": "15-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ID.4",
+     "entries": [
+      {
+       "label": "(24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ID.5",
+     "entries": [
+      {
+       "label": "(24-)",
+       "year": "24-",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "ID.Buzz",
+     "entries": [
+      {
+       "label": "(25-)",
+       "year": "25-",
+       "fit": "dedicated",
+       "rear": "A303H"
+      }
+     ]
+    },
+    {
+     "name": "JETTA",
+     "entries": [
+      {
+       "label": "(05-11)",
+       "year": "05-11",
+       "fit": "dedicated",
+       "rear": null
+      },
+      {
+       "label": "(11-14)",
+       "year": "11-14",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "LUPO",
+     "entries": [
+      {
+       "label": "(98-03)",
+       "year": "98-03",
+       "fit": "dedicated",
+       "rear": "H595"
+      },
+      {
+       "label": "(03-05)",
+       "year": "03-05",
+       "fit": "dedicated",
+       "rear": "H595"
+      }
+     ]
+    },
+    {
+     "name": "PASSAT",
+     "entries": [
+      {
+       "label": "(00-05)",
+       "year": "00-05",
+       "fit": "dedicated",
+       "rear": "H380"
+      },
+      {
+       "label": "(05-10)",
+       "year": "05-10",
+       "fit": "dedicated",
+       "rear": "A281H"
+      },
+      {
+       "label": "(11-15)",
+       "year": "11-15",
+       "fit": "dedicated",
+       "rear": "A281H"
+      },
+      {
+       "label": "(15-18)",
+       "year": "15-18",
+       "fit": "dedicated",
+       "rear": "A331H"
+      }
+     ]
+    },
+    {
+     "name": "PHAETON",
+     "entries": [
+      {
+       "label": "(04-16)",
+       "year": "04-16",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "POLO",
+     "entries": [
+      {
+       "label": "(00-05)",
+       "year": "00-05",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "(05-09)",
+       "year": "05-09",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "(10-17)",
+       "year": "10-17",
+       "fit": "dedicated",
+       "rear": "A282H"
+      },
+      {
+       "label": "(17-)",
+       "year": "17-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "SCIROCCO",
+     "entries": [
+      {
+       "label": "(08-14)",
+       "year": "08-14",
+       "fit": "dedicated",
+       "rear": "A251H"
+      },
+      {
+       "label": "(14-16)",
+       "year": "14-16",
+       "fit": "dedicated",
+       "rear": null
+      }
+     ]
+    },
+    {
+     "name": "SHARAN",
+     "entries": [
+      {
+       "label": "(00-10)",
+       "year": "00-10",
+       "fit": "dedicated",
+       "rear": "H405"
+      },
+      {
+       "label": "(10-)",
+       "year": "10-",
+       "fit": "dedicated",
+       "rear": "A331H"
+      }
+     ]
+    },
+    {
+     "name": "TIGUAN",
+     "entries": [
+      {
+       "label": "(08-16)",
+       "year": "08-16",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "(16-)",
+       "year": "16-",
+       "fit": "dedicated",
+       "rear": "A383H",
+       "rearOption": {
+        "code": "A383H",
+        "size": 15,
+        "price": 525,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋軟骨雨刷-a383h-15吋",
+        "label": "BOSCH 博世 後擋軟骨雨刷 A383H 15吋"
+       }
+      }
+     ]
+    },
+    {
+     "name": "TOUAREG",
+     "entries": [
+      {
+       "label": "(03-09)",
+       "year": "03-09",
+       "fit": "dedicated",
+       "rear": "A330H"
+      },
+      {
+       "label": "(10-17)",
+       "year": "10-17",
+       "fit": "dedicated",
+       "rear": "A360H"
+      }
+     ]
+    },
+    {
+     "name": "TOURAN",
+     "entries": [
+      {
+       "label": "(10-13)",
+       "year": "10-13",
+       "fit": "dedicated",
+       "rear": "A331H"
+      },
+      {
+       "label": "(14-)",
+       "year": "14-",
+       "fit": "dedicated",
+       "rear": "A282H"
+      }
+     ]
+    },
+    {
+     "name": "T-4",
+     "entries": [
+      {
+       "label": "(90-03)",
+       "year": "90-03",
+       "fit": "dedicated",
+       "rear": "H400"
+      }
+     ]
+    },
+    {
+     "name": "T-5",
+     "entries": [
+      {
+       "label": "(03-09)",
+       "year": "03-09",
+       "fit": "dedicated",
+       "rear": "A400H"
+      },
+      {
+       "label": "(09-13)",
+       "year": "09-13",
+       "fit": "dedicated",
+       "rear": "A400H"
+      },
+      {
+       "label": "(13-15)",
+       "year": "13-15",
+       "fit": "dedicated",
+       "rear": "A400H"
+      }
+     ]
+    },
+    {
+     "name": "T-6",
+     "entries": [
+      {
+       "label": "(16-22)",
+       "year": "16-22",
+       "fit": "dedicated",
+       "rear": "A403H"
+      }
+     ]
+    },
+    {
+     "name": "T-CROSS",
+     "entries": [
+      {
+       "label": "(19-)",
+       "year": "19-",
+       "fit": "dedicated",
+       "rear": "A251H"
+      }
+     ]
+    },
+    {
+     "name": "T-ROC",
+     "entries": [
+      {
+       "label": "(20-22)",
+       "year": "20-22",
+       "fit": "dedicated",
+       "rear": "A331H"
+      },
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "dedicated",
+       "rear": null
       }
      ]
     }

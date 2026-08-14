@@ -73,9 +73,15 @@ if os.path.exists(cpath):
         corr[nkey(c["brand"],c["model"],c.get("year",""))]=c
 
 # ---------- fitment + corrections ----------
-fit=[]
+# p*.json  = 型錄「通用雨刷對照表 美日韓車種」(型錄 24-29 頁)：U 型接頭，前擋賣通用型。
+# eu-p*.json = 型錄「專用雨刷對照表 歐系車種」(型錄 8-21 頁)：前擋是專用接頭，店上還沒賣，
+#              所以 driver/passenger 一律 null（走 dedicated 分支顯示「即將上市」），
+#              收錄它們是為了讓歐系車主查得到自己的後擋規格並直接購買。
+fit=[]; eu_rows=0
 for p in sorted(glob.glob(os.path.join(BASE,"pages","p*.json"))):
     fit+=json.load(open(p))
+for p in sorted(glob.glob(os.path.join(BASE,"pages","eu-p*.json"))):
+    rows=json.load(open(p)); eu_rows+=len(rows); fit+=rows
 applied=0
 for r in fit:
     k=nkey(r["brand"],r["model"],r.get("year",""))
@@ -224,7 +230,7 @@ def single_option(brand,label,material,url,var,d,p,pair_promo=None):
     return o
 
 # ---------- build cascade ----------
-brands={}; order=[]; seen_ded=set(); rows=[]
+brands={}; order=[]; seen_ded=set(); rows=[]; ded_rows=[]
 for r in fit:
     brand=r["brand"].strip(); mg=model_group(r["model"]) or r["model"]
     lbl=gen_label(r["model"]); year=r.get("year","")
@@ -235,6 +241,9 @@ for r in fit:
         dk=(brand,mg,label)
         if dk in seen_ded: continue
         seen_ded.add(dk)
+        # A dedicated-front car still has a rear blade we can sell today, so the rear code
+        # rides along even though there is no front option to show.
+        entry["rear"]=r.get("rear"); ded_rows.append(entry)
     else:
         entry["fit"]="universal"; entry["driver"]=r["driver"]; entry["passenger"]=r["passenger"]
         entry["rear"]=r.get("rear"); entry["_brand"]=brand; entry["_model"]=r["model"]; rows.append(entry)
@@ -284,8 +293,14 @@ for e in rows:
     if ro: e["rearOption"]=ro
     for k in ["_brand","_model"]+["_combo_"+L["key"] for L in LINES]: e.pop(k,None)
 
+# Dedicated-front rows (歐系全部，加上美日韓的專用接頭車) get the same rear treatment.
+for e in ded_rows:
+    ro=rear_by_code.get((e.get("rear") or "").upper())
+    if ro: e["rearOption"]=ro
+
 out_brands=[{"name":bn,"models":[brands[bn]["models"][mn] for mn in brands[bn]["order"]]} for bn in order]
-data={"meta":{"updated":"2026-06-25","source":"BOSCH 2026 通用雨刷型錄（美日韓）＋市場查證校正",
+data={"meta":{"updated":"2026-08-14",
+              "source":"BOSCH 2026 雨刷型錄（通用美日韓＋專用歐系）＋市場查證校正",
               "lines":["BOSCH 通用軟骨 旗艦款","HELLA 三節式 Hybrid"]},
       "brands":out_brands}
 json.dump(data,open(OUT,"w"),ensure_ascii=False,indent=1)
@@ -307,16 +322,21 @@ print(f"rows with 0 options (contact): {sum(1 for e in rows if not e['options'])
 # New vehicle-specific sets get added to the store over time. A set that parses but never
 # lands on a car is invisible on the site and produces no error, so surface it here — this
 # log is the only place a newly-added product that failed to match will show up.
-rear_rows=sum(1 for e in rows if e.get("rearOption"))
-rear_with_code=sum(1 for e in rows if e.get("rear"))
-used_rear={e["rearOption"]["code"] for e in rows if e.get("rearOption")}
+all_rows=rows+ded_rows
+rear_rows=sum(1 for e in all_rows if e.get("rearOption"))
+rear_with_code=sum(1 for e in all_rows if e.get("rear"))
+used_rear={e["rearOption"]["code"] for e in all_rows if e.get("rearOption")}
+print(f"專用接頭車款列: {len(ded_rows)}（歐系型錄讀進 {eu_rows} 列，同車款同年份會合併）")
 print(f"rear products in stock: {len(rear_by_code)} ({', '.join(sorted(rear_by_code))})")
 print(f"  rows with a rear code: {rear_with_code} | now buyable: {rear_rows}"
       + (f" ({rear_rows*100//rear_with_code}%)" if rear_with_code else ""))
+print(f"    其中通用美日韓 {sum(1 for e in rows if e.get('rearOption'))}"
+      f" / 專用（含歐系）{sum(1 for e in ded_rows if e.get('rearOption'))}")
 rear_unused=sorted(set(rear_by_code)-used_rear)
 if rear_unused:
     print(f"  配不到任何車的後擋商品：{', '.join(rear_unused)}")
-    print("    → 型錄的通用美日韓那 6 頁沒有這些代碼（多半是歐系件），不是錯誤")
+    print("    → 2026 台灣型錄（通用美日韓＋專用歐系）都沒有印這個代碼，不是程式錯誤；"
+          "要讓它配到車得先查出它適用哪些車再補進型錄資料")
 if rear_skipped:
     print(f"  ⚠️  略過的後擋商品（標題認不出代碼）：{len(rear_skipped)}")
     for why,h,t in rear_skipped: print(f"    - [{why}] {t[:70]}  ({h})")

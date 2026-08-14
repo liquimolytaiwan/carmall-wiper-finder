@@ -1,0 +1,46 @@
+[
+ {"brand": "BENZ", "model": "SLR (R199)", "year": "04-09", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "SLS (C197)", "year": "10-14", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BENZ", "model": "V Class VITO (W638)", "year": "95-03", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BENZ", "model": "V Class VIANO / VITO (W639)", "year": "05-10", "driver": null, "passenger": null, "rear": "H400", "rearSize": 16},
+ {"brand": "BENZ", "model": "V Class VIANO / VITO (W639)", "year": "10-14", "driver": null, "passenger": null, "rear": "A381H", "rearSize": 15},
+ {"brand": "BENZ", "model": "V Class VITO (W447)", "year": "14-", "driver": null, "passenger": null, "rear": "A402H", "rearSize": 16},
+ {"brand": "BENZ", "model": "CITAN", "year": "16-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "BUICK", "model": "Excelle", "year": "06-10", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BUICK", "model": "LA CROSSE", "year": "06-10", "driver": null, "passenger": null, "rear": null},
+ {"brand": "BUICK", "model": "RENDEZVOUS", "year": "03-08", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "CADILLAC", "model": "CTS", "year": "02-08", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CADILLAC", "model": "CTS", "year": "08-13", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CADILLAC", "model": "SRX", "year": "03-09", "driver": null, "passenger": null, "rear": "H340", "rearSize": 13},
+ {"brand": "CADILLAC", "model": "SRX", "year": "09-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CADILLAC", "model": "STS-V / STS", "year": "04-", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "CHRYSLER", "model": "300 / 300C", "year": "04-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CHRYSLER", "model": "CARAVAN / VOYAGER", "year": "02-", "driver": null, "passenger": null, "rear": "H400", "rearSize": 16},
+ {"brand": "CHRYSLER", "model": "CARAVAN / VOYAGER", "year": "07-", "driver": null, "passenger": null, "rear": "H402", "rearSize": 16},
+ {"brand": "CHRYSLER", "model": "SEBRING", "year": "00-07", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CHRYSLER", "model": "SEBRING", "year": "07-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CHRYSLER", "model": "PT Cruiser", "year": "00-10", "driver": null, "passenger": null, "rear": "H400", "rearSize": 16},
+ {"brand": "CHRYSLER", "model": "Voyager", "year": "09-", "driver": null, "passenger": null, "rear": "H403", "rearSize": 16},
+ {"brand": "CHRYSLER", "model": "Town&Country", "year": "97-05", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CHRYSLER", "model": "Town&Country", "year": "06-10", "driver": null, "passenger": null, "rear": null},
+
+ {"brand": "CITROEN", "model": "Berlingo", "year": "08-", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "CITROEN", "model": "Berlingo", "year": "18-", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "CITROEN", "model": "C2", "year": "03-08", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "CITROEN", "model": "C3", "year": "02-08", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14},
+ {"brand": "CITROEN", "model": "C3 Picasso", "year": "15-17", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "CITROEN", "model": "C4", "year": "04-08", "driver": null, "passenger": null, "rear": "H304", "rearSize": null},
+ {"brand": "CITROEN", "model": "C4 Picasso", "year": "06-08", "driver": null, "passenger": null, "rear": "H351", "rearSize": 14},
+ {"brand": "CITROEN", "model": "C4 Picasso", "year": "08-13", "driver": null, "passenger": null, "rear": "H351", "rearSize": 14},
+ {"brand": "CITROEN", "model": "C4 Picasso II", "year": "14-16", "driver": null, "passenger": null, "rear": "H351", "rearSize": null},
+ {"brand": "CITROEN", "model": "C4 Picasso II", "year": "16-", "driver": null, "passenger": null, "rear": "H351", "rearSize": null},
+ {"brand": "CITROEN", "model": "C4 Spacetourer", "year": "18-", "driver": null, "passenger": null, "rear": "H351", "rearSize": null},
+ {"brand": "CITROEN", "model": "C5", "year": "01-07", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "CITROEN", "model": "C5", "year": "19-", "driver": null, "passenger": null, "rear": "H840", "rearSize": 11},
+ {"brand": "CITROEN", "model": "C6", "year": "05-", "driver": null, "passenger": null, "rear": null},
+ {"brand": "CITROEN", "model": "C8", "year": "05-14", "driver": null, "passenger": null, "rear": "H353", "rearSize": 14}
+]
