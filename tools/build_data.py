@@ -159,6 +159,37 @@ for r in fit:
 # 所以配不到任何車的 correction 一定要吼出來。
 corr_unused=[c for k,c in corr.items() if k not in corr_used]
 
+# ---------- row splits ----------
+# 型錄有幾列把兩台以上尺寸不同的車併成一列（"G25 / M25"、"MUSTANG / MACH-E"）。
+# 那種列填哪個尺寸都會害另一台車的車主買錯 —— 不是 corrections 改得動的，要拆成獨立的列。
+#
+# 為什麼不直接改 pages/*.json：那些是**型錄逐頁判讀的原文**，README 明講「勿手改」。
+# 把查證結論寫進去，日後重新判讀型錄時會跟人工拆分的列衝突，而且分不出哪些是型錄印的、
+# 哪些是我們拆的。所以跟 corrections.json 一樣獨立成一份，型錄原文保持可重新判讀。
+split_added=0; splits_unused=[]
+spath=os.path.join(BASE,"row_splits.json")
+if os.path.exists(spath):
+    out=[]
+    idx={}
+    for sp in json.load(open(spath)):
+        idx[nkey(sp["brand"],sp["model"],sp.get("year",""))]=sp
+    used=set()
+    for r in fit:
+        k=nkey(r["brand"],r["model"],r.get("year",""))
+        sp=idx.get(k)
+        if not sp:
+            out.append(r); continue
+        used.add(k)
+        for part in sp["into"]:
+            row=dict(r)                       # 後擋代碼等欄位沿用原列
+            row["model"]=part["model"]
+            if part.get("year"): row["year"]=part["year"]
+            for f in ("driver","passenger","rear","rearSize"):
+                if f in part: row[f]=part[f]
+            out.append(row); split_added+=1
+    fit=out
+    splits_unused=[sp for k,sp in idx.items() if k not in used]
+
 # ---------- products ----------
 prods=json.load(open(os.path.join(BASE,"wiper_products.json")))
 def prod_by_handle(h):
@@ -449,7 +480,13 @@ def ncombo(line): return sum(1 for e in rows for o in e["options"]
                             if o["brand"]==line and o["kind"]=="combo")
 print(f"車廠中文名: {sum(1 for b in brands if zh.get(b))}/{len(brands)} 有中文"
       + (f"｜brand_names.json 沒收錄: {missing_zh}" if missing_zh else ""))
-print(f"corrections applied: {applied}/{len(corr)}")
+print(f"corrections applied: {applied}/{len(corr)}"
+      + (f"｜拆列：{split_added} 列（原 {split_added and len(json.load(open(spath)))} 列併車拆開）" if split_added else ""))
+if splits_unused:
+    print(f"  ⚠️  配不到任何車、完全沒作用的 row_split：{len(splits_unused)}")
+    for sp in splits_unused:
+        print(f"    - {sp['brand']} {sp['model']} {sp.get('year')}"
+              f"（型錄裡沒有這個 車廠+車款+年份 的組合，model 要寫型錄原文）")
 if corr_unused:
     print(f"  ⚠️  配不到任何車、完全沒作用的 correction：{len(corr_unused)}")
     for c in corr_unused:

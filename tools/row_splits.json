@@ -1,0 +1,110 @@
+[
+ {
+  "brand": "INFINITI",
+  "model": "G25 / M25",
+  "year": "10-13",
+  "why": "型錄把兩台尺寸不同的車併成一列。G25 是 26/16（＝原列的值，這半本來就對），M25 是 Y51 車體、26/19。併在一起的話填哪個都會害另一台的車主買錯。",
+  "into": [
+   {
+    "model": "G25",
+    "driver": 26,
+    "passenger": 16,
+    "source": "market",
+    "note": "旭益 G25 2011~ 26/16 —— 與原列同值，這半沒問題。"
+   },
+   {
+    "model": "M25",
+    "driver": 26,
+    "passenger": 19,
+    "source": "market",
+    "note": "台灣市場 24+20 與 26+19 兩種說法都有人賣，但分屬兩個車體：24+20 的賣場標「(2009~)」，那是上一代 Y50（M35，來源一致 24/19）；26+19 的（PIAA、SilBlade、Yahoo「Y51 2010~14 原廠雨刷」）才是 Y51。M25 是 Y51，同車體的 M37 兩份來源也都是 26/19。這列 10-13 ＝ Y51。註：HELLA 沒有 19 吋，這列只會有 BOSCH 選項。"
+   }
+  ]
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G35 / G37 / M35 / M37",
+  "year": "03-07",
+  "why": "型錄把四台車併成一列，而且四台沒有一台是 22/18。年份也不對 —— M37 是 2010 年後的車，本來就不該待在「03-07」這列。所以拆的時候連年份一起還原成各車真正的產期。",
+  "into": [
+   {
+    "model": "G35",
+    "year": "03-07",
+    "driver": 26,
+    "passenger": 16,
+    "source": "market",
+    "note": "旭益 G35 / G SEDAN 2003-2013 26/16；YARK G Saloon('02) 2002~ 26/16。"
+   },
+   {
+    "model": "G37",
+    "year": "07-13",
+    "driver": 26,
+    "passenger": 16,
+    "source": "market",
+    "note": "旭益 G37 2007~ 26/16。原列年份 03-07 對 G37 是錯的（G37 2007 才上市），一併還原。"
+   },
+   {
+    "model": "M35",
+    "year": "06-10",
+    "driver": 24,
+    "passenger": 19,
+    "source": "market",
+    "note": "旭益 M35 2006-2010 24/19；YARK M SEDAN Y50 24/18~24/19。註：HELLA 沒有 19 吋。"
+   },
+   {
+    "model": "M37",
+    "year": "10-14",
+    "driver": 26,
+    "passenger": 19,
+    "source": "market",
+    "note": "旭益 M37 2010-2014 26/19；YARK M SEDAN Y51 26/18~26/19。與同為 Y51 的 M25 一致。註：HELLA 沒有 19 吋。"
+   }
+  ]
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "GR YARIS / CROSSOVER",
+  "year": "21-",
+  "why": "GR YARIS 是三門鋼砲、Crossover 是 YARIS 的跨界版本，兩台車尺寸不同，而且原列的 26/14 兩台都不是。",
+  "into": [
+   {
+    "model": "GR YARIS",
+    "driver": 24,
+    "passenger": 16,
+    "source": "market",
+    "note": "旭益 GR Yaris 2021~迄今 24/16。"
+   },
+   {
+    "model": "YARIS CROSSOVER",
+    "driver": 24,
+    "passenger": 14,
+    "source": "market",
+    "note": "Crossover 是三代 YARIS 2018/4 小改款之後的跨界版本，不是獨立車體，所以年份不能沿用原列的「21-」（那是 GR YARIS 的產期）—— 沿用會讓 2018-2020 年的Crossover 車主查不到自己的年份。尺寸依旭益 Yaris 2014/9-2018/3 與 2018/4-迄今 兩列皆為 24/14、YARK 亦同，同款 14-22 那列這次也已修正為 24/14。這一列與 YARIS 14-22 的涵蓋範圍**刻意重疊** —— 車主在下拉選單找的是「Crossover」這個名字，找不到就會亂猜。**後擋要明寫 H309、不能沿用原列的 H307** —— 原列的 H307 是 GR YARIS 的，而 Crossover 既然就是三代 YARIS，後擋就跟 YARIS 06-14／14-22 兩列一樣是 H309。沿用會直接賣錯後擋雨刷。",
+    "year": "18-22",
+    "rear": "H309"
+   }
+  ]
+ },
+ {
+  "brand": "FORD",
+  "model": "MUSTANG / MACH-E",
+  "year": "22-",
+  "why": "Mustang 是跑車、Mach-E 是電動休旅，連車體形式都不同。原列的 24/20 對 Mach-E 是對的，對 Mustang 不是。",
+  "into": [
+   {
+    "model": "MUSTANG",
+    "driver": 22,
+    "passenger": 20,
+    "source": "market",
+    "note": "旭益 Mustang 2012~迄今 22/20，YARK 同值。原列 24/20 的駕駛側差 2 吋。"
+   },
+   {
+    "model": "MUSTANG MACH-E",
+    "driver": 24,
+    "passenger": 20,
+    "source": "market",
+    "note": "ottoblades／wiperpicks／wiperbladesusa 一致 24/20 —— 與原列同值，這半本來就對。"
+   }
+  ]
+ }
+]

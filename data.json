@@ -3620,11 +3620,47 @@
        "year": "15-19",
        "fit": "dedicated",
        "rear": null
+      },
+      {
+       "label": "(22-)",
+       "year": "22-",
+       "fit": "universal",
+       "driver": 22,
+       "passenger": 20,
+       "rear": null,
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957312",
+         "driver": 22,
+         "passenger": 20,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
+         "brand": "HELLA",
+         "label": "HELLA 三節式 Hybrid",
+         "material": "三節式",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
+         "driver": 22,
+         "passenger": 20,
+         "driverPrice": 260,
+         "passengerPrice": 260,
+         "price": 520
+        }
+       ]
       }
      ]
     },
     {
-     "name": "MUSTANG / MACH-E",
+     "name": "MUSTANG MACH-E",
      "entries": [
       {
        "label": "(22-)",
@@ -5793,7 +5829,7 @@
      ]
     },
     {
-     "name": "G25 / M25",
+     "name": "G25",
      "entries": [
       {
        "label": "(10-13)",
@@ -5824,14 +5860,14 @@
      ]
     },
     {
-     "name": "G35 / G37 / M35 / M37",
+     "name": "G35",
      "entries": [
       {
        "label": "(03-07)",
        "year": "03-07",
        "fit": "universal",
-       "driver": 22,
-       "passenger": 18,
+       "driver": 26,
+       "passenger": 16,
        "rear": null,
        "options": [
         {
@@ -5839,9 +5875,9 @@
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
          "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957312",
-         "driver": 22,
-         "passenger": 18,
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
          "driverPrice": 499,
          "passengerPrice": 499,
          "price": 859,
@@ -5853,12 +5889,53 @@
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
          "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 18,
-         "driverPrice": 260,
-         "passengerPrice": 250,
-         "price": 510
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 300,
+         "passengerPrice": 240,
+         "price": 540
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "G37",
+     "entries": [
+      {
+       "label": "(07-13)",
+       "year": "07-13",
+       "fit": "universal",
+       "driver": 26,
+       "passenger": 16,
+       "rear": null,
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
+         "brand": "HELLA",
+         "label": "HELLA 三節式 Hybrid",
+         "material": "三節式",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
+         "driver": 26,
+         "passenger": 16,
+         "driverPrice": 300,
+         "passengerPrice": 240,
+         "price": 540
         }
        ]
       }
@@ -5900,6 +5977,93 @@
          "driverPrice": 300,
          "passengerPrice": 240,
          "price": 540
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "M25",
+     "entries": [
+      {
+       "label": "(10-13)",
+       "year": "10-13",
+       "fit": "universal",
+       "driver": 26,
+       "passenger": 19,
+       "rear": null,
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "M35",
+     "entries": [
+      {
+       "label": "(06-10)",
+       "year": "06-10",
+       "fit": "universal",
+       "driver": 24,
+       "passenger": 19,
+       "rear": null,
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957313",
+         "driver": 24,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "M37",
+     "entries": [
+      {
+       "label": "(10-14)",
+       "year": "10-14",
+       "fit": "universal",
+       "driver": 26,
+       "passenger": 19,
+       "rear": null,
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
+         "driver": 26,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
         }
        ]
       }
@@ -15657,14 +15821,14 @@
      ]
     },
     {
-     "name": "GR YARIS / CROSSOVER",
+     "name": "GR YARIS",
      "entries": [
       {
        "label": "(21-)",
        "year": "21-",
        "fit": "universal",
-       "driver": 26,
-       "passenger": 14,
+       "driver": 24,
+       "passenger": 16,
        "rear": "H307",
        "options": [
         {
@@ -15672,9 +15836,9 @@
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
          "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
-         "driver": 26,
-         "passenger": 14,
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957313",
+         "driver": 24,
+         "passenger": 16,
          "driverPrice": 499,
          "passengerPrice": 499,
          "price": 859,
@@ -15686,11 +15850,11 @@
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
          "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 14,
-         "driverPrice": 300,
-         "passengerPrice": 220,
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
+         "driver": 24,
+         "passenger": 16,
+         "driverPrice": 280,
+         "passengerPrice": 240,
          "price": 520
         }
        ],
@@ -16809,6 +16973,54 @@
         "price": 375,
         "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h307-12吋",
         "label": "BOSCH 博世 後擋原廠樣式雨刷 H307 12吋"
+       }
+      }
+     ]
+    },
+    {
+     "name": "YARIS CROSSOVER",
+     "entries": [
+      {
+       "label": "(18-22)",
+       "year": "18-22",
+       "fit": "universal",
+       "driver": 24,
+       "passenger": 14,
+       "rear": "H309",
+       "options": [
+        {
+         "brand": "BOSCH",
+         "label": "BOSCH 通用軟骨 旗艦款",
+         "material": "軟骨",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957313",
+         "driver": 24,
+         "passenger": 14,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
+        },
+        {
+         "brand": "HELLA",
+         "label": "HELLA 三節式 Hybrid",
+         "material": "三節式",
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
+         "driver": 24,
+         "passenger": 14,
+         "driverPrice": 280,
+         "passengerPrice": 220,
+         "price": 500
+        }
+       ],
+       "rearOption": {
+        "code": "H309",
+        "size": 12,
+        "price": 470,
+        "url": "https://www.carmall.com.tw/products/bosch-博世-後擋原廠樣式雨刷-h309-12吋",
+        "label": "BOSCH 博世 後擋原廠樣式雨刷 H309 12吋"
        }
       }
      ]
