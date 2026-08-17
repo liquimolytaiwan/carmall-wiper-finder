@@ -313,10 +313,10 @@ def find_combo(brand,model,d,p,line,relaxed=False,year=None):
         if ys and c["years"]:
             if c["years"][0]<=ys[0] and ys[1]<=c["years"][1]:
                 ymatch=2 if ys==c["years"] else 1
-            elif fg1 is None:
-                # 世代分不出來時，年份就是唯一的辨識依據 —— 只是重疊不算數。
-                # INNOVA (11-16) 對上「第一代(07~11)」在 2011 那一年重疊，尺寸也剛好相同，
-                # 光靠排名分數擋不住：它會變成第二代車主看到「第一代」的商品頁。
+            elif not relaxed:
+                # 商品標題自己寫了年份、而且沒涵蓋這一列 —— 那張卡就是在講別台車。
+                # INNOVA (11-16) 對上「第一代(07~11)」、LS (12-17) 對上「第四代(07~12)」
+                # 都是這樣：尺寸剛好相同、世代也對得上（或分不出來），只有年份在抗議。
                 # 商品**能不能用**跟商品**標題有沒有在講這台車**是兩件事，後者不能將就。
                 continue
         score=len(bt & c["fam"])

@@ -4194,7 +4194,7 @@
   "year": "12-17",
   "ours": [
    24,
-   22
+   16
   ],
   "verdict": "UNKNOWN",
   "A": null,
@@ -4203,7 +4203,7 @@
   "B": null,
   "B_raw": null,
   "B_gap": null,
-  "combo": true
+  "combo": false
  },
  {
   "amb_a": false,

@@ -71,7 +71,7 @@ KIA        CARENS                  04-08   型錄 24/18    旭益 —           
 KIA        KAON                    07-20   型錄 22/18    旭益 —             YARK —               
 LEXUS      CT 200H                 19-     型錄 26/18    旭益 —             YARK —               [有組合商品]
 LEXUS      IS                      17-     型錄 24/18    旭益 —             YARK —               [有組合商品]
-LEXUS      LS                      12-17   型錄 24/22    旭益 —             YARK —               [有組合商品]
+LEXUS      LS                      12-17   型錄 24/16    旭益 —             YARK —               
 LEXUS      LX                      02-07   型錄 20/20    旭益 —             YARK —               
 LEXUS      RC                      14-     型錄 24/18    旭益 —             YARK —               
 LEXUS      RZ450e                  23-     型錄 26/16    旭益 —             YARK —               
