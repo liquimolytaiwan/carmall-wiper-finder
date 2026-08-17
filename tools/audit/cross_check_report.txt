@@ -1,11 +1,11 @@
-共 345 筆
+共 351 筆
   至少一份來源與型錄相符（差 ≤1 吋）                 214
-  只查到一份來源，與型錄相符                        53
+  只查到一份來源，與型錄相符                        59
   兩份來源一致、都與型錄差 ≥2 吋 ★                   1
   來源自己內部就有兩種答案，要逐筆查                     3
-  只有一份來源，與型錄差 ≥2 吋                      8
+  只有一份來源，與型錄差 ≥2 吋                      7
   兩份來源互相打架                              1
-  兩份來源都查不到                             65
+  兩份來源都查不到                             66
 
 ===== 兩份來源一致、都與型錄差 ≥2 吋 ★（1）=====
 MAZDA      CX-7                    09-13   型錄 26/16    旭益 24/16         YARK 24/16           [有組合商品]
@@ -19,34 +19,33 @@ INFINITI   QX50                    19-     型錄 24/18    旭益 26/16         
 NISSAN     SERENA                  03-12   型錄 26/14    旭益 24/14         YARK 24/14           
               旭益: Serena 2006~迄今 24/14  |  YARK: Serena 2006~年之後 24/14  |  舊版BOSCH文字版: SERENA (01-) 22/16
 
-===== 只有一份來源，與型錄差 ≥2 吋（8）=====
+===== 只有一份來源，與型錄差 ≥2 吋（7）=====
 HONDA      Odyssey                 13-16   型錄 28/14    旭益 —             YARK 26/22           
               旭益: None  |  YARK: Odyssey 2013~2015/05(美規/5代) 26/22
 HYUNDAI    GENESIS                 16-19   型錄 26/16    旭益 —             YARK 24/18           
               旭益: None  |  YARK: GENESIS (DH) 2014~年之後 24/18
-INFINITI   G25 / M25               10-13   型錄 26/16    旭益 24/20         YARK —               [有組合商品]
+INFINITI   M25                     10-13   型錄 26/19    旭益 24/20         YARK —               [有組合商品]
               旭益: M25 2009~迄今 24/20  |  YARK: None
-INFINITI   G35 / G37 / M35 / M37   03-07   型錄 22/18    旭益 26/16         YARK —               
-              旭益: G35 / G SEDAN 2003~2013 26/16  |  YARK: None
 KIA        CARNIVAL                21-     型錄 26/20    旭益 26/18         YARK —               
               旭益: Carnival 2021/4~2023(四代、U型鉤 26/18  |  YARK: None
 MITSUBISHI COLT PLUS               14-19   型錄 26/14    旭益 26/12         YARK —               
               旭益: Colt plus 2013~迄今(七代 26/12  |  YARK: None
 SUZUKI     CARRY                   08-     型錄 16/16    旭益 —             YARK 18/18           
               旭益: None  |  YARK: Carry 2008~2017 18/18
-TOYOTA     GR YARIS / CROSSOVER    21-     型錄 26/14    旭益 24/16         YARK —               
-              旭益: GR Yaris 2021~迄今 24/16  |  YARK: None
+TOYOTA     GR YARIS                21-     型錄 24/16    旭益 24/14         YARK —               
+              旭益: Yaris 2018/4~迄今 (三代小改版 24/14  |  YARK: None
 
 ===== 兩份來源互相打架（1）=====
 MITSUBISHI LANCER                  17-     型錄 26/18    旭益 24/16         YARK 24/18           
               旭益: Lancer 2017/4~迄今(Grand Lancer 24/16  |  YARK: Lancer 2017/02~年之後(Grand Lancer) 24/18
 
-===== 兩份來源都查不到（65）=====
+===== 兩份來源都查不到（66）=====
 CMC        ZINGER                  15-     型錄 26/14    旭益 —             YARK —               
 CMC        菱利 E300 / A180          20-     型錄 18/16    旭益 —             YARK —               
 FORD       FIESTA                  02-08   型錄 22/16    旭益 —             YARK —               
               舊版BOSCH文字版: FIESTA V (02-) 22/16
-FORD       MUSTANG / MACH-E        22-     型錄 24/20    旭益 —             YARK —               
+FORD       MUSTANG                 22-     型錄 22/20    旭益 —             YARK —               
+FORD       MUSTANG MACH-E          22-     型錄 24/20    旭益 —             YARK —               
 HONDA      ACCORD                  13-16   型錄 26/19    旭益 —             YARK —               [有組合商品]
 HONDA      ACCORD                  98-08   型錄 24/19    旭益 —             YARK —               
               舊版BOSCH文字版: ACCORD／雅哥 (98-) 24/19
@@ -71,7 +70,7 @@ KIA        CARENS                  04-08   型錄 24/18    旭益 —           
 KIA        KAON                    07-20   型錄 22/18    旭益 —             YARK —               
 LEXUS      CT 200H                 19-     型錄 26/18    旭益 —             YARK —               [有組合商品]
 LEXUS      IS                      17-     型錄 24/18    旭益 —             YARK —               [有組合商品]
-LEXUS      LS                      12-17   型錄 24/16    旭益 —             YARK —               
+LEXUS      LS                      12-17   型錄 24/16    旭益 —             YARK —               [有組合商品]
 LEXUS      LX                      02-07   型錄 20/20    旭益 —             YARK —               
 LEXUS      RC                      14-     型錄 24/18    旭益 —             YARK —               
 LEXUS      RZ450e                  23-     型錄 26/16    旭益 —             YARK —               

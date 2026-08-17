@@ -635,7 +635,29 @@
   "C_raw": null,
   "C_gap": null,
   "brand": "FORD",
-  "model": "MUSTANG / MACH-E",
+  "model": "MUSTANG",
+  "year": "22-",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "FORD",
+  "model": "MUSTANG MACH-E",
   "year": "22-",
   "ours": [
    24,
@@ -2562,27 +2584,27 @@
   "combo": true
  },
  {
-  "amb_a": true,
+  "amb_a": false,
   "amb_b": false,
   "C": null,
   "C_raw": null,
   "C_gap": null,
   "brand": "INFINITI",
-  "model": "G25 / M25",
+  "model": "G25",
   "year": "10-13",
   "ours": [
    26,
    16
   ],
-  "verdict": "ERR1",
+  "verdict": "OK1",
   "A": [
    [
-    24,
-    20
+    26,
+    16
    ]
   ],
-  "A_raw": "M25 2009~迄今 24/20",
-  "A_gap": 4,
+  "A_raw": "G25 2011~迄今 26/16",
+  "A_gap": 0,
   "B": null,
   "B_raw": null,
   "B_gap": null,
@@ -2595,13 +2617,13 @@
   "C_raw": null,
   "C_gap": null,
   "brand": "INFINITI",
-  "model": "G35 / G37 / M35 / M37",
+  "model": "G35",
   "year": "03-07",
   "ours": [
-   22,
-   18
+   26,
+   16
   ],
-  "verdict": "ERR1",
+  "verdict": "OK1",
   "A": [
    [
     26,
@@ -2609,7 +2631,34 @@
    ]
   ],
   "A_raw": "G35 / G SEDAN 2003~2013 26/16",
-  "A_gap": 4,
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "G37",
+  "year": "07-13",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "G37 2007~迄今 26/16",
+  "A_gap": 0,
   "B": null,
   "B_raw": null,
   "B_gap": null,
@@ -2649,6 +2698,87 @@
   ],
   "B_raw": "JX35 2012~年之後 26/16／26/17",
   "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "M25",
+  "year": "10-13",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "ERR1",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "M25 2009~迄今 24/20",
+  "A_gap": 2,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "M35",
+  "year": "06-10",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "M35 2006~2010 24/19",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "M37",
+  "year": "10-14",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    19
+   ]
+  ],
+  "A_raw": "M37 2010~2014 26/19",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
   "combo": false
  },
  {
@@ -4203,7 +4333,7 @@
   "B": null,
   "B_raw": null,
   "B_gap": null,
-  "combo": false
+  "combo": true
  },
  {
   "amb_a": false,
@@ -9763,26 +9893,26 @@
   "combo": false
  },
  {
-  "amb_a": false,
+  "amb_a": true,
   "amb_b": false,
   "C": null,
   "C_raw": null,
   "C_gap": null,
   "brand": "TOYOTA",
-  "model": "GR YARIS / CROSSOVER",
+  "model": "GR YARIS",
   "year": "21-",
   "ours": [
-   26,
-   14
+   24,
+   16
   ],
   "verdict": "ERR1",
   "A": [
    [
     24,
-    16
+    14
    ]
   ],
-  "A_raw": "GR Yaris 2021~迄今 24/16",
+  "A_raw": "Yaris 2018/4~迄今 (三代小改版 24/14",
   "A_gap": 2,
   "B": null,
   "B_raw": null,
@@ -10773,6 +10903,33 @@
   ],
   "B_raw": "Yaris Cross 2023/09~ 22/16",
   "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "YARIS CROSSOVER",
+  "year": "18-22",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Yaris 2018/4~迄今 (三代小改版 24/14",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
   "combo": false
  },
  {
