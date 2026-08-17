@@ -1,0 +1,6258 @@
+[
+ {
+  "brand": "CMC",
+  "model": "J Space",
+  "years": "2025/11~",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "CMC",
+  "model": "VARICA",
+  "years": "1999~2008",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "CMC",
+  "model": "VARICA",
+  "years": "2009~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "CMC",
+  "model": "ZINGER",
+  "years": "2006~2010",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CHARADE",
+  "years": "2011~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CHARADE IV (G200, G202)",
+  "years": "1993~2000",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CHARADE IV Saloon (G203)",
+  "years": "1993~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "COPEN",
+  "years": "2006~2008",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CUORE V (L7_)",
+  "years": "1998~2003",
+  "driver": 18,
+  "passenger": 14,
+  "raw": "18+14"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CUORE / MIRA III (L201)",
+  "years": "1990~1995",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CUORE IV (L501)",
+  "years": "1994~1999",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "CUORE V (L5)",
+  "years": "1996~1998",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "DATREVIS",
+  "years": "2006~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "EXTOL Box",
+  "years": "2000~年之後",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "EXTOL Bus (S22_, S23_)",
+  "years": "2000~2011",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "GRAN MOVE (G3)",
+  "years": "1996~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "HIJET Box, Bus (S85)",
+  "years": "1992~年之後",
+  "driver": 16,
+  "passenger": 14,
+  "raw": "16+14"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "HIJET Pickup",
+  "years": "1998~年之後",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "HIJET Pickup (_U60)",
+  "years": "1992~1998",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "MATERIA (COO)",
+  "years": "2006~2009",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "MATERIA (COO)",
+  "years": "2006~2009",
+  "driver": 20,
+  "passenger": 19,
+  "raw": "20+19"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "SIRION",
+  "years": "2001~2004",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "SIRION",
+  "years": "2005~2016(2代)",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "TERIOS",
+  "years": "2001~2006",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "TERIOS",
+  "years": "2006~2016(2代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "TERIOS",
+  "years": "2006~2016(2代)",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "DAIHATSU",
+  "model": "YRV (M2)",
+  "years": "2001~年之後",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "FORD",
+  "model": "Aztec",
+  "years": "1995~1998",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Econovan",
+  "years": "1988~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Ecosport",
+  "years": "2011~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Ecosport",
+  "years": "2013~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Edge",
+  "years": "2015~2016",
+  "driver": 28,
+  "passenger": 28,
+  "raw": "28+28"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escape",
+  "years": "2000~2007",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escape",
+  "years": "2000~2007",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escape",
+  "years": "2004~2007",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escape",
+  "years": "2008~2013",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escape",
+  "years": "2008~2013",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escort",
+  "years": "1994~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Escort",
+  "years": "1998~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "EXPLORER",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "FORD",
+  "model": "FESTIVA",
+  "years": "1993~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "FIESTA",
+  "years": "1995~2002",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "FIESTA",
+  "years": "1995~2002",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "FIESTA",
+  "years": "2006~2009(5代/MK6)",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "FIESTA",
+  "years": "2009~年之後(6代/MK7)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2000~2011(1)",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2000~2011(1)",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2001~2004(MK1/進口)",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2001~2004(MK1/進口)",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2004~2012(2)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2004~2012(2)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2004~2012(MK2)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2004~2012(MK2)",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2013~2015/09(MK3)",
+  "driver": 28,
+  "passenger": 28,
+  "raw": "28+28"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2015~2019/01(MK3.5)",
+  "driver": 28,
+  "passenger": 28,
+  "raw": "28+28"
+ },
+ {
+  "brand": "FORD",
+  "model": "Focus",
+  "years": "2019/02~年之後(MK4/MK4.5)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "FREESTYLE",
+  "years": "2004~2007",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "FUSION (JU_)",
+  "years": "2002~2012",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "I-MAX",
+  "years": "2007~2011",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "KA (RB_)",
+  "years": "1996~2008",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "KA (RU8)",
+  "years": "2008~2010",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "FORD",
+  "model": "KUGA",
+  "years": "2013~2020/05 (MK2)",
+  "driver": 28,
+  "passenger": 28,
+  "raw": "28+28"
+ },
+ {
+  "brand": "FORD",
+  "model": "KUGA",
+  "years": "2020/06~年之後 (MK3)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "KUGA",
+  "years": "2022~年之後",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "MAV",
+  "years": "2000~2006",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Metrostar",
+  "years": "2001~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "Mondeo",
+  "years": "2000~2007(MK3)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "Mondeo",
+  "years": "2007~2014(MK4)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Mondeo",
+  "years": "2007~2014(MK4)",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "FORD",
+  "model": "Mondeo",
+  "years": "2015~年之後(MK5)",
+  "driver": 26,
+  "passenger": 26,
+  "raw": "26+26"
+ },
+ {
+  "brand": "FORD",
+  "model": "Mustang",
+  "years": "2005~2009",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "Mustang",
+  "years": "2012~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "New Scorplo",
+  "years": "1995~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "ORION III (GAL)",
+  "years": "1990~1996",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "PUMA (EC_)",
+  "years": "1997~2002",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Ranger",
+  "years": "1993~2010",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Ranger",
+  "years": "2010~2015",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Ranger",
+  "years": "2016~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "Taurus",
+  "years": "1996~2006",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "Taurus",
+  "years": "2010~2015",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "FORD",
+  "model": "Territory (領睿)",
+  "years": "2025/11~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "FORD",
+  "model": "TIERRA",
+  "years": "1998~2008",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "FORD",
+  "model": "Tourneo",
+  "years": "2014~年之後",
+  "driver": 30,
+  "passenger": 28,
+  "raw": "30+28"
+ },
+ {
+  "brand": "FORD",
+  "model": "Windstar",
+  "years": "1998~2003",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "1990~2002(5代/6代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "1990~2002(5代/6代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "2002~2006(7代)",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "2002~2006(7代)",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "2003~2013(8代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "2008~2016(9代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "years": "2008~2016(9代)",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "HONDA",
+  "model": "C-HR",
+  "years": "2017~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CITY",
+  "years": "1996~2002(3代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CITY",
+  "years": "2006~2007",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CITY",
+  "years": "2008~2016",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CITY",
+  "years": "2014~年之後(6代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "1991-1995(5代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "1996~2000(6代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "2001~2006(7代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "2006/04~2007(8代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "2006/04~2007(8代)",
+  "driver": 26,
+  "passenger": 23,
+  "raw": "26+23"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "2008~2012/05(8代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "2008~2012/05(8代)",
+  "driver": 26,
+  "passenger": 23,
+  "raw": "26+23"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "years": "2012~年之後(9代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "HONDA",
+  "model": "Civic e:HEV",
+  "years": "2023/07~",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "1997~2002(1代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2003~2006(2代)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2007~2012(2007~2012/09(3代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2007~2012(3代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2012/10~2017/06(4代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2012~2017(4代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2017/07~2023/06(5代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2017~年之後(5代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2023/08~年之後(6代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V",
+  "years": "2023/08~年之後(6代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-Z Hybrid",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "HONDA",
+  "model": "Domani",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "FIT",
+  "years": "2008~2014/09(2代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "FIT",
+  "years": "2014/10~年之後(3代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "FR-V (BE)",
+  "years": "2004~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "HR-V",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "Insight",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "INTEGRA (DC5)",
+  "years": "2001~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "INTEGRA Coupe (DC2, DC4)",
+  "years": "1993~2001",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "JAZZ II (GD, GE3)",
+  "years": "2001~2008",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "JAZZ III (GE, GG_, GP_)",
+  "years": "2007~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "JAZZ Saloon",
+  "years": "2003~年之後",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "LEGEND",
+  "years": "1998~2004",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "LEGEND",
+  "years": "1998~2004",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "HONDA",
+  "model": "LOGO (GA3)",
+  "years": "1999~2002",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "NSX Convertible, Coupe (NA)",
+  "years": "1990~2005",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "HONDA",
+  "model": "Odyssey",
+  "years": "2013~2015/05(美規/5代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "HONDA",
+  "model": "Odyssey",
+  "years": "2015/06~年之後(日規/5代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "Odyssey",
+  "years": "2015/06~年之後(日規/5代)",
+  "driver": 28,
+  "passenger": 14,
+  "raw": "28+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "PILOT",
+  "years": "2009~2015",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "HONDA",
+  "model": "PILOT",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 24,
+  "raw": "26+24"
+ },
+ {
+  "brand": "HONDA",
+  "model": "PRELUDE IV (BB)",
+  "years": "1991~1997",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "PRELUDE V (BB)",
+  "years": "1996~2001",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HONDA",
+  "model": "S 2000",
+  "years": "2006~2016",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "HONDA",
+  "model": "STREAM",
+  "years": "2001~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "STREAM (RN)",
+  "years": "2001~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "HONDA",
+  "model": "ZR-V",
+  "years": "2026/04~",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ACCENT",
+  "years": "1995~2005",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ACCENT",
+  "years": "2006~2011",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ACCENT",
+  "years": "2012~2015",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ATOZ",
+  "years": "1998~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "AZERA",
+  "years": "2006~2011",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "AZERA",
+  "years": "2012~2014",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "COUPE",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "COUPE",
+  "years": "2011~年之後(R58)",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Custin",
+  "years": "2022/11~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ELANTRA",
+  "years": "1991~2011",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ELANTRA",
+  "years": "2012~2017",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ELANTRA",
+  "years": "2017~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "EQUUS / CENTENNIAL ('09)",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "EQUUS / CENTENNIAL ('99)",
+  "years": "1999~2009",
+  "driver": 22,
+  "passenger": 22,
+  "raw": "22+22"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Galloper",
+  "years": "1997~年之後",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "GENESIS (BH)",
+  "years": "2008~2014",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "GENESIS (DH)",
+  "years": "2014~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "GENESIS Coupe",
+  "years": "2008~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "GETZ",
+  "years": "2002~年之後",
+  "driver": 22,
+  "passenger": 14,
+  "raw": "22+14"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "GRAND SANTA FÉ",
+  "years": "2013~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "GRANDEUR (TG)",
+  "years": "2005~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "i10",
+  "years": "2009~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "i20 (GB)",
+  "years": "2014~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "i20 (PB, PBT)",
+  "years": "2008~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "i20 Coupe",
+  "years": "2015~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "i30",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "i40, CW (VF)",
+  "years": "2011~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "IONIQ Hybrid",
+  "years": "2017/06~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "ix20 (JC)",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "IX35",
+  "years": "2010~2016(TUCSON)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Kona",
+  "years": "2018/11~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "LANTRA I (J~1)",
+  "years": "1990~1995",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "LANTRA II (J~2)",
+  "years": "1995~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "LANTRA II Wagon (J~2)",
+  "years": "1996~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Loniq Hybrid",
+  "years": "2017~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "MATRIX",
+  "years": "2002~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "New Coupe",
+  "years": "2003~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "New Coupe",
+  "years": "2003~年之後",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "PORTER",
+  "years": "2005~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "years": "2002~2005(1代)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "years": "2006~2013(2代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "years": "2014~年之後(3代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Santamo",
+  "years": "2000~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "years": "1998~2001(4代)",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "years": "2001~2004(4代)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "years": "2005~2010(5代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "years": "2005~2010(5代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "years": "2011~2014(6代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "years": "2015~年之後(7代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Starex",
+  "years": "2006~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Starex",
+  "years": "2006~年之後",
+  "driver": 19,
+  "passenger": 18,
+  "raw": "19+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Terracan",
+  "years": "2001~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "TRAJET",
+  "years": "2000~年之後",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "TUCSON",
+  "years": "2005~2010(1代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "TUCSON",
+  "years": "2016~年之後(3代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "VELOSTER",
+  "years": "2012~2019/05(1代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "VELOSTER",
+  "years": "2019/06~年之後(2代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "Venue",
+  "years": "2020~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "XG",
+  "years": "1998~2005(V6 DOHC)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "XG",
+  "years": "2001~年之後(2.0)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "EX35 / EX37",
+  "years": "2008~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "years": "2003~2007(1代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "years": "2008~年之後(2代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX45 / FX50",
+  "years": "2008~2013",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G SEDAN",
+  "years": "2008~2013",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "i30",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "JX35",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "M SEDAN",
+  "years": "2006~2010(Y50)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "M SEDAN",
+  "years": "2010~2014(Y51)",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q45",
+  "years": "2002~2007",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q50",
+  "years": "2014~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q60",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q70",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX4",
+  "years": "1997~2003",
+  "driver": 22,
+  "passenger": 21,
+  "raw": "22+21"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX50",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX60",
+  "years": "2012~2016/08",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX60",
+  "years": "2016/09~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX70",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "EX35 / EX37",
+  "years": "2008~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "years": "2003~2007(1代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "years": "2003~2007(1代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "years": "2008~年之後(2代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "years": "2008~年之後(2代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX45 / FX50",
+  "years": "2008~2013",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX45 / FX50",
+  "years": "2008~2013",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G Convertible, Coupe",
+  "years": "2007~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G Saloon ('02)",
+  "years": "2002~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G Saloon ('07)",
+  "years": "2007~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G SEDAN",
+  "years": "2008~2013",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G20",
+  "years": "1990~1997",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "i30",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "JX35",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "JX35",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "M SEDAN",
+  "years": "2006~2010(Y50)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "M SEDAN",
+  "years": "2006~2010(Y50)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "M SEDAN",
+  "years": "2010~2014(Y51)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "M SEDAN",
+  "years": "2010~2014(Y51)",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q30",
+  "years": "2016~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q30",
+  "years": "2016~年之後",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q30S",
+  "years": "2016~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q30S",
+  "years": "2016~年之後",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q45",
+  "years": "2002~2007",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q50",
+  "years": "2014~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q50",
+  "years": "2014~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q60",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q60",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q70",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q70",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX4",
+  "years": "1997~2003",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX4",
+  "years": "1997~2003",
+  "driver": 22,
+  "passenger": 21,
+  "raw": "22+21"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX4",
+  "years": "1997~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX4",
+  "years": "1997~年之後",
+  "driver": 22,
+  "passenger": 21,
+  "raw": "22+21"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX50",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX50",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX60",
+  "years": "2012~2016/08",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX60",
+  "years": "2012~2016/08",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX60",
+  "years": "2016/09~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX60",
+  "years": "2016/09~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX70",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX70",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "ASCENDER",
+  "years": "2002~年之後",
+  "driver": 22,
+  "passenger": 22,
+  "raw": "22+22"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "D~MAX (8DH)",
+  "years": "2002~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "D~MAX (TFR, TFS)",
+  "years": "2012~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "D~MAX Platform/Chassis",
+  "years": "2012~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "D~MAX Platform/Chassis (8DH)",
+  "years": "2007~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "GEMINI, Saloon",
+  "years": "1990~1993",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "IMPULSE",
+  "years": "1990~1993",
+  "driver": 22,
+  "passenger": 22,
+  "raw": "22+22"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "KB ('02)",
+  "years": "2002~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "PANTHER",
+  "years": "1998~2001",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "PANTHER",
+  "years": "1998~2001",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "RODEO",
+  "years": "1998~2004",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "RODEO",
+  "years": "2004~2007",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "TROOPER",
+  "years": "1992~2002",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "TROOPER",
+  "years": "2000~2007",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "KIA",
+  "model": "CARENS",
+  "years": "2014",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "CARENS",
+  "years": "2015~年之後",
+  "driver": 28,
+  "passenger": 28,
+  "raw": "28+28"
+ },
+ {
+  "brand": "KIA",
+  "model": "Carnival",
+  "years": "1998~2006",
+  "driver": 24,
+  "passenger": 24,
+  "raw": "24+24"
+ },
+ {
+  "brand": "KIA",
+  "model": "CEE'D (JD)",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "KIA",
+  "model": "CEE'D Hatchback, SW (ED)",
+  "years": "2006~2009",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "CEE'D Hatchback, SW (ED)",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "CEE`D Sportswagon (JD)",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "KIA",
+  "model": "CERATO (LD)",
+  "years": "2004~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "CERATO II, II Saloon (TD)",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "CERATO KOUP (TD)",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "CERATO Saloon (LD)",
+  "years": "2004~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "CLARUS (K9A)",
+  "years": "1996~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "CLARUS Estate (GC)",
+  "years": "1998~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "Crens",
+  "years": "2000~2014",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "Crens",
+  "years": "2000~2014",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "KIA",
+  "model": "EURO STAR",
+  "years": "2004~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "EURO-CARENS",
+  "years": "2006~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "Joice",
+  "years": "2000~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "KAON",
+  "years": "2003~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "MAGENTIS (GD)",
+  "years": "2001~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "KIA",
+  "model": "MAGENTIS (MG)",
+  "years": "2005~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "MORNING",
+  "years": "2014~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "OPTIMA",
+  "years": "2017~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "PICANTO",
+  "years": "2018~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "KIA",
+  "model": "PRIDE (DA)",
+  "years": "1990~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "PRIDE Estate",
+  "years": "1999~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "PRO CEE'D (ED)",
+  "years": "2008~2009",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "PRO CEE'D (ED)",
+  "years": "2009~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "PRO CEE´D (JD)",
+  "years": "2013~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "KIA",
+  "model": "RETONA (CE)",
+  "years": "1999~年之後",
+  "driver": 14,
+  "passenger": 14,
+  "raw": "14+14"
+ },
+ {
+  "brand": "KIA",
+  "model": "RIO",
+  "years": "2001~2005",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "RIO",
+  "years": "2001~2005",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "RIO",
+  "years": "2006~2011",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "ROADSTER",
+  "years": "1999~年之後",
+  "driver": 22,
+  "passenger": 22,
+  "raw": "22+22"
+ },
+ {
+  "brand": "KIA",
+  "model": "SEPHIA / MENTOR (FA)",
+  "years": "1995~1997",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SEPHIA / MENTOR Saloon (FA)",
+  "years": "1992~2001",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SHUMA (FB)",
+  "years": "1996~2001",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SHUMA II (FB)",
+  "years": "2001~2004",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SHUMA II Saloon (FB)",
+  "years": "2001~2004",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SHUMA Saloon (FB)",
+  "years": "1996~2001",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SORENTO",
+  "years": "2003~2009",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SORENTO",
+  "years": "2010~2016",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "KIA",
+  "model": "SOUL",
+  "years": "2010~2015",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "KIA",
+  "model": "SOUL",
+  "years": "2017~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "years": "1995~2002",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "years": "2005~2010",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "years": "2010~2015",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "years": "2022/06~",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "STINGER",
+  "years": "2018~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "KIA",
+  "model": "STONIC",
+  "years": "2019~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "KIA",
+  "model": "VENGA (YN)",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "CT",
+  "years": "2011~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES",
+  "years": "2002~2006(4代)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES",
+  "years": "2006~2012(5代)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES",
+  "years": "2012~年之後(6代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES",
+  "years": "2018~年之後(7代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES (大改款)",
+  "years": "2026/03~",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "GS",
+  "years": "1997~2011(2代/3代)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "GS",
+  "years": "2005~2012(350)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "GS",
+  "years": "2012~年之後(4代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "IS",
+  "years": "1999~2005(1代)",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "IS",
+  "years": "1999~2005(1代)",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "IS",
+  "years": "2005~2013(2代)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "IS",
+  "years": "2013~年之後(3代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LBX",
+  "years": "2024/01~",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LC",
+  "years": "2017~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS",
+  "years": "2000~2006(3代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS",
+  "years": "2006~2016(4代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS",
+  "years": "2018~年之後(5代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS",
+  "years": "2018~年之後(5代)",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LX 470",
+  "years": "1998~2007(2代)",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LX 570",
+  "years": "2007~2012(3代)",
+  "driver": 24,
+  "passenger": 22,
+  "raw": "24+22"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LX 570",
+  "years": "2012~年之後(3代)",
+  "driver": 24,
+  "passenger": 22,
+  "raw": "24+22"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "NX (二代)",
+  "years": "2021/12~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "NX 200",
+  "years": "2014~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "NX 300",
+  "years": "2017~2018",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "NX 300",
+  "years": "2019~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RC-F GT",
+  "years": "2018~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX",
+  "years": "1999~2003 (1代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX",
+  "years": "2003~2008(2代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX",
+  "years": "2009~2015/09 (3代)",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX",
+  "years": "2015/10~年之後(4代)",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX",
+  "years": "2015/10~年之後(4代)",
+  "driver": 26,
+  "passenger": 21,
+  "raw": "26+21"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "SC-430",
+  "years": "2001~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "UX",
+  "years": "2019~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "5 Sedan",
+  "years": "2012~2013",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "5 Sedan",
+  "years": "2012~2013",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "7MPV",
+  "years": "2009~2013(CEO2.2)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "7MPV",
+  "years": "2009~2013(CEO2.2)",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "7SUV",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "Luxgen-S3",
+  "years": "2015~年之後",
+  "driver": 22,
+  "passenger": 17,
+  "raw": "22+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "Luxgen-S5",
+  "years": "2014~2015",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "M7 TURBO",
+  "years": "2014~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "N7",
+  "years": "2024/03~",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "S3",
+  "years": "2015~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "S3",
+  "years": "2015~年之後",
+  "driver": 22,
+  "passenger": 17,
+  "raw": "22+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "S5",
+  "years": "2014~2015",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "S5",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U5",
+  "years": "2017~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U5",
+  "years": "2017~年之後",
+  "driver": 22,
+  "passenger": 17,
+  "raw": "22+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U6",
+  "years": "2013~2017/10(Turbo)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U6",
+  "years": "2013~2017/10(Turbo)",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U6",
+  "years": "2017~年之後(GT)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U6",
+  "years": "2017~年之後(GT)",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U7 SUV",
+  "years": "2010~2012",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "U7 SUV",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "V7",
+  "years": "2016/05~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "121 II (DB)",
+  "years": "1990~1997",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "121 III (JASM, JBSM)",
+  "years": "1996~2003",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "2 (DL, DJ)",
+  "years": "2014~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "2 (DY)",
+  "years": "2003~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "2, Saloon (DE)",
+  "years": "2007~2015",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "3, Saloon (BK)",
+  "years": "1999~2009",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "3, Saloon (BL)",
+  "years": "2008~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "3, Saloon (BM)",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "323",
+  "years": "1990~1998",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "323",
+  "years": "1999~年之後(PROTEGE)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "5 (CR19)",
+  "years": "2005~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "5 (CW)",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "6 (GG)",
+  "years": "2002~2008",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "6 Estate, Saloon (GJ, GH)",
+  "years": "2012~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "6 Hatchback (GG)",
+  "years": "2002~2008",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "6 Station Wagon (GY)",
+  "years": "2002~2007",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "6, Estate, Hatchback (GH)",
+  "years": "2007~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "626",
+  "years": "1989~1998",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "626",
+  "years": "1998~年之後(CAPELLA)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "626",
+  "years": "1998~年之後(CAPELLA)",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "BT~50 Pickup (B22, B32, UP, UR)",
+  "years": "2011~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "BT~50 Pickup (CD, UN)",
+  "years": "2006~2015",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "B~SERIE (UN)",
+  "years": "1998~2006",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-3",
+  "years": "2015~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-30",
+  "years": "2019~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-5",
+  "years": "2012~2017(1代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-5",
+  "years": "2017~2018(2代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-60 / CX-90",
+  "years": "2023/10~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-7",
+  "years": "2007~2009",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-7",
+  "years": "2010~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-9",
+  "years": "2010~2016(1代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "CX-9",
+  "years": "2017~年之後(2代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "DEMIO (DW)",
+  "years": "1996~2003",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "E1800(箱型車)",
+  "years": "1990~1994",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "E2000(箱型車)",
+  "years": "1994~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "E~SERIE MPV (SG)",
+  "years": "1995~2001",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "ISAMU",
+  "years": "2000~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda2",
+  "years": "2008~2014(3代)",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda2",
+  "years": "2015~年之後(4代)",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda2",
+  "years": "2015~年之後(4代)",
+  "driver": 22,
+  "passenger": 17,
+  "raw": "22+17"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2004~2009(國產)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2004~2009(國產)",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2007~2009(進口五門)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2007~2009(進口五門)",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2010~2014(國產)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2010~2014(國產)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2014~2016(SPORT)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda3",
+  "years": "2015~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda5",
+  "years": "2005~2011/11(1代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda5",
+  "years": "2011/12~2016(2代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda6",
+  "years": "2002~2007",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda6",
+  "years": "2002~2007",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda6",
+  "years": "2008~2012(2代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda6",
+  "years": "2013~年之後(3代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Mazda6",
+  "years": "2017~年之後(4代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MILLENIA",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MILLENIA",
+  "years": "1997~年之後",
+  "driver": 21,
+  "passenger": 20,
+  "raw": "21+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MPV",
+  "years": "2000~2006",
+  "driver": 24,
+  "passenger": 24,
+  "raw": "24+24"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MPV II (LW)",
+  "years": "1999~2006",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX-5",
+  "years": "1989~2015",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX-5",
+  "years": "2016~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX-5",
+  "years": "2016~年之後",
+  "driver": 19,
+  "passenger": 18,
+  "raw": "19+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX-6",
+  "years": "1992~1998",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX~3 (EC)",
+  "years": "1991~1998",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX~5 II (NB)",
+  "years": "1998~2005",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX~5 III (NC)",
+  "years": "2005~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX~5 IV (ND)",
+  "years": "2015~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX~6 (GE)",
+  "years": "1991~1997",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Premacy",
+  "years": "1999~2005",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "RX 7 III (FD)",
+  "years": "1992~2002",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "RX 8 (SE17)",
+  "years": "2003~2012",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Tribute",
+  "years": "2001~2007",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "Tribute",
+  "years": "2008~2011",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "XEDOS 6 (CA)",
+  "years": "1992~1999",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "XEDOS 9 (TA)",
+  "years": "1993~2002",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "300GT",
+  "years": "2000~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "300GT",
+  "years": "2000~年之後",
+  "driver": 24,
+  "passenger": 21,
+  "raw": "24+21"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Asx",
+  "years": "2011~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Asx",
+  "years": "2011~年之後",
+  "driver": 24,
+  "passenger": 21,
+  "raw": "24+21"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "CARISMA (DA_)",
+  "years": "1995~2006",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "CARISMA Saloon (DA_)",
+  "years": "1996~2006",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Challenger",
+  "years": "1998~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "COLT IV (CA_A)",
+  "years": "1992~1996",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Colt plus",
+  "years": "2007~年之後(7代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "COLT V (CJ_, CP_)",
+  "years": "1995~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "COLT V (CJ_, CP_)",
+  "years": "1995~2000",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Delica(得利卡)",
+  "years": "1990~1993",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Delica(得利卡)",
+  "years": "1994~2018/08",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Delica(得利卡)",
+  "years": "2018/09~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Diamante",
+  "years": "1997~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Diamante",
+  "years": "1997~年之後",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Eclipse",
+  "years": "1991~1999",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Eclipse Cross",
+  "years": "2017~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Freeca",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Galant",
+  "years": "1993~1997",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Galant",
+  "years": "1998~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "GALLOPER (JK~01)",
+  "years": "1998~2003",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Grunder",
+  "years": "2005~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "L 200 (K7_T, K6_T)",
+  "years": "1996~2007",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "L 200 (KB_T, KA_T)",
+  "years": "2004~2009",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "L 200 (KB_T, KA_T)",
+  "years": "2009~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "L 200 / TRITON (KJ_, KK_, KL_)",
+  "years": "2014~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "1993~2000(Lancer/Virage)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2001~2003(Virage)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2003~2007/08 (Global Lancer)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2007~2017(Fortis/io)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2007~2017(Fortis/io)",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2013~2017(Sportback)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2013~2017(Sportback)",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Lancer",
+  "years": "2017/02~年之後(Grand Lancer)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Libero",
+  "years": "1994~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Mirage",
+  "years": "1991~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Outlander",
+  "years": "2003~2007(1代)",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Outlander",
+  "years": "2003~2007(1代)",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Outlander",
+  "years": "2008~2014(2代)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Outlander",
+  "years": "2008~2014(2代)",
+  "driver": 24,
+  "passenger": 21,
+  "raw": "24+21"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Outlander",
+  "years": "2015~年之後(3代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Pajero",
+  "years": "2000~2006",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Pajero",
+  "years": "2007~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "RVR",
+  "years": "1997~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "RVR",
+  "years": "1997~年之後",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SANTAMO",
+  "years": "1999~2004",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Savrin",
+  "years": "2001~2013",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SIGMA (F2_A, F1_A)",
+  "years": "1990~1996",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SIGMA Station Wagon (F0_W)",
+  "years": "1992~1996",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Space Gear",
+  "years": "1997~年之後",
+  "driver": 26,
+  "passenger": 26,
+  "raw": "26+26"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SPACE RUNNER (N1_W, N2_W)",
+  "years": "1991~1999",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SPACE RUNNER (N6_W)",
+  "years": "1999~2002",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SPACE STAR Hatchback (A0_A)",
+  "years": "2012~年之後",
+  "driver": 22,
+  "passenger": 14,
+  "raw": "22+14"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SPACE STAR MPV (DG_A)",
+  "years": "1998~2004",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SPACE WAGON (N3_W, N4_W)",
+  "years": "1991~1998",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "SPACE WAGON (N9_W, N8_W)",
+  "years": "1998~2004",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Varica/威利",
+  "years": "1989~2000",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Veryca",
+  "years": "2000~2018",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Zinger",
+  "years": "2006~2014",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "Zinger",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "100 NX (B13)",
+  "years": "1990~1996",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "200 SX (S14)",
+  "years": "1993~1999",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "350Z",
+  "years": "2003~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "370Z",
+  "years": "2009~2012",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "370Z",
+  "years": "2009~2012",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALMERA I (N15)",
+  "years": "1995~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALMERA I Hatchback (N15)",
+  "years": "1995~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALMERA II (N16)",
+  "years": "2000~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALMERA II Hatchback (N16)",
+  "years": "2000~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALMERA TINO (V10)",
+  "years": "2000~年之後",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALTIMA",
+  "years": "1993~1996",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ALTIMA",
+  "years": "2002~2006",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "BlueBird",
+  "years": "2006~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Cefiro",
+  "years": "1996~1999(A32)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Cefiro",
+  "years": "2000~年之後(A33)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "CUBE (Z11)",
+  "years": "2003~2005",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "CUBE (Z12)",
+  "years": "2007~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "GT~R (R35)",
+  "years": "2007~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Juke",
+  "years": "2013~年之後",
+  "driver": 22,
+  "passenger": 14,
+  "raw": "22+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Kicks",
+  "years": "2018~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Kicks e-POWER",
+  "years": "2023/10~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "KUBISTAR (X76)",
+  "years": "2003~2009",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "LEAF (ZE0)",
+  "years": "2010~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Livina",
+  "years": "2007~2014(1代)",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Livina",
+  "years": "2014~年之後(2代)",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "March",
+  "years": "1993~2011(2代/K11)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "March",
+  "years": "2012~2017(4代/K13)",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Maxima",
+  "years": "1999~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Maxima",
+  "years": "1999~年之後",
+  "driver": 21,
+  "passenger": 21,
+  "raw": "21+21"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Micar",
+  "years": "2003~2005",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Micar",
+  "years": "2003~2005",
+  "driver": 21,
+  "passenger": 16,
+  "raw": "21+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Murano",
+  "years": "2008~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Nex Teana",
+  "years": "2009~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "NOTE (E11)",
+  "years": "2006~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "NOTE (E12)",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "NP300 NAVARA (D40)",
+  "years": "2004~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PATHFINDER II (R50)",
+  "years": "1995~2004",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PATHFINDER III (R51)",
+  "years": "2005~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PATHFINDER IV (R52)",
+  "years": "2012~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PATROL GR V Wagon (Y61)",
+  "years": "1997~年之後",
+  "driver": 18,
+  "passenger": 20,
+  "raw": "18+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PICK UP III (D22)",
+  "years": "1997~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PICKUP / NP300 PICKUP III (D22)",
+  "years": "2008~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PIXO (UA0)",
+  "years": "2009~年之後",
+  "driver": 22,
+  "passenger": 14,
+  "raw": "22+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Primera",
+  "years": "1992~1996",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "PULSAR Hatchback (C13)",
+  "years": "2012~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Q-RV",
+  "years": "2001~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "QASHQAI / QASHQAI +2 I (J10, 0J2J/1007)",
+  "years": "2007~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "QASHQAI II (J11, J11_)",
+  "years": "2013~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Quest",
+  "years": "1993~2002",
+  "driver": 22,
+  "passenger": 22,
+  "raw": "22+22"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Quest",
+  "years": "2004~2015",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "QX4",
+  "years": "1997~年之後",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "QX4",
+  "years": "1997~年之後",
+  "driver": 22,
+  "passenger": 21,
+  "raw": "22+21"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "ROGUE",
+  "years": "2009~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Salphi",
+  "years": "2007~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "1995~1996",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "1996~1998(CE)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "1998~2000/04(HV)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "1998~年之後(HV)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "2000/05~2013/09(180/M1)",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "2000~2013/09(180)",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "2013/10~2020/09(Super Sentra)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "2020/10~年之後(八代/B18)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sentra",
+  "years": "2020/10~年之後(八代/B18)",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Serena",
+  "years": "2001~2005",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Serena",
+  "years": "2006~年之後",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SKYLINE (R33)",
+  "years": "1993~1998",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SKYLINE (R34)",
+  "years": "1998~2002",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SKYLINE Coupe (R33)",
+  "years": "1993~2000",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SKYLINE Coupe (R34)",
+  "years": "1998~2008",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SKYLINE Coupe (V35)",
+  "years": "2001~2007",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SUNNY III (N14)",
+  "years": "1990~1996",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SUNNY III Hatchback (N14)",
+  "years": "1990~1995",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SUNNY III Liftback (N14)",
+  "years": "1990~1995",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "SUNNY III Traveller (Y10)",
+  "years": "1990~2000",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sylphy",
+  "years": "2012~2016",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Sylphy",
+  "years": "2012~2016",
+  "driver": 22,
+  "passenger": 17,
+  "raw": "22+17"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Teana",
+  "years": "2004~2009(1代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Teana",
+  "years": "2004~2009(1代)",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Teana",
+  "years": "2009~年之後(2代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Teana",
+  "years": "2009~年之後(2代)",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "TERRANO II (R20)",
+  "years": "1992~2007",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "TIIDA",
+  "years": "2006~2012(1代)",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "TIIDA",
+  "years": "2013~年之後(2代/BIG TIIDA)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "Verita",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "X-Trail",
+  "years": "2002~2014(1代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "X-Trail",
+  "years": "2015~年之後(3代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "X-Trail (T33)",
+  "years": "2023/02~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "Gen",
+  "years": "2004~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "IMPIAN",
+  "years": "2001~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "JINBUCK",
+  "years": "2002~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "PERSONA 300 / SATRIA (C9_M)",
+  "years": "1996~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "PERSONA 400 / WIRA (C9_S)",
+  "years": "1994~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "PERSONA 400 / WIRA Hatchback (C9_C, C9_S)",
+  "years": "1994~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "SATRIA / COMPACT (C9_M)",
+  "years": "1996~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "SATRIA NEO",
+  "years": "2007~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "PROTON",
+  "model": "SAVVY",
+  "years": "2007~年之後",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "WIRA",
+  "years": "1995~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "PROTON",
+  "model": "WIRA Hatchback",
+  "years": "2000~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "ACTYON I",
+  "years": "2005~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "Actyon sports",
+  "years": "2012~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "Actyon sports",
+  "years": "2012~年之後",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "ACTYON SPORTS I (QJ)",
+  "years": "2005~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "KORANDO",
+  "years": "2010~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "KORANDO, Cabrio (KJ)",
+  "years": "1996~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "KYRON",
+  "years": "2005~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "MUSSO (FJ)",
+  "years": "1993~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "MUSSO SPORTS",
+  "years": "2004~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "REXTON (GAB_)",
+  "years": "2002~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "REXTON W",
+  "years": "2012~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "RODIUS",
+  "years": "2005~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "RODIUS II",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "Stavic",
+  "years": "2005~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "Stavic",
+  "years": "2014~年之後",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "Tivoli",
+  "years": "2015~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "Tivoli",
+  "years": "2018~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SSANGYONG",
+  "model": "TURISMO",
+  "years": "2013~年之後",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Brz",
+  "years": "2012~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Brz",
+  "years": "2012~年之後",
+  "driver": 24,
+  "passenger": 21,
+  "raw": "24+21"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2002~2007 (2代/SG)",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2002~2007 (2代/SG)",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2008~2012 (3代/SH)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2013~2018/07 (4代/SJ)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2013~2018/07 (4代/SJ)",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2018~年之後 (5代/SK)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Forester",
+  "years": "2018~年之後 (5代/SK)",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Impreza",
+  "years": "2008~2013/07 (3代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Impreza",
+  "years": "2013/08~2016 (4代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Impreza",
+  "years": "2017/02~年之後 (5代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "1995~2004",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "1995~2004",
+  "driver": 22,
+  "passenger": 19,
+  "raw": "22+19"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2003~2008",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2003~2008",
+  "driver": 24,
+  "passenger": 19,
+  "raw": "24+19"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2005~2009",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2010~2014",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2010~2014",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2015~2016",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Legacy",
+  "years": "2015~2016",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Levorg",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Outback",
+  "years": "2009~2014",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Outback",
+  "years": "2009~2014",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Outback",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "Outback",
+  "years": "2015~年之後",
+  "driver": 26,
+  "passenger": 17,
+  "raw": "26+17"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "SVX (CX)",
+  "years": "1992~1997",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "VIVIO",
+  "years": "1992~2000",
+  "driver": 18,
+  "passenger": 14,
+  "raw": "18+14"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "WRX",
+  "years": "2014~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "XV",
+  "years": "2011~2017/05 (1代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUBARU",
+  "model": "XV",
+  "years": "2017/06~年之後(2代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Alto",
+  "years": "2004~年之後",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Alto",
+  "years": "2010~年之後",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Alto",
+  "years": "2010~年之後",
+  "driver": 21,
+  "passenger": 14,
+  "raw": "21+14"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Baleno",
+  "years": "2017~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Baleno",
+  "years": "2017~年之後",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Carry",
+  "years": "2008~2017",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Carry",
+  "years": "2019~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Carry/Every 馬上發",
+  "years": "1995~1998",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "CELERIO",
+  "years": "2014~年之後",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Culus/福星",
+  "years": "1993~1999",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Escudo/吉星",
+  "years": "1990~1992",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Esteem",
+  "years": "1997~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "GRAND VITARA JP",
+  "years": "2006~2015",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "GRAND VITARA JP",
+  "years": "2006~2015",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Ignis",
+  "years": "2001~2017/05 (1代)",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Ignis",
+  "years": "2001~2017/05 (1代)",
+  "driver": 19,
+  "passenger": 18,
+  "raw": "19+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Ignis",
+  "years": "2017/06~年之後(2代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Ignis",
+  "years": "2017/06~年之後(2代)",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Jimny",
+  "years": "2000~2007 (3代)",
+  "driver": 18,
+  "passenger": 16,
+  "raw": "18+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Jimny",
+  "years": "2019~年之後",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "KIZASHI (FR)",
+  "years": "2010~年之後",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Liana",
+  "years": "2001~年之後",
+  "driver": 22,
+  "passenger": 18,
+  "raw": "22+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Nippy",
+  "years": "2006~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Solio",
+  "years": "2002~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "SPLASH",
+  "years": "2008~年之後",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Super vitara",
+  "years": "1995~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Swift",
+  "years": "1995~2001",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Swift",
+  "years": "1995~2001",
+  "driver": 20,
+  "passenger": 19,
+  "raw": "20+19"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Swift",
+  "years": "2006~2017/09 (1代/2代/3代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Swift",
+  "years": "2006~2017/09 (1代/2代/3代)",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Swift",
+  "years": "2017/10~年之後(4代)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Swift",
+  "years": "2017/10~年之後(4代)",
+  "driver": 21,
+  "passenger": 18,
+  "raw": "21+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "SX4",
+  "years": "2006~2013",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "SX4",
+  "years": "2014~年之後 (含Crossover)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "1992~1995(Vitara/金吉星)",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "1995~2005(Grand Vitara/金吉星)",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "1995~2005(Grand Vitara/金吉星)",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "2006~2015(Grand Vitara JP)",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "2006~2015(Grand Vitara JP)",
+  "driver": 19,
+  "passenger": 19,
+  "raw": "19+19"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "2016/09~年之後(4代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Vitara",
+  "years": "2026/01~",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "Wagon R+",
+  "years": "1999~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "XL7 (JC)",
+  "years": "2006~2009",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "SUZUKI",
+  "model": "X~90 (EL)",
+  "years": "1995~1997",
+  "driver": 16,
+  "passenger": 18,
+  "raw": "16+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "86",
+  "years": "2012~年之後(GT86)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Alphard",
+  "years": "2008~2014 (2代)",
+  "driver": 30,
+  "passenger": 14,
+  "raw": "30+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Alphard",
+  "years": "2015~年之後(3代)",
+  "driver": 30,
+  "passenger": 14,
+  "raw": "30+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Altis",
+  "years": "2001~2007 (9代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Altis",
+  "years": "2008~2013/09 (10代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Altis",
+  "years": "2013/10~2019/02 (11代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Altis",
+  "years": "2019~年之後(12代)",
+  "driver": 28,
+  "passenger": 14,
+  "raw": "28+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Auris",
+  "years": "2018~年之後",
+  "driver": 28,
+  "passenger": 14,
+  "raw": "28+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Avalon",
+  "years": "1994~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "1989~1995 (2代/3代 進口)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "1996~2002/02 (4代進口)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "1996~2002/02 (4代進口)",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "2002/03~2006/04 (5代/國產1代)",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "2006/05~2011 (6代/國產)",
+  "driver": 24,
+  "passenger": 20,
+  "raw": "24+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "2012~2020 (7代/國產)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "2018/11~年之後 (8代/進口)",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Camry",
+  "years": "2019~年之後 (Camry 2.0)",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Celica",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Celica",
+  "years": "1997~年之後",
+  "driver": 21,
+  "passenger": 19,
+  "raw": "21+19"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CHR",
+  "years": "2017~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Corolla Cross(CC)",
+  "years": "2020/10~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Corolla Exsior",
+  "years": "1993~1997",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Corolla Premio",
+  "years": "1997~2001",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Corolla Sport",
+  "years": "2020/07~年之後",
+  "driver": 28,
+  "passenger": 14,
+  "raw": "28+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Corona",
+  "years": "1993~1997(Exsior)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Corona",
+  "years": "1997~年之後(Premio)",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Crown",
+  "years": "2023年之後(16代)",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Hiace-Solemio",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 20,
+  "raw": "20+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Hiace-Solemio",
+  "years": "1997~年之後",
+  "driver": 21,
+  "passenger": 21,
+  "raw": "21+21"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Innova",
+  "years": "2007~年之後",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Land Cruiser Prado",
+  "years": "2009~年之後(J150)",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Mirai",
+  "years": "2016~2018",
+  "driver": 26,
+  "passenger": 20,
+  "raw": "26+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Previa",
+  "years": "2006~2012",
+  "driver": 28,
+  "passenger": 16,
+  "raw": "28+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Previa",
+  "years": "2013~年之後",
+  "driver": 28,
+  "passenger": 16,
+  "raw": "28+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Prius",
+  "years": "2000~2003 (1代/W11)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Prius",
+  "years": "2003~2008 (2代/W20)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Prius",
+  "years": "2003~2015 (3代/W30/W35)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Prius",
+  "years": "2012~年之後 C(NHP10)",
+  "driver": 28,
+  "passenger": 14,
+  "raw": "28+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Prius",
+  "years": "2016~年之後 (4代/W50)",
+  "driver": 28,
+  "passenger": 16,
+  "raw": "28+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Prius",
+  "years": "2017~年之後 PHV(2代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "years": "1997~年之後",
+  "driver": 20,
+  "passenger": 18,
+  "raw": "20+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "years": "2008~2014 (3代)",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "years": "2008~2014 (3代)",
+  "driver": 24,
+  "passenger": 17,
+  "raw": "24+17"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "years": "2013~2018 (4代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "years": "2019/03~年之後(5代)",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RAV4 (六代)",
+  "years": "2026/01~",
+  "driver": 26,
+  "passenger": 16,
+  "raw": "26+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "REIZ",
+  "years": "2010~2016",
+  "driver": 24,
+  "passenger": 16,
+  "raw": "24+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Sienna",
+  "years": "1998~2003",
+  "driver": 24,
+  "passenger": 18,
+  "raw": "24+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Sienna",
+  "years": "2004~2010",
+  "driver": 26,
+  "passenger": 18,
+  "raw": "26+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Sienna",
+  "years": "2004~2010",
+  "driver": 26,
+  "passenger": 19,
+  "raw": "26+19"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Sienna",
+  "years": "2011~年之後",
+  "driver": 28,
+  "passenger": 20,
+  "raw": "28+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Sienta",
+  "years": "2016~年之後",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "SUPRA",
+  "years": "2020年之後~",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "SUPRA",
+  "years": "2020年之後~",
+  "driver": 22,
+  "passenger": 21,
+  "raw": "22+21"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Surf",
+  "years": "1999~年之後(瑞獅)",
+  "driver": 20,
+  "passenger": 16,
+  "raw": "20+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Tacoma",
+  "years": "2005~年之後(2代)",
+  "driver": 22,
+  "passenger": 20,
+  "raw": "22+20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Tacoma",
+  "years": "2005~年之後(2代)",
+  "driver": 22,
+  "passenger": 21,
+  "raw": "22+21"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Tercel",
+  "years": "1995~年之後",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Town Ace (貨卡/廂車)",
+  "years": "2022/02~",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Tundra",
+  "years": "2006~年之後",
+  "driver": 26,
+  "passenger": 22,
+  "raw": "26+22"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Vios",
+  "years": "2003~2005/08 (1代)",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Vios",
+  "years": "2005/09~2014/03 (1代)",
+  "driver": 20,
+  "passenger": 14,
+  "raw": "20+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Vios",
+  "years": "2005/09~2014/03 (1代)",
+  "driver": 21,
+  "passenger": 14,
+  "raw": "21+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Vios",
+  "years": "2014/04~年之後(3代)",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Wish",
+  "years": "2004~2009/10 (1代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Wish",
+  "years": "2009/11~2016 (2代)",
+  "driver": 26,
+  "passenger": 14,
+  "raw": "26+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Yaris",
+  "years": "2006~2014/08 (2代)",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Yaris",
+  "years": "2014/09~年之後(3代)",
+  "driver": 24,
+  "passenger": 14,
+  "raw": "24+14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Yaris Cross",
+  "years": "2023/09~",
+  "driver": 22,
+  "passenger": 16,
+  "raw": "22+16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Zace Surf",
+  "years": "1999~2007/06",
+  "driver": 18,
+  "passenger": 18,
+  "raw": "18+18"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "Zace 瑞獅",
+  "years": "1988~1998",
+  "driver": 16,
+  "passenger": 16,
+  "raw": "16+16"
+ }
+]

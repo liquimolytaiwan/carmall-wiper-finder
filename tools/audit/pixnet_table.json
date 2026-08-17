@@ -1,0 +1,4826 @@
+[
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "BRERA",
+  "years": "06-",
+  "driver": 23,
+  "passenger": 18,
+  "rear": "18"
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "145",
+  "years": "97-00",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "155",
+  "years": "92-96",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "156",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "159／159 SPORTWAGON",
+  "years": "05-",
+  "driver": 23,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "164",
+  "years": "92-99",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "166",
+  "years": "Jul-98",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "SPIDER",
+  "years": "90-95",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "SPIDER",
+  "years": "06-",
+  "driver": 23,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "ALFA ROMEO愛快羅密歐",
+  "model": "GT／147GT",
+  "years": "05-",
+  "driver": 23,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "SKYLARK翔雲",
+  "years": "-98",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "LA SABRE尊皇",
+  "years": "0",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "PARK AVENUE林蔭大道",
+  "years": "91-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "REGAL尊爵",
+  "years": "-97",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "RENDEZVOUS休旅車",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "LA CROSSE",
+  "years": "05-",
+  "driver": 23,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "BUICK別克",
+  "model": "EXELLE",
+  "years": "06-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "NEON",
+  "years": "94-99",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "NEXT NEON霓虹二代",
+  "years": "99-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "STRATUS捲雲",
+  "years": "Jan-95",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "CONCORDE協和",
+  "years": "94-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "300",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "300C",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "300M",
+  "years": "Apr-98",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "PT CRUISER",
+  "years": "00-",
+  "driver": 21,
+  "passenger": 20,
+  "rear": "16"
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "CARAVAN／VOYAGER旅行家",
+  "years": "84-95",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "18"
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "CARAVAN／VOYAGER旅行家",
+  "years": "Jan-96",
+  "driver": 28,
+  "passenger": 28,
+  "rear": "18"
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "CARAVAN／VOYAGER旅行家",
+  "years": "02-",
+  "driver": 28,
+  "passenger": 28,
+  "rear": "16"
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "CARAVAN／VOYAGER旅行家",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": "16"
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "VOYAGER",
+  "years": "95-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "SEBRING西伯林",
+  "years": "00-07",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CHRYSLER克萊斯勒",
+  "model": "SEBRING西伯林",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "SEVILLE SLS",
+  "years": "92-98",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "NEW SEVILLE",
+  "years": "99-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "DEVILLE",
+  "years": "-98",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "CTS",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "SRX",
+  "years": "03-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "STS-V",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "CADILLAC凱迪拉克",
+  "model": "STS",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "1系列 E87／E88／E81／E82",
+  "years": "04-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "3系列 E30",
+  "years": "83-94",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "3系列 E36",
+  "years": "90-99",
+  "driver": 21,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "3系列 E46",
+  "years": "May-99",
+  "driver": 23,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "3系列 E90／E91",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "BMW",
+  "model": "3系列 E92／E93",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "5系列 E34",
+  "years": "88-97",
+  "driver": 24,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "5系列 E34美規",
+  "years": "88-",
+  "driver": 22,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "5系列 E39",
+  "years": "Apr-95",
+  "driver": 26,
+  "passenger": 22,
+  "rear": "17"
+ },
+ {
+  "brand": "BMW",
+  "model": "5系列 E60／E61",
+  "years": "4月8日",
+  "driver": 24,
+  "passenger": 23,
+  "rear": "15"
+ },
+ {
+  "brand": "BMW",
+  "model": "5系列 F07／F10／F11",
+  "years": "09-",
+  "driver": 26,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "6系列 E63／E64",
+  "years": "04-",
+  "driver": 24,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "7系列 E32",
+  "years": "86-95",
+  "driver": 24,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "7系列 E38",
+  "years": "Jan-95",
+  "driver": 25,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "7系列 E65／E66",
+  "years": "1月5日",
+  "driver": 25,
+  "passenger": 25,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "7系列 F01／F02",
+  "years": "08-",
+  "driver": 26,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "8系列 E31",
+  "years": "90-99",
+  "driver": 24,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "Z3 E36／E37／E38",
+  "years": "Mar-95",
+  "driver": 20,
+  "passenger": 20,
+  "rear": "11"
+ },
+ {
+  "brand": "BMW",
+  "model": "Z4 E85／E86",
+  "years": "1月6日",
+  "driver": 21,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "X1 E84",
+  "years": "09-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "X3 E83",
+  "years": "05-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": "14"
+ },
+ {
+  "brand": "BMW",
+  "model": "X5 E53",
+  "years": "00-05",
+  "driver": 24,
+  "passenger": 22,
+  "rear": "17"
+ },
+ {
+  "brand": "BMW",
+  "model": "X5 E70",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": "15"
+ },
+ {
+  "brand": "BMW",
+  "model": "X6 E71",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "MINI CABRIO R52／R57",
+  "years": "04-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "BMW",
+  "model": "MINI COOPER COUPE R50／R53／R56",
+  "years": "01-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "11"
+ },
+ {
+  "brand": "BMW",
+  "model": "MINI COOPER CLUBMAN R55",
+  "years": "07-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "11"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A3",
+  "years": "Mar-96",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "15"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A3",
+  "years": "3月4日",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "14"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A4",
+  "years": "Jan-94",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "15"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A4",
+  "years": "99-00",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A4",
+  "years": "1月1日",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A4／S4／S4 CABRIOLET／AVANT",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A4／A4 AVANT",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 24,
+  "rear": "16"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A5 COUPE",
+  "years": "7月7日",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A5／A5 SPORTBACK／S5 COUPE",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A6",
+  "years": "94-97",
+  "driver": 22,
+  "passenger": 21,
+  "rear": "18"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A6",
+  "years": "Jan-97",
+  "driver": 22,
+  "passenger": 21,
+  "rear": "15"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A6",
+  "years": "1月5日",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A6／S6",
+  "years": "05-",
+  "driver": 23,
+  "passenger": 23,
+  "rear": "14"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "A8",
+  "years": "95-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "Q5",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "Q7",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 24,
+  "rear": "14"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "TT",
+  "years": "May-98",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "TT",
+  "years": "06-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "80",
+  "years": "-96",
+  "driver": 21,
+  "passenger": 22,
+  "rear": "16"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "90",
+  "years": "-91",
+  "driver": 21,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "100",
+  "years": "-91",
+  "driver": 21,
+  "passenger": 22,
+  "rear": "21"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "100",
+  "years": "91-94",
+  "driver": 22,
+  "passenger": 22,
+  "rear": "18"
+ },
+ {
+  "brand": "AUDI奧迪",
+  "model": "200",
+  "years": "-92",
+  "driver": 21,
+  "passenger": 22,
+  "rear": "21"
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "NEW CHARADE新祥瑞1.5",
+  "years": "97-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "SOCIAL／新象",
+  "years": "90-95",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "SIRION西力旺",
+  "years": "98-",
+  "driver": 18,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "NEW SIRION",
+  "years": "06-",
+  "driver": 20,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "GRAND MOVE",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "DAIHATSU／穩賺",
+  "years": "93-95",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "TERIOS 4WD",
+  "years": "01-",
+  "driver": 20,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "NEW TERIOS",
+  "years": "06-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "COPEN",
+  "years": "06-",
+  "driver": 18,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "DAIHATSU大發",
+  "model": "MATERIA 1.5(COO)",
+  "years": "06-",
+  "driver": 20,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "DAEWOO大宇",
+  "model": "MAGNUS台塑一號",
+  "years": "00-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "DAEWOO大宇",
+  "model": "MATIZ瑪蒂斯 台塑二號",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "DAEWOO大宇",
+  "model": "LANOS藍諾斯",
+  "years": "97-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "DAEWOO大宇",
+  "model": "LEGANZA雷剛薩",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "DAEWOO大宇",
+  "model": "NUBIRA努比拉",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "BERLINGO",
+  "years": "08-",
+  "driver": 26,
+  "passenger": 15,
+  "rear": "14"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "XM",
+  "years": "89-00",
+  "driver": 22,
+  "passenger": 22,
+  "rear": "16"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "ZX",
+  "years": "91-98",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "XANTIA",
+  "years": "Mar-93",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "SAXO",
+  "years": "96-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "XSARA",
+  "years": "98-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "XSARA PICASSO",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": "16"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C2",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": "11"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C3",
+  "years": "02-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C3 PICASSO",
+  "years": "09-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "11"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C4／C4 COUPE／SW",
+  "years": "04-",
+  "driver": 28,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C4 PICASSO／GRAND PICASSO",
+  "years": "06-",
+  "driver": 32,
+  "passenger": 30,
+  "rear": "14"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C5",
+  "years": "1月3日",
+  "driver": 26,
+  "passenger": 18,
+  "rear": "11"
+ },
+ {
+  "brand": "CITROEN雪鐵龍",
+  "model": "C5",
+  "years": "04-",
+  "driver": 26,
+  "passenger": 19,
+  "rear": "11"
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "BARCHETTA巴奇達",
+  "years": "May-95",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "BRAVO／布拉瓦／布拉柏",
+  "years": "Jan-95",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "BRAVO",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": "11"
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "COUPE",
+  "years": "94-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "CROMA／克拉馬",
+  "years": "-97",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "MAREA瑪莉亞",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "PUNTO／奔騰 176／276",
+  "years": "94-",
+  "driver": 23,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "PUNTO／奔騰 188／288",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "PUNTO GRANDE",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 15,
+  "rear": ""
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "PANDA",
+  "years": "Mar-90",
+  "driver": 16,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "PANDA",
+  "years": "03-",
+  "driver": 23,
+  "passenger": 16,
+  "rear": "18"
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "STILO ABARTH",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": "14"
+ },
+ {
+  "brand": "FIAT飛雅特",
+  "model": "IDEA",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "300SEL／W126",
+  "years": "85-91",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "A CLASS／W168",
+  "years": "Apr-97",
+  "driver": 26,
+  "passenger": 24,
+  "rear": "13"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "B CLASS／W245",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 23,
+  "rear": "11"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "C CLASS／W203",
+  "years": "00-04",
+  "driver": 24,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "C CLASS／W203",
+  "years": "00-05",
+  "driver": 22,
+  "passenger": 22,
+  "rear": "16"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "C CLASS／W204",
+  "years": "7月8日",
+  "driver": 24,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "C CLASS／W204",
+  "years": "09-",
+  "driver": 24,
+  "passenger": 24,
+  "rear": "11"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "CL／C140",
+  "years": "91-98",
+  "driver": 25,
+  "passenger": 28,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "CL／C215／C216",
+  "years": "Jun-99",
+  "driver": 27,
+  "passenger": 27,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "CLK／C209",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "CLS／C219",
+  "years": "04-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "230E／W123",
+  "years": "76-85",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "E CLASS／W211",
+  "years": "2月6日",
+  "driver": 26,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "E CLASS／W212",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "E CLASS COUPE／W207",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "G CLASS／W463",
+  "years": "89-",
+  "driver": 16,
+  "passenger": 16,
+  "rear": "15"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "GLK CLASS／X204",
+  "years": "08-",
+  "driver": 22,
+  "passenger": 18,
+  "rear": "12"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "ML／W163",
+  "years": "May-98",
+  "driver": 22,
+  "passenger": 22,
+  "rear": "17"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "ML／W164",
+  "years": "05-",
+  "driver": 28,
+  "passenger": 21,
+  "rear": "12"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "S CLASS／W140",
+  "years": "93-98",
+  "driver": 25,
+  "passenger": 28,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "S CLASS／W220",
+  "years": "0",
+  "driver": 27,
+  "passenger": 27,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "S CLASS／W220",
+  "years": "00-",
+  "driver": 27,
+  "passenger": 27,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "S CLASS／W221",
+  "years": "05-",
+  "driver": 27,
+  "passenger": 27,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "SL／R230",
+  "years": "01-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "SLR／R199",
+  "years": "04-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "SLK／R170",
+  "years": "Apr-96",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "SLK／R171",
+  "years": "04-",
+  "driver": 23,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "R CLASS／W251",
+  "years": "06-",
+  "driver": 28,
+  "passenger": 21,
+  "rear": "12"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VIANO／W639",
+  "years": "3月5日",
+  "driver": 28,
+  "passenger": 26,
+  "rear": "13"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VIANO／W639",
+  "years": "05-",
+  "driver": 28,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VITO／W638",
+  "years": "Mar-95",
+  "driver": 26,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VITO／W639",
+  "years": "3月5日",
+  "driver": 28,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VITO／W639",
+  "years": "05-",
+  "driver": 28,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VANEO／414",
+  "years": "2月4日",
+  "driver": 26,
+  "passenger": 24,
+  "rear": "15"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "VANEO／414",
+  "years": "4月5日",
+  "driver": 26,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "FORFOUR／454",
+  "years": "4月7日",
+  "driver": 26,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "FORTWO CABRIO／COUPE／450",
+  "years": "4月7日",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "13"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "FORTWO CABRIO／COUPE／451",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 22,
+  "rear": "11"
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "ROADSTER／COUPE 452",
+  "years": "3月5日",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "BENZ賓士",
+  "model": "SMART CABRIO／COUPE 450",
+  "years": "Apr-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "13"
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CIVIC／喜美五代",
+  "years": "94-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CIVIC／喜美六代",
+  "years": "96-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CIVIC／喜美七代",
+  "years": "01-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CIVIC／喜美八代",
+  "years": "06-",
+  "driver": 28,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "ACCORD／雅哥",
+  "years": "90-92",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "ACCORD／雅哥",
+  "years": "93-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "ACCORD／雅哥",
+  "years": "98-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "ACCORD／雅哥",
+  "years": "03-",
+  "driver": 26,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CITY城市",
+  "years": "96-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "DOMANI多美麗",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CRV 4X4一代",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CRV 4X4二代",
+  "years": "03-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "CRV 4X4三代",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "LEGEND利堅德",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "STREAM",
+  "years": "01-",
+  "driver": 26,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "HONDA本田",
+  "model": "FIT",
+  "years": "08-",
+  "driver": 26,
+  "passenger": 14,
+  "rear": "14"
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "DAIMLER V8",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "SOVEREIGN",
+  "years": "-91",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "XJ-8",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "XJ-6",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "XK-8",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "S-TYPE",
+  "years": "99-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "X-TYPE",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "XF",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "JAGUAR捷豹",
+  "model": "XK",
+  "years": "06-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX-35",
+  "years": "03-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX-45",
+  "years": "03-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "INFINITI",
+  "model": "G-20",
+  "years": "90-97",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "INFINITI",
+  "model": "Q-45",
+  "years": "96-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "INFINITI",
+  "model": "QX4",
+  "years": "96-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "JEEP",
+  "model": "WRANGLER藍哥",
+  "years": "90-98",
+  "driver": 13,
+  "passenger": 13,
+  "rear": "18"
+ },
+ {
+  "brand": "JEEP",
+  "model": "WRANGLER藍哥",
+  "years": "07-",
+  "driver": 15,
+  "passenger": 15,
+  "rear": ""
+ },
+ {
+  "brand": "JEEP",
+  "model": "GRAND CHEROKEE",
+  "years": "-92",
+  "driver": 16,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "JEEP",
+  "model": "GRAND CHEROKEE",
+  "years": "93-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": "13"
+ },
+ {
+  "brand": "JEEP",
+  "model": "CHEROKEE",
+  "years": "-98",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "13"
+ },
+ {
+  "brand": "JEEP",
+  "model": "GRAND CHEROKEE",
+  "years": "Jun-99",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "SEPHIA",
+  "years": "94-98",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "18"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "CLARUS",
+  "years": "97-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "SHUMA 1.8",
+  "years": "98-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "SPORTAGE",
+  "years": "Apr-93",
+  "driver": 20,
+  "passenger": 20,
+  "rear": "16"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "SPORTAGE",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "RIO",
+  "years": "01-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "CARNIVAL",
+  "years": "99-",
+  "driver": 24,
+  "passenger": 24,
+  "rear": "16"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "CARENS",
+  "years": "00-05",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "CARENS",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "EURO CARENS",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": "13"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "EURO STAR",
+  "years": "06-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": "12"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "JOICE",
+  "years": "00-",
+  "driver": 22,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "SORENTO",
+  "years": "02-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "KIA起亞",
+  "model": "K-2700",
+  "years": "Apr-98",
+  "driver": 21,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "LUXGEN",
+  "model": "LUXGEN 7 MPV",
+  "years": "09-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW LASER／新全壘打",
+  "years": "90-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "GOLDEN LASER／金全壘打",
+  "years": "90-96",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FESTIVA／嘉年華",
+  "years": "89-95",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW FESTIVA／嘉年華／VIVID",
+  "years": "96-",
+  "driver": 20,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "GRAND FESTIVA",
+  "years": "98-99",
+  "driver": 20,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "TELSTAR／天王星",
+  "years": "88-92",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW TELSTAR／新天王星",
+  "years": "93-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW TX5",
+  "years": "93-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": "20"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "LIATA／你愛她",
+  "years": "95-98",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "TIERRA鐵而瑞",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "TIERRA-LIFE",
+  "years": "99-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "AZTEC雅姿態",
+  "years": "95-98",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "20"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "MONDEO I 蒙帝歐",
+  "years": "93-96",
+  "driver": 21,
+  "passenger": 20,
+  "rear": "13"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "MONDEO II 蒙帝歐",
+  "years": "96-00",
+  "driver": 21,
+  "passenger": 20,
+  "rear": "22"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "MONDEO III 蒙帝歐",
+  "years": "00-07",
+  "driver": 22,
+  "passenger": 20,
+  "rear": "19"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "MONDEO IV 蒙帝歐",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 19,
+  "rear": "12"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "METROSTAR都會之星",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW SCORPIO新史可比",
+  "years": "95-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "TAURUS 3.0LX金牛座",
+  "years": "96-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW PROBE金箭貂",
+  "years": "93-97",
+  "driver": 20,
+  "passenger": 20,
+  "rear": "20"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "ECONOVAN-AXI／載卡多",
+  "years": "84-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "NEW PRONTO／新好幫手",
+  "years": "90-",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "WINDSTAR休旅車",
+  "years": "94-96",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "16"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FREESTYLE",
+  "years": "4月6日",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "MAV",
+  "years": "00-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "ESCAPE",
+  "years": "00-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FOCUS I (進口)",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FOCUS II (台裝)",
+  "years": "4月6日",
+  "driver": 26,
+  "passenger": 17,
+  "rear": "15"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FOCUS II (台裝)",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 17,
+  "rear": "14"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FIESTA IV",
+  "years": "Feb-95",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FIESTA V",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": "11"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "FIESTA VII",
+  "years": "08-",
+  "driver": 26,
+  "passenger": 15,
+  "rear": "12"
+ },
+ {
+  "brand": "FORD福特",
+  "model": "I-MAX",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "LANCIA蘭吉雅",
+  "model": "THEMA帝馬16V",
+  "years": "93-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LANCIA蘭吉雅",
+  "model": "NEW THEMA新帝馬",
+  "years": "94-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LANCIA蘭吉雅",
+  "model": "KAPPA",
+  "years": "95-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": "18"
+ },
+ {
+  "brand": "LANCIA蘭吉雅",
+  "model": "YPSILON",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "LANCIA蘭吉雅",
+  "model": "PHEDRA",
+  "years": "02-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": "14"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "PANTHER／福豹",
+  "years": "98-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "15"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "RODEO／陸地龍",
+  "years": "91-98",
+  "driver": 20,
+  "passenger": 20,
+  "rear": "13"
+ },
+ {
+  "brand": "ISUZU",
+  "model": "RODEO／陸地龍",
+  "years": "99-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "ISUZU",
+  "model": "TROOPER",
+  "years": "-98",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "ACCENT",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "ATOZ",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 16,
+  "rear": "14"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "COUPE",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "NEW COUPE",
+  "years": "03-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": "20"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "ELANTRA",
+  "years": "91-93",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "NEW ELANTRA",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "GALLOPER",
+  "years": "97-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "MATRIX",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "SANTA FE",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": "14"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "SANTAMO",
+  "years": "00-",
+  "driver": 22,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "SONATA",
+  "years": "93-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "NEW SONATA",
+  "years": "95-98",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "SONATA",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "TRAJET",
+  "years": "00-",
+  "driver": 26,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "XG 2.0",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "GETZ",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 14,
+  "rear": "14"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "TUCSON",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "TERRACAN",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": "16"
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "I30",
+  "years": "09-",
+  "driver": 22,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "HYUNDAI現代",
+  "model": "IX35",
+  "years": "10-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS-400",
+  "years": "90-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS-430",
+  "years": "00-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LS-460",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "LX470",
+  "years": "03-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "SC-430",
+  "years": "02-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "GS-300",
+  "years": "93-97",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "GS-300",
+  "years": "May-98",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "GS-350／430",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX-300",
+  "years": "00-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": "16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX-330",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "16"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX-350",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX-400H",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": "14"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES-300",
+  "years": "02-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES-330",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "ES-350",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "IS-200",
+  "years": "May-99",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "LEXUS",
+  "model": "IS-250",
+  "years": "05-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "PROTON",
+  "model": "WIRA",
+  "years": "96-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "PROTON",
+  "model": "A-GO-GO",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PROTON",
+  "model": "JUMBUCK",
+  "years": "02-",
+  "driver": 20,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "PROTON",
+  "model": "GEN II",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": "18"
+ },
+ {
+  "brand": "PROTON",
+  "model": "SAVVY",
+  "years": "06-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "900",
+  "years": "90-93",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "900",
+  "years": "93-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "20"
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "9000",
+  "years": "92-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "20"
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "9-3／CABRIOLET／COUPE／KOMBI",
+  "years": "Mar-98",
+  "driver": 21,
+  "passenger": 20,
+  "rear": "20"
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "9-3／CABRIOLET／KOMBI",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "9-5／KOMBI",
+  "years": "97-",
+  "driver": 23,
+  "passenger": 23,
+  "rear": ""
+ },
+ {
+  "brand": "SAAB紳寶",
+  "model": "9-5／KOMBI",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "SKODA",
+  "model": "FABIA",
+  "years": "06-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "14"
+ },
+ {
+  "brand": "SKODA",
+  "model": "SUPERB",
+  "years": "1月4日",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "SKODA",
+  "model": "OCTAVIA",
+  "years": "04-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "16"
+ },
+ {
+  "brand": "SKODA",
+  "model": "ROOMSTER",
+  "years": "06-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "13"
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "ALHAMBRA 休旅車",
+  "years": "96-",
+  "driver": 28,
+  "passenger": 28,
+  "rear": "18"
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "ALHAMBRA 休旅車",
+  "years": "02-",
+  "driver": 28,
+  "passenger": 28,
+  "rear": ""
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "BARCELONA",
+  "years": "94-96",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "CORDOBA",
+  "years": "93-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "IBIZA",
+  "years": "93-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "14"
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "LEON",
+  "years": "94-96",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "SEAT喜悅",
+  "model": "TOLEDO",
+  "years": "91-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "R-19 雷諾",
+  "years": "90-98",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "紅龍",
+  "years": "94-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "CLIO I",
+  "years": "94-98",
+  "driver": 20,
+  "passenger": 19,
+  "rear": "16"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "CLIO II",
+  "years": "Jul-98",
+  "driver": 21,
+  "passenger": 18,
+  "rear": "12"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "CLIO III",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "14"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "ESPACE II",
+  "years": "02-",
+  "driver": 30,
+  "passenger": 27,
+  "rear": "14"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "LAGUNA II",
+  "years": "1月7日",
+  "driver": 24,
+  "passenger": 20,
+  "rear": "20"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "LAGUNA III",
+  "years": "7",
+  "driver": 26,
+  "passenger": 16,
+  "rear": "19"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "MEGANE II",
+  "years": "6月8日",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "MEGANE III",
+  "years": "09-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "MODUS",
+  "years": "04-",
+  "driver": 28,
+  "passenger": 25,
+  "rear": "12"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "SCENIC I",
+  "years": "Mar-96",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "16"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "SCENIC II",
+  "years": "3月4日",
+  "driver": 26,
+  "passenger": 22,
+  "rear": "11"
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "SCENIC II",
+  "years": "04-",
+  "driver": 26,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "RENAULT雷諾",
+  "model": "TWINGO II",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "12"
+ },
+ {
+  "brand": "SSANGYONG雙龍",
+  "model": "MUSSO",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SSANGYONG雙龍",
+  "model": "KORANDO",
+  "years": "97-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SSANGYONG雙龍",
+  "model": "REXTON",
+  "years": "02-",
+  "driver": 20,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "SSANGYONG雙龍",
+  "model": "MUSSO",
+  "years": "May-93",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "11"
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "106",
+  "years": "91-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "1007",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "3008",
+  "years": "09-",
+  "driver": 32,
+  "passenger": 27,
+  "rear": "12"
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "205",
+  "years": "86-95",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "206",
+  "years": "98-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": "14"
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "207",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 17,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "305",
+  "years": "85-93",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "306",
+  "years": "93-97",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "306",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "307",
+  "years": "01-",
+  "driver": 28,
+  "passenger": 26,
+  "rear": "14"
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "307 CC",
+  "years": "03-",
+  "driver": 28,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "308",
+  "years": "07-",
+  "driver": 30,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "309",
+  "years": "86-93",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "405",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "406",
+  "years": "96-",
+  "driver": 24,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "407／407SW",
+  "years": "04-",
+  "driver": 28,
+  "passenger": 28,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "505",
+  "years": "89-93",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "605",
+  "years": "90-",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "607",
+  "years": "00-",
+  "driver": 26,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "PEUGEOT標緻",
+  "model": "807",
+  "years": "02-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "ROVER 2",
+  "years": "94-97",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "ROVER 4",
+  "years": "-95",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "ROVER 4",
+  "years": "95-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "ROVER 6",
+  "years": "93-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "ROVER 8",
+  "years": "92-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "DISCOVERY I",
+  "years": "89-98",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "13"
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "DISCOVERY II",
+  "years": "Apr-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "14"
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "DISCOVERY III",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "FREELANDER I",
+  "years": "Jul-97",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "FREELANDER II",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "RANGE ROVER I",
+  "years": "88-96",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "RANGE ROVER II",
+  "years": "Feb-94",
+  "driver": 22,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "RANGE ROVER III",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "LAND ROVER",
+  "model": "RANGE ROVER IV",
+  "years": "05-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "323",
+  "years": "90-94",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "ALL NEW 323",
+  "years": "95-98",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "NEW 323 PROTEGE",
+  "years": "99-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "ISAMU",
+  "years": "00-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "626",
+  "years": "89-92",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "626",
+  "years": "92-98",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "626 CAPELLA",
+  "years": "98-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MILLENIA",
+  "years": "97-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX-6",
+  "years": "92-98",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MX-5",
+  "years": "89-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "E1800",
+  "years": "90-94",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "E2000",
+  "years": "94-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MPV",
+  "years": "95-99",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MPV",
+  "years": "Apr-99",
+  "driver": 24,
+  "passenger": 24,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "PREMACY",
+  "years": "00-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "TRIBUTE",
+  "years": "00-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 2",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 3",
+  "years": "06-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 3",
+  "years": "04-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 3 SPORT (五門)進口",
+  "years": "06-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 5",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 6",
+  "years": "02-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 6",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "CAYMAN S",
+  "years": "5月9日",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "BOXSTER [986][987]",
+  "years": "Sep-96",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "911／[964]",
+  "years": "-93",
+  "driver": 14,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "911／[993]",
+  "years": "93-97",
+  "driver": 18,
+  "passenger": 16,
+  "rear": "13"
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "911／[996]",
+  "years": "May-97",
+  "driver": 22,
+  "passenger": 21,
+  "rear": "22"
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "911／[997]",
+  "years": "04-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "924",
+  "years": "-89",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "928",
+  "years": "-92",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "968",
+  "years": "91-95",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "944",
+  "years": "-92",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "CAYENNE",
+  "years": "3月7日",
+  "driver": 26,
+  "passenger": 26,
+  "rear": "13"
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "CAYENNE",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": "13"
+ },
+ {
+  "brand": "PORSCHE保時捷",
+  "model": "PANAMERA",
+  "years": "09-",
+  "driver": 24,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "LANCER／VIRAGE",
+  "years": "93-96",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "LANCER／VIRAGE",
+  "years": "01-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "LANCER FORTIS",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "GLOBAL LANCER／VIRAGE",
+  "years": "",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "GALANT／雅蘭",
+  "years": "93-97",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "ALL NEW GALANT",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "RVR",
+  "years": "97-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "SAVRIN休旅車",
+  "years": "01-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "LIBERO／伯樂",
+  "years": "94-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "DELICA／得利卡",
+  "years": "90-93",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "FREECA／富利卡",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "SPACE GEAR",
+  "years": "97-",
+  "driver": 27,
+  "passenger": 27,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "CANTER／堅達",
+  "years": "89-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "MIRAGE／星鑽",
+  "years": "91-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "ECLIPSE／太陽鑽",
+  "years": "91-94",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "NEW ECLIPSE／太陽鑽",
+  "years": "94-99",
+  "driver": 24,
+  "passenger": 22,
+  "rear": "19"
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "DIAMANTE晶鑽",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "3000GT",
+  "years": "92-99",
+  "driver": 21,
+  "passenger": 20,
+  "rear": "19"
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "CHALLENGER",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "OUTLANDER",
+  "years": "03-",
+  "driver": 22,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "PAJERO",
+  "years": "99-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "ZINGER",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 12,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "SAVRIN休旅車",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "COLT PLUS",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 12,
+  "rear": ""
+ },
+ {
+  "brand": "MITSUBISHI三菱",
+  "model": "GRUNDER",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "MARCH／進行曲",
+  "years": "93-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "VERITA",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "SENTRA／尖兵",
+  "years": "87-90",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "NEW SENTRA／新尖兵311",
+  "years": "90-94",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "ALL NEW SENTRA／新好男人",
+  "years": "95-96",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "SENTRA CE",
+  "years": "96-98",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "SENTRA HV",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "SENTRA 180",
+  "years": "00-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "PRIMERA／霹靂馬",
+  "years": "92-96",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "CEFIRO A32",
+  "years": "96-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "CEFIRO A33",
+  "years": "00-",
+  "driver": 26,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "ALTIMA",
+  "years": "93-96",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "AD-RESORT",
+  "years": "",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "QUEST",
+  "years": "Mar-93",
+  "driver": 22,
+  "passenger": 22,
+  "rear": "15"
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "SERENA",
+  "years": "01-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "QX4",
+  "years": "97-",
+  "driver": 22,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "MAXIMA",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "Q-RV",
+  "years": "01-",
+  "driver": 26,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "CABSTAR／勁旺",
+  "years": "06-",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "TIIDA",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "TEANA",
+  "years": "04-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "TEANA",
+  "years": "09-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "BLUEBIRD-SYLPHY",
+  "years": "06-",
+  "driver": 22,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "X-TRAIL",
+  "years": "04-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": "17"
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "300ZX",
+  "years": "90-96",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "19"
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "350Z",
+  "years": "03-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "18"
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "LIVINA",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "NISSAN日產",
+  "model": "MURANO",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "OPEL",
+  "model": "ASTRA",
+  "years": "92-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "18"
+ },
+ {
+  "brand": "OPEL",
+  "model": "ASTRA",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "OPEL",
+  "model": "ASTRA ELITE",
+  "years": "01-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "OPEL",
+  "model": "ASTRA G／H系列",
+  "years": "05-",
+  "driver": 22,
+  "passenger": 18,
+  "rear": "12"
+ },
+ {
+  "brand": "OPEL",
+  "model": "CALIBRA",
+  "years": "91-96",
+  "driver": 19,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "OPEL",
+  "model": "CORSA A",
+  "years": "82-93",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "OPEL",
+  "model": "CORSA B",
+  "years": "93-00",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "OPEL",
+  "model": "CORSA C",
+  "years": "00-05",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "OPEL",
+  "model": "CORSA D",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 17,
+  "rear": "12"
+ },
+ {
+  "brand": "OPEL",
+  "model": "OMEGA",
+  "years": "-94",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "OPEL",
+  "model": "OMEGA",
+  "years": "Mar-94",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "OPEL",
+  "model": "TIGRA",
+  "years": "95-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "20"
+ },
+ {
+  "brand": "OPEL",
+  "model": "VECTRA",
+  "years": "-95",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "19"
+ },
+ {
+  "brand": "OPEL",
+  "model": "VECTRA",
+  "years": "95-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "19"
+ },
+ {
+  "brand": "OPEL",
+  "model": "VECTRA",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "OPEL",
+  "model": "ZAFIRA",
+  "years": "00-05",
+  "driver": 24,
+  "passenger": 24,
+  "rear": "16"
+ },
+ {
+  "brand": "OPEL",
+  "model": "ZAFIRA",
+  "years": "05-",
+  "driver": 28,
+  "passenger": 22,
+  "rear": "14"
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "CASA BLANCA",
+  "years": "99-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "DOMINGO／多猛哥",
+  "years": "90-93",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "ESTRATTO／金福相",
+  "years": "93-",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "FORESTER",
+  "years": "Jul-97",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "FORESTER",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "IMPREZA SEDAN",
+  "years": "93-00",
+  "driver": 21,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "IMPREZA SEDAN",
+  "years": "00-07",
+  "driver": 22,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "IMPREZA WRX",
+  "years": "02-",
+  "driver": 22,
+  "passenger": 16,
+  "rear": "15"
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "IMPREZA HATCHBACK",
+  "years": "07-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "LEGACY／力獅",
+  "years": "-94",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "LEGACY／力獅",
+  "years": "94-98",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "15"
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "LEGACY／力獅",
+  "years": "Mar-98",
+  "driver": 22,
+  "passenger": 20,
+  "rear": "15"
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "LEGACY／力獅",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUBARU速霸陸",
+  "model": "OUTBACK",
+  "years": "00-07",
+  "driver": 22,
+  "passenger": 16,
+  "rear": "15"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "CULTUS／福星",
+  "years": "93-99",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "CARRY／EVERY馬上發",
+  "years": "95-",
+  "driver": 16,
+  "passenger": 16,
+  "rear": "14"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "ESTEEM",
+  "years": "97-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "ESCUDO／吉星",
+  "years": "90-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "LIANA",
+  "years": "1月7日",
+  "driver": 22,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "JIMNY 4X4",
+  "years": "Aug-98",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "VITARA／金吉星",
+  "years": "92-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "GRAND VITARA",
+  "years": "95-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "15"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "GRAND VITARA JP",
+  "years": "06-",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "15"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "SUPER VITARA／超級金吉星",
+  "years": "95-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "SUPER VITARA／超級金吉星",
+  "years": "98-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "IGNIS",
+  "years": "01-",
+  "driver": 19,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "SOLIO",
+  "years": "02-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "SWIFT",
+  "years": "04-",
+  "driver": 21,
+  "passenger": 18,
+  "rear": "10"
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "SX4",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "WAGON R+",
+  "years": "99-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "SUZUKI鈴木",
+  "model": "ALTO",
+  "years": "09-",
+  "driver": 22,
+  "passenger": 13,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CORONA可樂娜",
+  "years": "89-93",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CORONA EXSIOR",
+  "years": "93-97",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CORONA PREMIO",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "TERCEL",
+  "years": "95-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "TERCEL MANGIT",
+  "years": "98-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "VIOS",
+  "years": "05-",
+  "driver": 21,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "COROLLA",
+  "years": "89-92",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "COROLLA",
+  "years": "92-97",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "COROLLA",
+  "years": "98-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "COROLLA ALTIS",
+  "years": "01-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "years": "88-91",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "years": "91-95",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "years": "96-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "years": "02-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "AVALON",
+  "years": "94-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "WISH",
+  "years": "04-",
+  "driver": 26,
+  "passenger": 14,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "CELICA",
+  "years": "97-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "20"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RVA4",
+  "years": "97-",
+  "driver": 20,
+  "passenger": 18,
+  "rear": "14"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "RVA4",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "瑞獅",
+  "years": "90-",
+  "driver": 16,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "瑞獅",
+  "years": "96-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "ZACE SURF",
+  "years": "99-",
+  "driver": 18,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "HIACE-SOLEMIO",
+  "years": "97-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "PREVIA",
+  "years": "01-",
+  "driver": 28,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "YARIS",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 14,
+  "rear": "10"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "INNOVA",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 16,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "740／780",
+  "years": "84-95",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "760",
+  "years": "-93",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "8系列",
+  "years": "92-96",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "940",
+  "years": "-97",
+  "driver": 20,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "960",
+  "years": "-97",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "C30",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S40 I",
+  "years": "Apr-95",
+  "driver": 21,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S40 II",
+  "years": "03-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S40 II",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V40",
+  "years": "Apr-95",
+  "driver": 21,
+  "passenger": 20,
+  "rear": "16"
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V50",
+  "years": "4月5日",
+  "driver": 26,
+  "passenger": 20,
+  "rear": "13"
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V50",
+  "years": "05-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S60",
+  "years": "00-04",
+  "driver": 24,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S60",
+  "years": "04-",
+  "driver": 24,
+  "passenger": 22,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "XC60",
+  "years": "09-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "C70",
+  "years": "Jun-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "C70",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S70",
+  "years": "97-",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V70 I",
+  "years": "97-00",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "17"
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V70 II",
+  "years": "00-07",
+  "driver": 24,
+  "passenger": 22,
+  "rear": "16"
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V70 III",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": "14"
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "XC70 I",
+  "years": "2月4日",
+  "driver": 24,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "XC70 I",
+  "years": "4月7日",
+  "driver": 24,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "XC70 II",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": "14"
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S80 I",
+  "years": "00-06",
+  "driver": 24,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "S80 II",
+  "years": "06-",
+  "driver": 26,
+  "passenger": 20,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "V90",
+  "years": "97-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VOLVO富豪",
+  "model": "XC90",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 22,
+  "rear": "15"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "BORA",
+  "years": "Feb-98",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "CORRADO",
+  "years": "89-95",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "18"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "CADDY",
+  "years": "4月6日",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "CADDY",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "EOS",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF 3",
+  "years": "91-99",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF 4",
+  "years": "Feb-97",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF 4",
+  "years": "2月5日",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "15"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF 5",
+  "years": "3月5日",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF 5",
+  "years": "5月8日",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF 6",
+  "years": "09-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "11"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "GOLF PLUS",
+  "years": "5月9日",
+  "driver": 28,
+  "passenger": 28,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "JETTA",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "LUPO",
+  "years": "May-98",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "11"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "LUPO",
+  "years": "00-05",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "11"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "NEW BEETLE",
+  "years": "May-98",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "POLO",
+  "years": "Jan-94",
+  "driver": 19,
+  "passenger": 19,
+  "rear": "11"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "POLO",
+  "years": "1月5日",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "POLO",
+  "years": "02-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "POLO",
+  "years": "05-",
+  "driver": 21,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "PASSAT",
+  "years": "00-05",
+  "driver": 21,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "PASSAT",
+  "years": "05-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "PASSAT CC",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "PHAETON",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 21,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "SCIROCCO",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 19,
+  "rear": "10"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "SHARAN",
+  "years": "00-",
+  "driver": 28,
+  "passenger": 28,
+  "rear": ""
+ },
+ {
+  "brand": "VW福斯",
+  "model": "TOURAN",
+  "years": "3月6日",
+  "driver": 28,
+  "passenger": 28,
+  "rear": "16"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "TOURAN",
+  "years": "4月6日",
+  "driver": 24,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "TOURAN",
+  "years": "06-",
+  "driver": 24,
+  "passenger": 18,
+  "rear": "16"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "TOUAREG",
+  "years": "2月6日",
+  "driver": 26,
+  "passenger": 26,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "TOUAREG",
+  "years": "07-",
+  "driver": 26,
+  "passenger": 26,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "TIGUAN",
+  "years": "08-",
+  "driver": 24,
+  "passenger": 21,
+  "rear": "13"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "T-4",
+  "years": "Mar-90",
+  "driver": 21,
+  "passenger": 21,
+  "rear": "16"
+ },
+ {
+  "brand": "VW福斯",
+  "model": "T-5",
+  "years": "03-",
+  "driver": 24,
+  "passenger": 23,
+  "rear": "16"
+ }
+]

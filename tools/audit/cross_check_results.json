@@ -1,0 +1,10815 @@
+[
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "CMC",
+  "model": "VARICA",
+  "year": "99-08",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "VARICA 1999~2008 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "CMC",
+  "model": "VARICA",
+  "year": "09-22",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "VARICA 2009~年之後 18/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "CMC",
+  "model": "ZINGER",
+  "year": "15-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "CMC",
+  "model": "菱利 E300 / A180",
+  "year": "20-",
+  "ours": [
+   18,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    18,
+    16
+   ]
+  ],
+  "C_raw": "COPEN (06-) 18/16",
+  "C_gap": 0,
+  "brand": "DAIHATSU",
+  "model": "COPEN",
+  "year": "06-08",
+  "ours": [
+   18,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    16
+   ]
+  ],
+  "A_raw": "Copen 2006~2008 18/16",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    16
+   ]
+  ],
+  "B_raw": "COPEN 2006~2008 18/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    19
+   ]
+  ],
+  "C_raw": "MATERIA 1.5(COO) (06-) 20/19",
+  "C_gap": 0,
+  "brand": "DAIHATSU",
+  "model": "MATERIA",
+  "year": "06-09",
+  "ours": [
+   20,
+   19
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    20,
+    19
+   ]
+  ],
+  "B_raw": "MATERIA (COO) 2006~2009 20/18／20/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    18,
+    19
+   ]
+  ],
+  "C_raw": "SIRION西力旺 (98-) 18/19",
+  "C_gap": 1,
+  "brand": "DAIHATSU",
+  "model": "SIRION",
+  "year": "01-04",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    18
+   ]
+  ],
+  "A_raw": "Sirion 2000~2004 18/18",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "SIRION 2001~2004 18/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    16
+   ]
+  ],
+  "C_raw": "NEW SIRION (06-) 20/16",
+  "C_gap": 0,
+  "brand": "DAIHATSU",
+  "model": "SIRION",
+  "year": "05-16",
+  "ours": [
+   20,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    16
+   ]
+  ],
+  "A_raw": "Sirion 2008~迄今 20/16",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    16
+   ]
+  ],
+  "B_raw": "SIRION 2005~2016(2代) 20/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    14
+   ]
+  ],
+  "C_raw": "TERIOS 4WD (01-) 20/14",
+  "C_gap": 0,
+  "brand": "DAIHATSU",
+  "model": "TERIOS",
+  "year": "01-06",
+  "ours": [
+   20,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    14
+   ]
+  ],
+  "A_raw": "Terios 2001~2006 20/14",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    14
+   ]
+  ],
+  "B_raw": "TERIOS 2001~2006 20/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    18
+   ]
+  ],
+  "C_raw": "NEW TERIOS (06-) 21/18",
+  "C_gap": 0,
+  "brand": "DAIHATSU",
+  "model": "TERIOS",
+  "year": "06-16",
+  "ours": [
+   21,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    18
+   ]
+  ],
+  "A_raw": "Terios 2008~迄今 21/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "TERIOS 2006~2016(2代) 20/18／21/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    19,
+    19
+   ]
+  ],
+  "C_raw": "ESCAPE (00-) 19/19",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "ESCAPE",
+  "year": "02-04",
+  "ours": [
+   19,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    19,
+    19
+   ]
+  ],
+  "A_raw": "Escape 2000~2007 19/19",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    18
+   ],
+   [
+    19,
+    19
+   ]
+  ],
+  "B_raw": "Escape 2000~2007 18/18／19/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "FORD",
+  "model": "ESCAPE",
+  "year": "04-13",
+  "ours": [
+   19,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Escape 2004~2007 20/18",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Escape 2004~2007 20/18",
+  "B_gap": 1,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "FORD",
+  "model": "FESTIVA",
+  "year": "93-00",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "FESTIVA 1993~2000 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "FIESTA V (02-) 22/16",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "FIESTA",
+  "year": "02-08",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "FORD",
+  "model": "FOCUS",
+  "year": "98-05",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    22,
+    18
+   ],
+   [
+    22,
+    19
+   ]
+  ],
+  "B_raw": "Focus 2001~2004(MK1/進口) 22/18／22/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    16
+   ]
+  ],
+  "C_raw": "I-MAX (07-) 26/16",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "I-MAX",
+  "year": "07-11",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "I-MAX 2007~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "I-MAX 2007~2011 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "MAV (00-) 24/16",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "MAV",
+  "year": "00-06",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "MAV 2000~迄今 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "MAV 2000~2006 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    20
+   ]
+  ],
+  "C_raw": "METROSTAR都會之星 (01-) 22/20",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "METROSTAR",
+  "year": "03-07",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "Metrostar 2001~迄今 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "Metrostar 2001~年之後 22/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    20
+   ]
+  ],
+  "C_raw": "MONDEO III 蒙帝歐 (00-07) 22/20",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "MONDEO",
+  "year": "00-07",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "Mondeo 2001~2007(MK3 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "Mondeo 2000~2007(MK3) 22/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "FORD",
+  "model": "MUSTANG / MACH-E",
+  "year": "22-",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "TIERRA鐵而瑞 (98-) 20/18",
+  "C_gap": 0,
+  "brand": "FORD",
+  "model": "TIERRA",
+  "year": "98-08",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "TIERRA 1998~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "TIERRA 1998~2008 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    19
+   ]
+  ],
+  "C_raw": "ACCORD／雅哥 (98-) 24/19",
+  "C_gap": 0,
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "year": "98-08",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": true,
+  "amb_b": true,
+  "C": [
+   [
+    26,
+    18
+   ]
+  ],
+  "C_raw": "ACCORD／雅哥 (03-) 26/18",
+  "C_gap": 2,
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "year": "03-08",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "AMBIG",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Accord 8代 2003~2013 26/18",
+  "A_gap": 2,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "ACCORD 2003~2013(8代) 26/18",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "year": "08-13",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    19
+   ]
+  ],
+  "A_raw": "Accord 9代 2008~2016 26/19",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    19
+   ]
+  ],
+  "B_raw": "ACCORD 2008~2016(9代) 26/18／26/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "ACCORD",
+  "year": "13-16",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CITY",
+  "year": "14-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "City (六代) 2014~迄今 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "CITY 2014~年之後(6代) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "CIVIC／喜美七代 (01-) 24/16",
+  "C_gap": 0,
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "year": "01-06",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Civic 7代 2001~2006 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "CIVIC 2001~2006(7代) 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CIVIC",
+  "year": "12-17",
+  "ours": [
+   26,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    22
+   ]
+  ],
+  "A_raw": "Civic 9代 2012~迄今 26/22",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "CIVIC 2012~年之後(9代) 26/22",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CR-V",
+  "year": "99-02",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "CRV 1代 1997~2002 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "CR-V 1997~2002(1代) 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CR-V",
+  "year": "02-06",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "CRV 2代 2003~2006 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "CR-V 2003~2006(2代) 22/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CR-V",
+  "year": "07-12",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    17
+   ]
+  ],
+  "A_raw": "CRV 2007~2011 26/17",
+  "A_gap": 1,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "CR-V 2007~2012(2007~2012/09(3代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CR-V",
+  "year": "12-17",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "CRV 4代 2012~2017 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "CR-V 2012/10~2017/06(4代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CR-V",
+  "year": "17-23",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "CRV 5代 2017~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "CR-V 2017/07~2023/06(5代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "CR-Z Hybrid",
+  "year": "12-15",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    21
+   ]
+  ],
+  "A_raw": "CR-Z 2010~迄今 26/21",
+  "A_gap": 1,
+  "B": [
+   [
+    26,
+    20
+   ]
+  ],
+  "B_raw": "CR-Z Hybrid 2010~年之後 26/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    14
+   ]
+  ],
+  "C_raw": "FIT (08-) 26/14",
+  "C_gap": 0,
+  "brand": "HONDA",
+  "model": "FIT",
+  "year": "08-14",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    14
+   ]
+  ],
+  "A_raw": "Fit 2009~2015 28/14",
+  "A_gap": 2,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "FIT 2008~2014/09(2代) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "FIT",
+  "year": "14-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "FIT 2014/10~年之後(3代) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "FIT",
+  "year": "20-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "HR-V",
+  "year": "16-22",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "HR-V 2016~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "HR-V 2016~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "HR-V",
+  "year": "22-",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    19
+   ]
+  ],
+  "C_raw": "LEGEND利堅德 (99-) 21/19",
+  "C_gap": 0,
+  "brand": "HONDA",
+  "model": "LEGEND",
+  "year": "98-04",
+  "ours": [
+   21,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    19
+   ]
+  ],
+  "A_raw": "LEGEND 1998~2004 20/19",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    19
+   ]
+  ],
+  "B_raw": "LEGEND 1998~2004 20/18／21/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "Odyssey",
+  "year": "13-15",
+  "ours": [
+   26,
+   22
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "Odyssey 2013~2015/05(美規/5代) 26/22",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "Odyssey",
+  "year": "13-16",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "ERR1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "Odyssey 2013~2015/05(美規/5代) 26/22",
+  "B_gap": 8,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HONDA",
+  "model": "Odyssey",
+  "year": "16-22",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    14
+   ],
+   [
+    28,
+    14
+   ]
+  ],
+  "B_raw": "Odyssey 2015/06~年之後(日規/5代) 26/14／28/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": true,
+  "C": [
+   [
+    26,
+    14
+   ]
+  ],
+  "C_raw": "STREAM (01-) 26/14",
+  "C_gap": 0,
+  "brand": "HONDA",
+  "model": "STREAM",
+  "year": "01-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "STREAM 2000~2006 24/14",
+  "A_gap": 2,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "STREAM 2001~年之後 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    18
+   ]
+  ],
+  "C_raw": "NEW COUPE (03-) 21/18",
+  "C_gap": 1,
+  "brand": "HYUNDAI",
+  "model": "COUPE",
+  "year": "02-07",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    18
+   ]
+  ],
+  "A_raw": "New Coupe 2003~迄今 21/18",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "New Coupe 2003~年之後 20/18／21/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "ELANTRA",
+  "year": "02-08",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "ELANTRA",
+  "year": "12-19",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Elantra 2012~2017 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "ELANTRA 2012~2017 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "ELANTRA",
+  "year": "19-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Elantra 2017~2023(6代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "ELANTRA 2017~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "GENESIS",
+  "year": "16-19",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "ERR1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "GENESIS (DH) 2014~年之後 24/18",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    14
+   ]
+  ],
+  "C_raw": "GETZ (02-) 22/14",
+  "C_gap": 0,
+  "brand": "HYUNDAI",
+  "model": "GETZ",
+  "year": "02-09",
+  "ours": [
+   22,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    14
+   ]
+  ],
+  "A_raw": "Getz 2002~迄今 22/14",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    14
+   ]
+  ],
+  "B_raw": "GETZ 2002~年之後 22/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "GRAND STAREX",
+  "year": "07-",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "Starex 2006~迄今 24/20",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    18
+   ],
+   [
+    19,
+    18
+   ]
+  ],
+  "B_raw": "Starex 2006~年之後 18/18／19/18",
+  "B_gap": 5,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "i10",
+  "year": "09-14",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "i10 2009~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "i10 2009~年之後 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    18
+   ]
+  ],
+  "C_raw": "I30 (09-) 22/18",
+  "C_gap": 2,
+  "brand": "HYUNDAI",
+  "model": "i30",
+  "year": "09-12",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "i30 2009~迄今 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "i30 2009~年之後 24/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "IONIQ",
+  "year": "17-19",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "IONIQ Hybrid 2017/06~年之後 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "IONIQ",
+  "year": "20-22",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "IONIQ Hybrid 2017/06~年之後 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "IONIQ 5",
+  "year": "22-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "IONIQ 6",
+  "year": "23-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "KONA",
+  "year": "19-23",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Kona 2018/11~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Kona 2018/11~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "KONA",
+  "year": "24-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "MATRIX (02-) 22/16",
+  "C_gap": 0,
+  "brand": "HYUNDAI",
+  "model": "MATRIX",
+  "year": "01-10",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Matrix 2002~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "MATRIX 2002~年之後 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "PORTER",
+  "year": "05-09",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    18
+   ]
+  ],
+  "A_raw": "Porter 2005~迄今 18/18",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "PORTER 2005~年之後 18/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "PORTER",
+  "year": "18-24",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "year": "09-14",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Santa Fe 2006~2013(二代 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "SANTA FE 2006~2013(2代) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "year": "14-18",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Santa Fe 2014~迄今(三代 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "SANTA FE 2014~年之後(3代) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "year": "19-24",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "SANTA FE",
+  "year": "24-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "SONATA (06-) 24/20",
+  "C_gap": 0,
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "year": "06-09",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "Sonata 2005~2010(五代 24/19",
+  "A_gap": 1,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "SONATA 2005~2010(5代) 24/18／24/19",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "year": "11-14",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Sonata 2011~2014(六代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "SONATA 2011~2014(6代) 26/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "SONATA",
+  "year": "15-19",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Sonata 2015~迄今(七代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "SONATA 2015~年之後(7代) 26/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "STARIA",
+  "year": "21-",
+  "ours": [
+   28,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    28,
+    16
+   ]
+  ],
+  "A_raw": "Staria 2022~迄今 28/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    22
+   ]
+  ],
+  "C_raw": "TRAJET (00-) 26/22",
+  "C_gap": 0,
+  "brand": "HYUNDAI",
+  "model": "TRAJET",
+  "year": "00-07",
+  "ours": [
+   26,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    22
+   ]
+  ],
+  "A_raw": "TRAJET 2000~迄今 26/22",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "TRAJET 2000~年之後 26/22",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "TUCSON (05-) 24/16",
+  "C_gap": 0,
+  "brand": "HYUNDAI",
+  "model": "TUCSON",
+  "year": "05-10",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Tucson 2005~2010(一代 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "TUCSON 2005~2010(1代) 24/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "TUCSON",
+  "year": "10-16",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "TUCSON",
+  "year": "16-22",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Tucson 2016~2021/10(三代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "TUCSON 2016~年之後(3代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "TUCSON",
+  "year": "22-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Tucson 2021/11~迄今(四代 26/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "VELOSTER",
+  "year": "12-18",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Veloster 2012~2019(一代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "VELOSTER 2012~2019/05(1代) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "VELOSTER",
+  "year": "19-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "VELOSTER 2019/06~年之後(2代) 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "VENUE",
+  "year": "20-",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "VENUE 2020~迄今 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Venue 2020~年之後 24/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "HYUNDAI",
+  "model": "VERNA",
+  "year": "16-23",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "EX35 / EX37",
+  "year": "08-13",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "EX35 2008~迄今 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "EX35 / EX37 2008~年之後 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    20
+   ]
+  ],
+  "C_raw": "FX-35 (03-) 22/20",
+  "C_gap": 2,
+  "brand": "INFINITI",
+  "model": "FX35",
+  "year": "03-08",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "FX35 2003~2007(一代 24/19",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "FX35 2003~2007(1代) 24/18／24/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "FX35 / FX45 / FX50",
+  "year": "08-13",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "FX35 2008~迄今(二代 24/19",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "FX35 2008~年之後(2代) 24/18／24/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "G25 / M25",
+  "year": "10-13",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "ERR1",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "M25 2009~迄今 24/20",
+  "A_gap": 4,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "G35 / G37 / M35 / M37",
+  "year": "03-07",
+  "ours": [
+   22,
+   18
+  ],
+  "verdict": "ERR1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "G35 / G SEDAN 2003~2013 26/16",
+  "A_gap": 4,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "JX35",
+  "year": "12-15",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "jX35 2012~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "JX35 2012~年之後 26/16／26/17",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "Q45",
+  "year": "01-08",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Q45 2002~2007 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Q45 2002~2007 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "Q50",
+  "year": "14-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Q50 2014~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "Q50 2014~年之後 26/16／26/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "Q50",
+  "year": "22-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "Q60",
+  "year": "14-16",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "Q60",
+  "year": "17-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Q60 2016~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "Q60 2016~年之後 26/16／26/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "Q70",
+  "year": "14-21",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    19
+   ]
+  ],
+  "A_raw": "Q70 2015~迄今 26/19",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    19
+   ]
+  ],
+  "B_raw": "Q70 2015~年之後 26/18／26/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "QX50",
+  "year": "13-18",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "QX50",
+  "year": "19-",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "AMBIG",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "QX50 2016~迄今(一代 26/16",
+  "A_gap": 2,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "QX50 2016~年之後 26/16／26/17",
+  "B_gap": 2,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "QX60",
+  "year": "15-22",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "QX60 2016/09~年之後 26/16／26/17",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "QX60",
+  "year": "23-",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "INFINITI",
+  "model": "QX70",
+  "year": "13-19",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "QX70 2013~迄今 24/19",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "QX70 2013~年之後 24/18／24/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "ISUZU",
+  "model": "ELF",
+  "year": "03-09",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "ISUZU",
+  "model": "ELF",
+  "year": "10-",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    20
+   ]
+  ],
+  "C_raw": "RODEO／陸地龍 (99-) 20/20",
+  "C_gap": 0,
+  "brand": "ISUZU",
+  "model": "RODEO",
+  "year": "99-04",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    19,
+    19
+   ]
+  ],
+  "A_raw": "RODEO 1998~2004 19/19",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "RODEO 1998~2004 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "ISUZU",
+  "model": "RODEO",
+  "year": "04-07",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "RODEO 2004~2007 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "ISUZU",
+  "model": "TROOPER",
+  "year": "92-99",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    20
+   ]
+  ],
+  "A_raw": "TROOPER 1992~2002 20/20",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "TROOPER 1992~2002 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "ISUZU",
+  "model": "TROOPER",
+  "year": "00-07",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "TROOPER 2000~2007 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "CARENS",
+  "year": "04-08",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "CARENS",
+  "year": "15-",
+  "ours": [
+   28,
+   28
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    28
+   ]
+  ],
+  "A_raw": "Carens 2015~迄今 28/28",
+  "A_gap": 0,
+  "B": [
+   [
+    28,
+    28
+   ]
+  ],
+  "B_raw": "CARENS 2015~年之後 28/28",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "CARNIVAL",
+  "year": "21-",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "ERR1",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Carnival 2021/4~2023(四代、U型鉤 26/18",
+  "A_gap": 2,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "CEED Sportswagon",
+  "year": "21-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "CEED 2020~迄今 26/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "EURO STAR",
+  "year": "04-08",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Euro Star 2004~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "EURO STAR 2004~年之後 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "EV6 / GT",
+  "year": "22-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "EV6 2021~迄今 26/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "KAON",
+  "year": "07-20",
+  "ours": [
+   22,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "MORNING",
+  "year": "14-",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Morning 2014~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "MORNING 2014~年之後 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "OPTIMA",
+  "year": "17-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "OPTIMA 2017~年之後 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "PICANTO",
+  "year": "18-",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Picanto 2018~迄今 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "PICANTO 2018~年之後 24/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    18
+   ]
+  ],
+  "C_raw": "RIO (01-) 21/18",
+  "C_gap": 0,
+  "brand": "KIA",
+  "model": "RIO",
+  "year": "01-05",
+  "ours": [
+   21,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    18
+   ]
+  ],
+  "A_raw": "Rio 2001~2005 21/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "RIO 2001~2005 20/18／21/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "SORENTO (02-) 24/16",
+  "C_gap": 2,
+  "brand": "KIA",
+  "model": "SORENTO",
+  "year": "02-08",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Sorento 2003~2009 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "SORENTO 2003~2009 24/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "SORENTO",
+  "year": "17-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Sorento 2017~2020/10(三代 26/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "SOUL",
+  "year": "17-",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "Soul 2017~迄今 24/20",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "SOUL 2017~年之後 24/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "SPORTAGE (05-) 24/16",
+  "C_gap": 0,
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "year": "05-08",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Sportage 2005~2010 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "SPORTAGE 2005~2010 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "year": "16-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Sportage 2016~2022/5(四代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "SPORTAGE 2016~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "year": "22-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Sportage 2022/6~2024(NQ5 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "SPORTAGE 2022/06~ 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "STINGER",
+  "year": "18-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Stinger 2018~迄今 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "STINGER 2018~年之後 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "KIA",
+  "model": "STONIC",
+  "year": "19-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Stonic 2019~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "STONIC 2019~年之後 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "CT 200H",
+  "year": "11-18",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "CT 2011~迄今 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "CT 2011~年之後 26/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "CT 200H",
+  "year": "19-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "ES-300 (02-) 24/20",
+  "C_gap": 0,
+  "brand": "LEXUS",
+  "model": "ES",
+  "year": "03-06",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "ES 2002~2006(四代 24/20",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "ES 2002~2006(4代) 24/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "ES-330 (05-) 24/20",
+  "C_gap": 1,
+  "brand": "LEXUS",
+  "model": "ES",
+  "year": "06-13",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "ES 2006~2012(五代 24/20",
+  "A_gap": 1,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "ES 2006~2012(5代) 24/20",
+  "B_gap": 1,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "ES",
+  "year": "12-15",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "ES 2012~迄今(六代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "ES 2012~年之後(6代) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "ES",
+  "year": "18-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "ES 2018~迄今(七代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "ES 2018~年之後(7代) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "GS-350／430 (05-) 24/20",
+  "C_gap": 0,
+  "brand": "LEXUS",
+  "model": "GS",
+  "year": "05-12",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "GS 350 2005~2012 24/18",
+  "A_gap": 2,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "GS 2005~2012(350) 24/20",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "GS",
+  "year": "12-19",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "GS 2012~迄今(四代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "GS 2012~年之後(4代) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "IS",
+  "year": "99-05",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    19
+   ]
+  ],
+  "A_raw": "IS 1999~2005(一代 22/19",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    18
+   ],
+   [
+    22,
+    19
+   ]
+  ],
+  "B_raw": "IS 1999~2005(1代) 22/18／22/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    20
+   ]
+  ],
+  "C_raw": "IS-250 (05-) 22/20",
+  "C_gap": 0,
+  "brand": "LEXUS",
+  "model": "IS",
+  "year": "05-13",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "IS 2005~2013(二代 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "IS 2005~2013(2代) 22/20",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "IS",
+  "year": "17-",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "LC",
+  "year": "17-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "LC 2017~年之後 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "LS-430 (00-) 24/16",
+  "C_gap": 0,
+  "brand": "LEXUS",
+  "model": "LS",
+  "year": "00-06",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "LS 2000~2006(三代 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "LS 2000~2006(3代) 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "LS-460 (06-) 24/16",
+  "C_gap": 0,
+  "brand": "LEXUS",
+  "model": "LS",
+  "year": "07-12",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "LS 2006~2016(4代) 24/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "LS",
+  "year": "12-17",
+  "ours": [
+   24,
+   22
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "LS",
+  "year": "18-20",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    19
+   ]
+  ],
+  "A_raw": "LS 2018~迄今(五代 26/19",
+  "A_gap": 1,
+  "B": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    19
+   ]
+  ],
+  "B_raw": "LS 2018~年之後(5代) 26/18／26/19",
+  "B_gap": 1,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "LX",
+  "year": "02-07",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "LX",
+  "year": "07-",
+  "ours": [
+   24,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    22
+   ]
+  ],
+  "A_raw": "LX 570 2007~2012(三代 24/22",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    22
+   ]
+  ],
+  "B_raw": "LX 570 2007~2012(3代) 24/22",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "NX",
+  "year": "18-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "NX 200 2018/3~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "NX 300 2019~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "NX",
+  "year": "21-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "NX 200 2018/3~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "NX (二代) 2021/12~ 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "RC",
+  "year": "14-",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "RX-300 (00-) 24/20",
+  "C_gap": 2,
+  "brand": "LEXUS",
+  "model": "RX",
+  "year": "98-03",
+  "ours": [
+   26,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    22
+   ]
+  ],
+  "A_raw": "RX 1999~2003(一代 26/22",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "RX 1999~2003 (1代) 26/22",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "RX-300 (00-) 24/20",
+  "C_gap": 2,
+  "brand": "LEXUS",
+  "model": "RX",
+  "year": "03-08",
+  "ours": [
+   26,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    22
+   ]
+  ],
+  "A_raw": "RX 2003~2008(二代 26/22",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "RX 2003~2008(2代) 26/22",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "RX-330 (06-) 24/16",
+  "C_gap": 6,
+  "brand": "LEXUS",
+  "model": "RX",
+  "year": "08-15",
+  "ours": [
+   26,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    22
+   ]
+  ],
+  "A_raw": "RX 2009~2015(三代 26/22",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    22
+   ]
+  ],
+  "B_raw": "RX 2009~2015/09 (3代) 26/22",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "RZ450e",
+  "year": "23-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "SC-430 (02-) 24/20",
+  "C_gap": 0,
+  "brand": "LEXUS",
+  "model": "SC",
+  "year": "02-08",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "SC-430 2001~迄今 24/20",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "SC-430 2001~年之後 24/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LEXUS",
+  "model": "UX",
+  "year": "18-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "UX 2019~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "UX 2019~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "M7",
+  "year": "09-14",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "7MPV (CEO2.2) 2009~2013 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "7MPV 2009~2013(CEO2.2) 26/16／26/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "S3",
+  "year": "15-21",
+  "ours": [
+   22,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    18
+   ]
+  ],
+  "A_raw": "S3 2015~迄今 22/18",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    17
+   ]
+  ],
+  "B_raw": "Luxgen-S3 2015~年之後 22/17",
+  "B_gap": 1,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "S5",
+  "year": "12-15",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "S5 2014~2015 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    17
+   ]
+  ],
+  "B_raw": "Luxgen-S5 2014~2015 24/17",
+  "B_gap": 1,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "S5 Hyper",
+  "year": "16-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "S5 2015~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "S5 2015~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "U5",
+  "year": "17-21",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "U5 2017~迄今 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ],
+   [
+    22,
+    17
+   ]
+  ],
+  "B_raw": "U5 2017~年之後 22/16／22/17",
+  "B_gap": 2,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "U6",
+  "year": "13-21",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "U6 TURBO 2013~2017/10 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ],
+   [
+    24,
+    17
+   ]
+  ],
+  "B_raw": "U6 2013~2017/10(Turbo) 24/16／24/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "U6 NEO",
+  "year": "22-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "U7",
+  "year": "09-14",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "U7 SUV 2010~2012 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "U7 SUV 2010~2012 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "LUXGEN",
+  "model": "URX",
+  "year": "19-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "URX 2020~2021 24/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "323",
+  "year": "99-03",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "323 1999~迄今(Protege) 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "323 1999~年之後(PROTEGE) 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    19
+   ]
+  ],
+  "C_raw": "626 CAPELLA (98-) 21/19",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "626",
+  "year": "98-04",
+  "ours": [
+   21,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    19
+   ]
+  ],
+  "A_raw": "626 1998~迄今(Capella) 21/19",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    19
+   ]
+  ],
+  "B_raw": "626 1998~年之後(CAPELLA) 20/18／21/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "CX-3",
+  "year": "16-",
+  "ours": [
+   22,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    18
+   ]
+  ],
+  "A_raw": "CX-3 2015~迄今 22/18",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    18
+   ]
+  ],
+  "B_raw": "CX-3 2015~年之後 22/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "CX-30",
+  "year": "19-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "CX-30 2019~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "CX-30 2019~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": true,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "CX-5",
+  "year": "12-16",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "CX-5 2012~2017(一代 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "5 (CW) 2010~年之後 26/16",
+  "B_gap": 2,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "CX-60",
+  "year": "23-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "CX-60 2023~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "CX-60 / CX-90 2023/10~ 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "CX-7",
+  "year": "09-13",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "ERR2",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "CX-7 2010~迄今 24/16",
+  "A_gap": 2,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "CX-7 2010~年之後 24/16",
+  "B_gap": 2,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "CX-9",
+  "year": "09-15",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "CX-9 2010~2016(一代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "CX-9 2010~2016(1代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    14
+   ]
+  ],
+  "C_raw": "MAZDA 2 (08-) 24/14",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "MAZDA 2",
+  "year": "07-14",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Mazda2 2008~2014(三代 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Mazda2 2008~2014(3代) 24/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MAZDA 2",
+  "year": "14-17",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Mazda2 2015~迄今(四代 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "2 (DL, DJ) 2014~年之後 22/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    19
+   ]
+  ],
+  "C_raw": "MAZDA 3 (04-) 21/19",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "MAZDA 3",
+  "year": "04-09",
+  "ours": [
+   21,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    19
+   ]
+  ],
+  "A_raw": "Mazda3 2004~2009(一代/國產 21/19",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    19
+   ]
+  ],
+  "B_raw": "Mazda3 2004~2009(國產) 20/18／21/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    19
+   ]
+  ],
+  "C_raw": "MAZDA 3 (06-) 21/19",
+  "C_gap": 3,
+  "brand": "MAZDA",
+  "model": "MAZDA 3",
+  "year": "09-13",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "Mazda3 2010~2014(二代/國產 24/19",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "Mazda3 2010~2014(國產) 24/18／24/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MAZDA 3",
+  "year": "14-18",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Mazda3 2015~2019/4(三代/進口 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Mazda3 2014~2016(SPORT) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MAZDA 3",
+  "year": "19-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Mazda3 2019/5~迄今(四代/進口 26/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    16
+   ]
+  ],
+  "C_raw": "MAZDA 5 (05-) 26/16",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "MAZDA 5",
+  "year": "05-10",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Mazda5 2005~2011(一代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "5 (CR19) 2005~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MAZDA 5",
+  "year": "11-16",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Mazda5 2011~2016(二代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "5 (CW) 2010~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": true,
+  "C": [
+   [
+    21,
+    18
+   ]
+  ],
+  "C_raw": "MAZDA 6 (02-) 21/18",
+  "C_gap": 1,
+  "brand": "MAZDA",
+  "model": "MAZDA 6",
+  "year": "02-08",
+  "ours": [
+   22,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    18
+   ]
+  ],
+  "A_raw": "Mazda6 2002~2007(一代 21/18",
+  "A_gap": 1,
+  "B": [
+   [
+    22,
+    18
+   ]
+  ],
+  "B_raw": "6 (GG) 2002~2008 22/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "MAZDA 6 (08-) 24/16",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "MAZDA 6",
+  "year": "08-12",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Mazda6 2008~2012(二代 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Mazda6 2008~2012(2代) 24/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MAZDA 6",
+  "year": "12-15",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Mazda6 2013/11~2018/6(三代 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Mazda6 2013~年之後(3代) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MAZDA 6",
+  "year": "15-18",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Mazda6 2013/11~2018/6(三代 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Mazda6 2013~年之後(3代) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": true,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MPV",
+  "year": "99-04",
+  "ours": [
+   24,
+   24
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    24
+   ]
+  ],
+  "A_raw": "MPV 2000~2006 24/24",
+  "A_gap": 0,
+  "B": [
+   [
+    16,
+    16
+   ]
+  ],
+  "B_raw": "MPV II (LW) 1999~2006 16/16",
+  "B_gap": 8,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MAZDA",
+  "model": "MX-5",
+  "year": "15-",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    19,
+    18
+   ]
+  ],
+  "A_raw": "MX-5 2016~迄今 19/18",
+  "A_gap": 1,
+  "B": [
+   [
+    18,
+    18
+   ],
+   [
+    19,
+    18
+   ]
+  ],
+  "B_raw": "MX-5 2016~年之後 18/18／19/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "PREMACY (00-) 24/16",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "PREMACY",
+  "year": "99-05",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Premacy 1999~2005 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Premacy 1999~2005 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    19,
+    19
+   ]
+  ],
+  "C_raw": "TRIBUTE (00-) 19/19",
+  "C_gap": 0,
+  "brand": "MAZDA",
+  "model": "TRIBUTE",
+  "year": "00-09",
+  "ours": [
+   19,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Tribute 2001~2007 20/18",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Tribute 2001~2007 20/18",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "CANTER",
+  "year": "96-07",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "CANTER",
+  "year": "07-13",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "CANTER",
+  "year": "14-",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    12
+   ]
+  ],
+  "C_raw": "COLT PLUS (06-) 26/12",
+  "C_gap": 2,
+  "brand": "MITSUBISHI",
+  "model": "COLT PLUS",
+  "year": "07-13",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    12
+   ]
+  ],
+  "A_raw": "Colt plus 2007~2012 26/12",
+  "A_gap": 2,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Colt plus 2007~年之後(7代) 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "COLT PLUS",
+  "year": "14-19",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "ERR1",
+  "A": [
+   [
+    26,
+    12
+   ]
+  ],
+  "A_raw": "Colt plus 2013~迄今(七代 26/12",
+  "A_gap": 2,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "COLT PLUS",
+  "year": "19-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "DELICA",
+  "year": "03-",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "ECLIPSE",
+  "year": "17-",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "Eclipse Cross 2017~迄今 24/20",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "Eclipse Cross 2017~年之後 24/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    20
+   ]
+  ],
+  "C_raw": "FREECA／富利卡 (97-) 20/20",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "FREECA",
+  "year": "97-08",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "Freeca 1997~年之後 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "GALANT／雅蘭 (93-97) 20/18",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "GALANT",
+  "year": "93-04",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Galant 1993~1997 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "Grand Lancer LANCER",
+  "year": "13-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Lancer 2013~2017(sport back 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ],
+   [
+    24,
+    17
+   ]
+  ],
+  "B_raw": "Lancer 2013~2017(Sportback) 24/16／24/17",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    18
+   ]
+  ],
+  "C_raw": "GRUNDER (05-) 26/18",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "GRUNDER",
+  "year": "05-13",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Grunder 2005~迄今 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Grunder 2005~年之後 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "LANCER",
+  "year": "17-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "CONFLICT",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Lancer 2017/4~迄今(Grand Lancer 24/16",
+  "A_gap": 2,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Lancer 2017/02~年之後(Grand Lancer) 24/18",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "LANCER FORTIS (07-) 24/16",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "LANCER FORTIS",
+  "year": "07-13",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Lancer 2007/9~2017( Fortis/io 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ],
+   [
+    24,
+    17
+   ]
+  ],
+  "B_raw": "Lancer 2007~2017(Fortis/io) 24/16／24/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "LANCER／VIRAGE (93-96) 20/18",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "LANCER VIRAGE",
+  "year": "93-00",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Lancer 1993~2000(Lancer/Virage) 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    18
+   ]
+  ],
+  "C_raw": "LANCER／VIRAGE (01-) 24/18",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "LANCER VIRAGE",
+  "year": "01-07",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Lancer 2001~2003(Virage 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Lancer 2001~2003(Virage) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "LEADCA",
+  "year": "13-",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "MAGIC",
+  "year": "03-08",
+  "ours": [
+   16,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    19
+   ]
+  ],
+  "C_raw": "OUTLANDER (03-) 22/19",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "OUTLANDER",
+  "year": "03-07",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    19
+   ]
+  ],
+  "A_raw": "Outlander 2003~2007 22/19",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    18
+   ],
+   [
+    22,
+    19
+   ]
+  ],
+  "B_raw": "Outlander 2003~2007(1代) 22/18／22/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "OUTLANDER",
+  "year": "07-13",
+  "ours": [
+   24,
+   21
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    21
+   ]
+  ],
+  "A_raw": "Outlander 2008~2014 24/21",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ],
+   [
+    24,
+    21
+   ]
+  ],
+  "B_raw": "Outlander 2008~2014(2代) 24/20／24/21",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "OUTLANDER",
+  "year": "14-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Outlander 2015~2020/6 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Outlander 2015~年之後(3代) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    19,
+    19
+   ]
+  ],
+  "C_raw": "PAJERO (99-) 19/19",
+  "C_gap": 1,
+  "brand": "MITSUBISHI",
+  "model": "PAJERO",
+  "year": "00-06",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    20
+   ]
+  ],
+  "A_raw": "Pajero 2000~2006 20/20",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "Pajero 2000~2006 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "PAJERO",
+  "year": "07-13",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "Pajero 2007~迄今 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "Pajero 2007~年之後 22/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    16
+   ]
+  ],
+  "C_raw": "SAVRIN休旅車 (01-) 26/16",
+  "C_gap": 0,
+  "brand": "MITSUBISHI",
+  "model": "SAVRIN",
+  "year": "01-14",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Savrin 2001~2013 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Savrin 2001~2013 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    27,
+    27
+   ]
+  ],
+  "C_raw": "SPACE GEAR (97-) 27/27",
+  "C_gap": 1,
+  "brand": "MITSUBISHI",
+  "model": "SPACE GEAR",
+  "year": "97-04",
+  "ours": [
+   26,
+   26
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    26
+   ]
+  ],
+  "B_raw": "Space Gear 1997~年之後 26/26",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    12
+   ]
+  ],
+  "C_raw": "ZINGER (06-) 26/12",
+  "C_gap": 2,
+  "brand": "MITSUBISHI",
+  "model": "ZINGER",
+  "year": "05-15",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Zinger 2005~2015/8 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Zinger 2006~2014 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "MITSUBISHI",
+  "model": "ZINGER PICK UP",
+  "year": "20-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "350Z (03-) 20/18",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "350Z",
+  "year": "03-09",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "350Z 2003~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "350Z 2003~年之後 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "370Z",
+  "year": "09-17",
+  "ours": [
+   21,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    19
+   ]
+  ],
+  "A_raw": "370Z 2009~2012 21/19",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    19
+   ]
+  ],
+  "B_raw": "370Z 2009~2012 20/18／21/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "370Z",
+  "year": "17-",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "ALTIMA",
+  "year": "18-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    20
+   ]
+  ],
+  "C_raw": "BLUEBIRD-SYLPHY (06-) 22/20",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "BLUEBIRD",
+  "year": "06-12",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "BlueBird 2006~迄今 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "BlueBird 2006~年之後 22/20",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    20
+   ]
+  ],
+  "C_raw": "CABSTAR／勁旺 (06-) 20/20",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "CABSTAR",
+  "year": "08-",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    18
+   ]
+  ],
+  "C_raw": "CEFIRO A33 (00-) 26/18",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "CEFIRO",
+  "year": "00-16",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Cefiro 2000~迄今(A33 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Cefiro 2000~年之後(A33) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "GTR",
+  "year": "08-19",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    22,
+    19
+   ]
+  ],
+  "A_raw": "GTR 2009~2021( R35 22/19",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "JUKE",
+  "year": "11-15",
+  "ours": [
+   22,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "KICKS",
+  "year": "18-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Kicks 2018~迄今 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Kicks 2018~年之後 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "LEAF",
+  "year": "18-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    14
+   ]
+  ],
+  "C_raw": "LIVINA (07-) 24/14",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "LIVINA",
+  "year": "07-14",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Livina 2007~2014/02(一代 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Livina 2007~2014(1代) 24/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "LIVINA",
+  "year": "14-",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Livina 2014/03~迄今(二代 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Livina 2014~年之後(2代) 24/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "MARCH",
+  "year": "99-08",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "MARCH",
+  "year": "11-",
+  "ours": [
+   21,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    14
+   ]
+  ],
+  "A_raw": "March 2012~2017(四代/K13 20/14",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    14
+   ]
+  ],
+  "B_raw": "March 2012~2017(4代/K13) 20/14",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    18
+   ]
+  ],
+  "C_raw": "MURANO (05-) 26/18",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "MURANO",
+  "year": "04-08",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Murano 2004~2016 26/18",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    18
+   ]
+  ],
+  "C_raw": "MURANO (05-) 26/18",
+  "C_gap": 2,
+  "brand": "NISSAN",
+  "model": "MURANO",
+  "year": "08-13",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Murano (suv) 2008~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Murano 2008~年之後 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "QUEST",
+  "year": "93-03",
+  "ours": [
+   22,
+   22
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    22
+   ]
+  ],
+  "A_raw": "Quest 1993~2002 22/22",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    22
+   ]
+  ],
+  "B_raw": "Quest 1993~2002 22/22",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "QUEST",
+  "year": "04-15",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Quest 2004~2015 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Quest 2004~2015 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "ROGUE",
+  "year": "09-15",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "ROGUE 2009~迄今 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "ROGUE 2009~年之後 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "SENTRA 180 (00-) 22/16",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "SENTRA",
+  "year": "02-06",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Sentra 2000~2013/9 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "Sentra 2000/05~2013/09(180/M1) 22/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "SENTRA",
+  "year": "13-17",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    14
+   ]
+  ],
+  "A_raw": "Sentra 2013/10~迄今 18/14",
+  "A_gap": 8,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Sentra 2013/10~2020/09(Super Sentra) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "SENTRA",
+  "year": "20-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Sentra 2018~迄今(1.8旗艦版/AERO 26/14",
+  "A_gap": 2,
+  "B": [
+   [
+    24,
+    16
+   ],
+   [
+    24,
+    17
+   ]
+  ],
+  "B_raw": "Sentra 2020/10~年之後(八代/B18) 24/16／24/17",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": true,
+  "amb_b": true,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "SERENA (01-) 22/16",
+  "C_gap": 4,
+  "brand": "NISSAN",
+  "model": "SERENA",
+  "year": "03-12",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "AMBIG",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Serena 2006~迄今 24/14",
+  "A_gap": 2,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Serena 2006~年之後 24/14",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    19
+   ]
+  ],
+  "C_raw": "TEANA (04-) 24/19",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "TEANA",
+  "year": "04-09",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "Teana 2004~2009(一代 24/19",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "Teana 2004~2009(1代) 24/18／24/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    16
+   ]
+  ],
+  "C_raw": "TEANA (09-) 26/16",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "TEANA",
+  "year": "09-17",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Nex Teana 2009~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Nex Teana 2009~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "TIIDA (06-) 24/16",
+  "C_gap": 2,
+  "brand": "NISSAN",
+  "model": "TIIDA",
+  "year": "06-13",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "TIIDA 2006~2013(一代 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "TIIDA 2006~2012(1代) 22/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "TIIDA",
+  "year": "13-17",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "TIIDA 2013~迄今(二代/BIG TIIDA 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "TIIDA 2013~年之後(2代/BIG TIIDA) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "TIIDA",
+  "year": "18-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "VERITA (97-) 20/18",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "VERITA",
+  "year": "97-08",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Verita 1997~年之後 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "X-TRAIL (04-) 24/16",
+  "C_gap": 0,
+  "brand": "NISSAN",
+  "model": "X-TRAIL",
+  "year": "02-09",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "X-Trail 2002~2014(一/二代 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "X-Trail 2002~2014(1代) 26/16",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "X-TRAIL",
+  "year": "15-21",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "X-Trail 2015~2022(三代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "X-Trail 2015~年之後(3代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "NISSAN",
+  "model": "X-TRAIL",
+  "year": "22-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "X-Trail 2023/9~迄今(四代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "X-Trail (T33) 2023/02~ 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "GEN II (04-) 22/16",
+  "C_gap": 0,
+  "brand": "PROTON",
+  "model": "GEN II",
+  "year": "05-15",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "GEN 2004~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "Gen 2004~年之後 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "PROTON",
+  "model": "JUMBACK",
+  "year": "04-09",
+  "ours": [
+   20,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "PROTON",
+  "model": "PERSONA",
+  "year": "09-17",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "SAVVY (06-) 22/16",
+  "C_gap": 0,
+  "brand": "PROTON",
+  "model": "SAVVY",
+  "year": "06-15",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "SAVVY 2007~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "SAVVY 2007~年之後 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "ACTYON",
+  "year": "06-15",
+  "ours": [
+   21,
+   19
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "ACTYON I 2005~年之後 20/18",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    18,
+    18
+   ]
+  ],
+  "C_raw": "KORANDO (97-) 18/18",
+  "C_gap": 0,
+  "brand": "SSANGYONG",
+  "model": "KORANDO",
+  "year": "97-06",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "KORANDO",
+  "year": "11-14",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "KORANDO 2010~年之後 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "KYRON",
+  "year": "08-14",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    22,
+    18
+   ]
+  ],
+  "B_raw": "KYRON 2005~年之後 22/18",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "MUSSO (97-) 20/18",
+  "C_gap": 0,
+  "brand": "SSANGYONG",
+  "model": "MUSSO",
+  "year": "97-05",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    19
+   ]
+  ],
+  "C_raw": "REXTON (02-) 20/19",
+  "C_gap": 1,
+  "brand": "SSANGYONG",
+  "model": "REXTON",
+  "year": "02-14",
+  "ours": [
+   20,
+   20
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    20
+   ]
+  ],
+  "B_raw": "REXTON (GAB_) 2002~年之後 20/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "STAVIC",
+  "year": "04-15",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Stavic 2005~年之後 24/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "STAVIC",
+  "year": "15-17",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Stavic 2014~年之後 24/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "TIVOLI",
+  "year": "15-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Tivoli 2015~年之後 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SSANGYONG",
+  "model": "TIVOLI",
+  "year": "19-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Tivoli 2018~年之後 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "BRZ",
+  "year": "12-16",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "Brz 2012~迄今 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ],
+   [
+    24,
+    21
+   ]
+  ],
+  "B_raw": "Brz 2012~年之後 24/20／24/21",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "BRZ",
+  "year": "21-",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "FORESTER",
+  "year": "01-08",
+  "ours": [
+   22,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    19
+   ]
+  ],
+  "A_raw": "Forester 2002~2007(第二代/SG 22/19",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    18
+   ],
+   [
+    22,
+    19
+   ]
+  ],
+  "B_raw": "Forester 2002~2007 (2代/SG) 22/18／22/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    18
+   ]
+  ],
+  "C_raw": "FORESTER (07-) 24/18",
+  "C_gap": 0,
+  "brand": "SUBARU",
+  "model": "FORESTER",
+  "year": "08-13",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Forester 2008~2012(第三代/SH 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Forester 2008~2012 (3代/SH) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "FORESTER",
+  "year": "13-18",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Forester 2013~2018/7(第四代/SJ 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "Forester 2013~2018/07 (4代/SJ) 26/16／26/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    16
+   ]
+  ],
+  "C_raw": "IMPREZA SEDAN (00-07) 22/16",
+  "C_gap": 2,
+  "brand": "SUBARU",
+  "model": "IMPREZA",
+  "year": "02-06",
+  "ours": [
+   21,
+   18
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    16
+   ]
+  ],
+  "C_raw": "IMPREZA HATCHBACK (07-) 24/16",
+  "C_gap": 0,
+  "brand": "SUBARU",
+  "model": "IMPREZA",
+  "year": "06-10",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "IMPREZA",
+  "year": "11-16",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Impreza 2013/08~2016 (4代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    18
+   ]
+  ],
+  "C_raw": "LEGACY／力獅 (03-) 24/18",
+  "C_gap": 1,
+  "brand": "SUBARU",
+  "model": "LEGACY",
+  "year": "03-08",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    19
+   ]
+  ],
+  "A_raw": "Legacy 2003~2009/9(四代 24/19",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ],
+   [
+    24,
+    19
+   ]
+  ],
+  "B_raw": "Legacy 2003~2008 24/18／24/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "LEGACY",
+  "year": "09-15",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Legacy 2009/10~2015/2(五代 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    19
+   ]
+  ],
+  "B_raw": "Legacy 2010~2014 26/18／26/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "LEGACY",
+  "year": "15-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Legacy 2015/3~2019(六代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "Legacy 2015~2016 26/16／26/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "LEVORG",
+  "year": "16-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Levorg 2015~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Levorg 2015~年之後 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "OUTBACK",
+  "year": "05-09",
+  "ours": [
+   24,
+   19
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "OUTBACK",
+  "year": "09-14",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    19
+   ]
+  ],
+  "A_raw": "Outback 2009~2014 26/19",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    19
+   ]
+  ],
+  "B_raw": "Outback 2009~2014 26/18／26/19",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "OUTBACK",
+  "year": "15-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Outback 2015~2022 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ],
+   [
+    26,
+    17
+   ]
+  ],
+  "B_raw": "Outback 2015~年之後 26/16／26/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "Solterra",
+  "year": "23-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "WRX",
+  "year": "14-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "WRX 2014~2020(四代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "WRX 2014~年之後 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUBARU",
+  "model": "XV",
+  "year": "12-17",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "XV 2011~2017(一代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "XV 2011~2017/05 (1代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    22,
+    13
+   ]
+  ],
+  "C_raw": "ALTO (09-) 22/13",
+  "C_gap": 1,
+  "brand": "SUZUKI",
+  "model": "ALTO",
+  "year": "09-14",
+  "ours": [
+   21,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    14
+   ]
+  ],
+  "A_raw": "Alto 2009/12~2014/11 21/14",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    14
+   ],
+   [
+    21,
+    14
+   ]
+  ],
+  "B_raw": "Alto 2010~年之後 20/14／21/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "BALENO",
+  "year": "16-",
+  "ours": [
+   21,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    18
+   ]
+  ],
+  "A_raw": "Baleno 2017~迄今 21/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "Baleno 2017~年之後 20/18／21/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "CARRY",
+  "year": "08-",
+  "ours": [
+   16,
+   16
+  ],
+  "verdict": "ERR1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "Carry 2008~2017 18/18",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "IGNIS",
+  "year": "17-",
+  "ours": [
+   21,
+   19
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "Ignis 2017/06~年之後(2代) 20/18／21/18",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "JIMNY",
+  "year": "00-08",
+  "ours": [
+   18,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    16
+   ]
+  ],
+  "A_raw": "Jimny 2000~2017(三代 18/16",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    16
+   ]
+  ],
+  "B_raw": "Jimny 2000~2007 (3代) 18/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "JIMNY",
+  "year": "19-",
+  "ours": [
+   16,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    16,
+    16
+   ]
+  ],
+  "A_raw": "Jimny 2019~迄今(四代 16/16",
+  "A_gap": 0,
+  "B": [
+   [
+    16,
+    16
+   ]
+  ],
+  "B_raw": "Jimny 2019~年之後 16/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "NIPPY",
+  "year": "06-10",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Nippy 2006~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Nippy 2006~年之後 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "SOLIO (02-) 20/18",
+  "C_gap": 0,
+  "brand": "SUZUKI",
+  "model": "SOLIO",
+  "year": "02-09",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Solio 2002~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Solio 2002~年之後 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    18
+   ]
+  ],
+  "C_raw": "SWIFT (04-) 21/18",
+  "C_gap": 1,
+  "brand": "SUZUKI",
+  "model": "SWIFT",
+  "year": "06-17",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Swift 2006~2017/9(一二三代 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "Swift 2006~2017/09 (1代/2代/3代) 20/18／21/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "SWIFT",
+  "year": "18-",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    18
+   ]
+  ],
+  "A_raw": "Swift 2017~迄今(四代 21/18",
+  "A_gap": 1,
+  "B": [
+   [
+    20,
+    18
+   ],
+   [
+    21,
+    18
+   ]
+  ],
+  "B_raw": "Swift 2017/10~年之後(4代) 20/18／21/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    14
+   ]
+  ],
+  "C_raw": "SX4 (06-) 26/14",
+  "C_gap": 0,
+  "brand": "SUZUKI",
+  "model": "SX4",
+  "year": "06-13",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "SX4 2006~2013 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "SX4 2006~2013 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "SX4 Cross",
+  "year": "14-22",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "SX4 2014~迄今(Crossover 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "SX4 2014~年之後 (含Crossover) 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "SX4 Cross",
+  "year": "23-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    18,
+    18
+   ]
+  ],
+  "C_raw": "VITARA／金吉星 (92-) 18/18",
+  "C_gap": 0,
+  "brand": "SUZUKI",
+  "model": "VITARA",
+  "year": "95-07",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "Super vitara 1995~年之後 18/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "SUZUKI",
+  "model": "VITARA",
+  "year": "16-",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Vitara 2016/9~迄今 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Vitara 2016/09~年之後(4代) 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "WAGON R+ (99-) 20/18",
+  "C_gap": 0,
+  "brand": "SUZUKI",
+  "model": "WAGON R+",
+  "year": "00-08",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Wagon R+ 2000~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Wagon R+ 1999~年之後 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "4 RUNNER",
+  "year": "14-24",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "ALPHARD",
+  "year": "08-14",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    14
+   ]
+  ],
+  "A_raw": "Alphard 2008~2014(二代 28/14",
+  "A_gap": 0,
+  "B": [
+   [
+    30,
+    14
+   ]
+  ],
+  "B_raw": "Alphard 2008~2014 (2代) 30/14",
+  "B_gap": 2,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "ALPHARD",
+  "year": "23-",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "AURIS",
+  "year": "18-21",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    14
+   ]
+  ],
+  "A_raw": "Auris 2018~2020 28/14",
+  "A_gap": 0,
+  "B": [
+   [
+    28,
+    14
+   ]
+  ],
+  "B_raw": "Auris 2018~年之後 28/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "AVALON",
+  "year": "99-04",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "AVALON 2000~2004 24/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "BZ4X",
+  "year": "23-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    18
+   ]
+  ],
+  "C_raw": "CAMRY (02-) 24/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "year": "02-06",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    18
+   ]
+  ],
+  "A_raw": "Camry 2002~2006(5代/國產1代 24/18",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Camry 2002/03~2006/04 (5代/國產1代) 24/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    20
+   ]
+  ],
+  "C_raw": "CAMRY (06-) 24/20",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "year": "06-11",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "Camry 2006~2011(6代/國產 24/20",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    20
+   ]
+  ],
+  "B_raw": "Camry 2006/05~2011 (6代/國產) 24/20",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "year": "11-18",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    18
+   ]
+  ],
+  "A_raw": "Camry 2012~2019(7代/國產 26/18",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Camry 2012~2020 (7代/國產) 26/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "CAMRY",
+  "year": "19-24",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    20
+   ]
+  ],
+  "A_raw": "Camry 2018/11~迄今(8代/8.5代/進口 26/20",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    20
+   ]
+  ],
+  "B_raw": "Camry 2018/11~年之後 (8代/進口) 26/20",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "COROLLA (92-97) 20/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "COROLLA",
+  "year": "92-01",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Corolla 1989~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Corolla Exsior 1993~1997 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "COROLLA (98-) 20/18",
+  "C_gap": 4,
+  "brand": "TOYOTA",
+  "model": "COROLLA ALTIS",
+  "year": "01-07",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Altis 2001~2007(9代 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Altis 2001~2007 (9代) 24/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "COROLLA ALTIS",
+  "year": "08-13",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Altis 2008~2013(10代 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Altis 2008~2013/09 (10代) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "COROLLA ALTIS",
+  "year": "13-18",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Altis 2013~2019(11代 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Altis 2013/10~2019/02 (11代) 26/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "COROLLA ALTIS",
+  "year": "19-24",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    14
+   ]
+  ],
+  "A_raw": "Altis 2019/3~迄今(12代 28/14",
+  "A_gap": 0,
+  "B": [
+   [
+    28,
+    14
+   ]
+  ],
+  "B_raw": "Altis 2019~年之後(12代) 28/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "COROLLA CROSS",
+  "year": "20-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Corolla Cross 2020~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Corolla Cross(CC) 2020/10~年之後 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "COROLLA SPORT",
+  "year": "22-",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    14
+   ]
+  ],
+  "A_raw": "Corolla Sport 2020~迄今 28/14",
+  "A_gap": 0,
+  "B": [
+   [
+    28,
+    14
+   ]
+  ],
+  "B_raw": "Corolla Sport 2020/07~年之後 28/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "CORONA EXSIOR (93-97) 20/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "CORONA/EXSIOR",
+  "year": "93-97",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "Corona Exsior 1993~1997 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Corona 1993~1997(Exsior) 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    20,
+    18
+   ]
+  ],
+  "C_raw": "CORONA PREMIO (97-) 20/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "CORONA/PREMIO",
+  "year": "97-03",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "Corona 1997~年之後(Premio) 20/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "CROWN",
+  "year": "23-",
+  "ours": [
+   26,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    26,
+    18
+   ]
+  ],
+  "B_raw": "Crown 2023年之後(16代) 26/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "FT86",
+  "year": "12-17",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    20
+   ]
+  ],
+  "A_raw": "86 2012~迄今(GT86 22/20",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    20
+   ]
+  ],
+  "B_raw": "86 2012~年之後(GT86) 22/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "FT86",
+  "year": "18-22",
+  "ours": [
+   22,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "GR YARIS / CROSSOVER",
+  "year": "21-",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "ERR1",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "GR Yaris 2021~迄今 24/16",
+  "A_gap": 2,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "GRANVIA",
+  "year": "19-",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    24,
+    20
+   ]
+  ],
+  "A_raw": "Granvia 2019~迄今 24/20",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "HIACE",
+  "year": "05-12",
+  "ours": [
+   21,
+   21
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "HIACE",
+  "year": "20-",
+  "ours": [
+   24,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "HILUX",
+  "year": "19-",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Hilux 2019~迄今 22/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    16
+   ]
+  ],
+  "C_raw": "INNOVA (07-) 26/16",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "INNOVA",
+  "year": "07-11",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Innova 2007~迄今 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Innova 2007~年之後 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "INNOVA",
+  "year": "11-16",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PRADO",
+  "year": "09-18",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    20
+   ]
+  ],
+  "A_raw": "Land Cruiser Prado 2009~迄今(J150 26/20",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    20
+   ]
+  ],
+  "B_raw": "Land Cruiser Prado 2009~年之後(J150) 26/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PRADO",
+  "year": "21-",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "UNKNOWN",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    28,
+    18
+   ]
+  ],
+  "C_raw": "PREVIA (01-) 28/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "PREVIA",
+  "year": "01-06",
+  "ours": [
+   28,
+   18
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    28,
+    18
+   ]
+  ],
+  "A_raw": "Previa 2001~2005 28/18",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PREVIA",
+  "year": "06-20",
+  "ours": [
+   28,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    16
+   ]
+  ],
+  "A_raw": "Previa 2006~2012 28/16",
+  "A_gap": 0,
+  "B": [
+   [
+    28,
+    16
+   ]
+  ],
+  "B_raw": "Previa 2006~2012 28/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PRIUS",
+  "year": "00-03",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Prius 2000~2003一代 (W11 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ]
+  ],
+  "B_raw": "Prius 2000~2003 (1代/W11) 24/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PRIUS",
+  "year": "03-08",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "Prius 2003~2008二代 (W20 24/16",
+  "A_gap": 2,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "Prius 2003~2008 (2代/W20) 26/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PRIUS",
+  "year": "09-16",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Prius 2009~2015三代 (W30/W35 26/16",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": true
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "PRIUS C",
+  "year": "12-14",
+  "ours": [
+   28,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "Prius 2009~2015三代 (W30/W35 26/16",
+  "A_gap": 2,
+  "B": [
+   [
+    28,
+    14
+   ]
+  ],
+  "B_raw": "Prius 2012~年之後 C(NHP10) 28/14",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "year": "97-07",
+  "ours": [
+   20,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    20,
+    18
+   ]
+  ],
+  "A_raw": "RAV4 1997~迄今 20/18",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    18
+   ]
+  ],
+  "B_raw": "RAV4 1997~年之後 20/18",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "year": "08-12",
+  "ours": [
+   24,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    16
+   ]
+  ],
+  "A_raw": "RAV4 2008~2012(三代 24/16",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    16
+   ],
+   [
+    24,
+    17
+   ]
+  ],
+  "B_raw": "RAV4 2008~2014 (3代) 24/16／24/17",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "year": "13-18",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "RAV4 2013~2019/2(四代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "RAV4 2013~2018 (4代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "RAV4",
+  "year": "19-",
+  "ours": [
+   26,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    16
+   ]
+  ],
+  "A_raw": "RAV4 2019/3~迄今(五代 26/16",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    16
+   ]
+  ],
+  "B_raw": "RAV4 2019/03~年之後(5代) 26/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "SIENNA",
+  "year": "98-03",
+  "ours": [
+   24,
+   18
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    24,
+    18
+   ]
+  ],
+  "B_raw": "Sienna 1998~2003 24/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "SIENNA",
+  "year": "04-10",
+  "ours": [
+   26,
+   19
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    19
+   ]
+  ],
+  "A_raw": "Sienna 2004~2010 26/19",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    18
+   ],
+   [
+    26,
+    19
+   ]
+  ],
+  "B_raw": "Sienna 2004~2010 26/18／26/19",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "SIENNA",
+  "year": "11-20",
+  "ours": [
+   28,
+   20
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    28,
+    20
+   ]
+  ],
+  "A_raw": "Sienna 2011~2021/2(三代 28/20",
+  "A_gap": 0,
+  "B": [
+   [
+    28,
+    20
+   ]
+  ],
+  "B_raw": "Sienna 2011~年之後 28/20",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": true,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "SIENNA",
+  "year": "21-",
+  "ours": [
+   26,
+   20
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    20
+   ]
+  ],
+  "A_raw": "Sienna 2021/3~迄今(四代 26/20",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "SIENTA",
+  "year": "21-24",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK1",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Sienta 2021/4~迄今(U型鉤 26/14",
+  "A_gap": 0,
+  "B": null,
+  "B_raw": null,
+  "B_gap": null,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    18,
+    18
+   ]
+  ],
+  "C_raw": "TERCEL (95-) 18/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "TERCEL",
+  "year": "95-02",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    18
+   ]
+  ],
+  "A_raw": "Tercel 1995~迄今 18/18",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "Tercel 1995~年之後 18/18",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "TOWN ACE",
+  "year": "23-",
+  "ours": [
+   19,
+   19
+  ],
+  "verdict": "OK1",
+  "A": null,
+  "A_raw": null,
+  "A_gap": null,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "Town Ace (貨卡/廂車) 2022/02~ 18/18",
+  "B_gap": 1,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "VIOS",
+  "year": "03-05",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Vios 2003~2005 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "Vios 2003~2005/08 (1代) 22/16",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    21,
+    14
+   ]
+  ],
+  "C_raw": "VIOS (05-) 21/14",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "VIOS",
+  "year": "05-14",
+  "ours": [
+   21,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    21,
+    14
+   ]
+  ],
+  "A_raw": "Vios 2005~2014 21/14",
+  "A_gap": 0,
+  "B": [
+   [
+    20,
+    14
+   ],
+   [
+    21,
+    14
+   ]
+  ],
+  "B_raw": "Vios 2005/09~2014/03 (1代) 20/14／21/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "VIOS",
+  "year": "14-",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Vios 2014~迄今 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Vios 2014/04~年之後(3代) 24/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    26,
+    14
+   ]
+  ],
+  "C_raw": "WISH (04-) 26/14",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "WISH",
+  "year": "04-16",
+  "ours": [
+   26,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    26,
+    14
+   ]
+  ],
+  "A_raw": "Wish 2004~2009 26/14",
+  "A_gap": 0,
+  "B": [
+   [
+    26,
+    14
+   ]
+  ],
+  "B_raw": "Wish 2004~2009/10 (1代) 26/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    24,
+    14
+   ]
+  ],
+  "C_raw": "YARIS (06-) 24/14",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "YARIS",
+  "year": "06-14",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Yaris 2006~2014(二代 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Yaris 2006~2014/08 (2代) 24/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "YARIS",
+  "year": "14-22",
+  "ours": [
+   24,
+   14
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    24,
+    14
+   ]
+  ],
+  "A_raw": "Yaris 2014/9~2018/3(三代 24/14",
+  "A_gap": 0,
+  "B": [
+   [
+    24,
+    14
+   ]
+  ],
+  "B_raw": "Yaris 2014/09~年之後(3代) 24/14",
+  "B_gap": 0,
+  "combo": true
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": null,
+  "C_raw": null,
+  "C_gap": null,
+  "brand": "TOYOTA",
+  "model": "YARIS CROSS",
+  "year": "23-",
+  "ours": [
+   22,
+   16
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    22,
+    16
+   ]
+  ],
+  "A_raw": "Yaris CROSS 2023~迄今 22/16",
+  "A_gap": 0,
+  "B": [
+   [
+    22,
+    16
+   ]
+  ],
+  "B_raw": "Yaris Cross 2023/09~ 22/16",
+  "B_gap": 0,
+  "combo": false
+ },
+ {
+  "amb_a": false,
+  "amb_b": false,
+  "C": [
+   [
+    18,
+    18
+   ]
+  ],
+  "C_raw": "ZACE SURF (99-) 18/18",
+  "C_gap": 0,
+  "brand": "TOYOTA",
+  "model": "ZACE",
+  "year": "99-08",
+  "ours": [
+   18,
+   18
+  ],
+  "verdict": "OK",
+  "A": [
+   [
+    18,
+    18
+   ]
+  ],
+  "A_raw": "Zace Surf 1999~2007 18/18",
+  "A_gap": 0,
+  "B": [
+   [
+    18,
+    18
+   ]
+  ],
+  "B_raw": "Zace Surf 1999~2007/06 18/18",
+  "B_gap": 0,
+  "combo": false
+ }
+]

@@ -142,5 +142,176 @@
   "rearSize": 13,
   "source": "market",
   "note": "型錄 KAROQ 兩列後擋欄位皆留白。市場查證：Karoq 2017-2022 用 A331H，2023 改款換了後擋雨刷型式後改用 A335H（330mm，料號 3397016317）。只補 24- 這列，不補 18-23 —— 那一列跨越改款年（2023），型錄的年份切法無法分辨改款前後，寧可不顯示也不要讓客人買錯。依據：eBay UK 145794303238（Karoq 2023 onwards A335H）、MicksGarage（Karoq 2017 onwards A331H）、BRISKODA 討論串 517703。註記：國外論壇有使用者反映 A335H 裝 Karoq 可裝但不算完美貼合。2026-08-14 經 Jerry 同意後補上。"
+ },
+ {
+  "brand": "KIA",
+  "model": "SPORTAGE",
+  "year": "22-",
+  "driver": 26,
+  "passenger": 18,
+  "source": "market",
+  "note": "型錄24/18有誤 —— 那是2010-2015三代的值，型錄整列錯位（目錄裡也剛好沒有10-15那列）。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為26/18。註：美規NQ5是26/16，車體是加長版，不能拿來校台灣車。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC 第七代",
+  "year": "01-06",
+  "driver": 24,
+  "passenger": 16,
+  "source": "market",
+  "note": "**判讀錯誤**（不是型錄印錯）：舊版BOSCH型錄文字版也是24/16。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "PREVIA",
+  "year": "01-06",
+  "driver": 28,
+  "passenger": 18,
+  "source": "market",
+  "note": "**判讀錯誤**：舊版BOSCH型錄文字版也是28/18；旭益 Previa 2001-2005 亦為28/18。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "COROLLA ALTIS 第四代",
+  "year": "19-24",
+  "driver": 28,
+  "passenger": 14,
+  "source": "market",
+  "note": "型錄26/14有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為28/14（12代）。同車款01-07／08-13／13-18三列都正確，只有這列錯。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "COROLLA SPORT",
+  "year": "22-",
+  "driver": 28,
+  "passenger": 14,
+  "source": "market",
+  "note": "型錄26/14有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為28/14。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "AURIS",
+  "year": "18-21",
+  "driver": 28,
+  "passenger": 14,
+  "source": "market",
+  "note": "型錄26/14有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為28/14。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "PRADO",
+  "year": "09-18",
+  "driver": 26,
+  "passenger": 20,
+  "source": "market",
+  "note": "型錄26/24有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為26/20（J150）。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "YARIS CROSS",
+  "year": "23-",
+  "driver": 22,
+  "passenger": 16,
+  "source": "market",
+  "note": "型錄24/16有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為22/16。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "KIA",
+  "model": "SORENTO",
+  "year": "02-08",
+  "driver": 24,
+  "passenger": 18,
+  "source": "market",
+  "note": "型錄本身印錯（舊版BOSCH文字版也是24/16，所以不是判讀問題）。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為24/18。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "INFINITI",
+  "model": "FX35",
+  "year": "03-08",
+  "driver": 24,
+  "passenger": 19,
+  "source": "market",
+  "note": "型錄本身印錯（舊版BOSCH文字版也是22/20）。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為24/19（一代2003-2007）。註：HELLA沒有19吋，這列改完只剩BOSCH選項，屬預期。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "VELOSTER",
+  "year": "12-18",
+  "driver": 26,
+  "passenger": 18,
+  "source": "market",
+  "note": "型錄26/16有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為26/18（一代2012-2019）。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "LEXUS",
+  "model": "RX 第一代",
+  "year": "98-03",
+  "driver": 26,
+  "passenger": 22,
+  "source": "market",
+  "note": "型錄24/21有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為26/22（一代1999-2003）。註：HELLA沒有21吋，這列原本就沒HELLA選項，改成22之後會多一個，屬預期。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CIVIC 第九代",
+  "year": "12-17",
+  "driver": 26,
+  "passenger": 22,
+  "source": "market",
+  "note": "型錄26/18有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為26/22；市場亦一致落在22~24（樂天26+24、CARBUFF 8/9代26+23），絕不可能是18。連帶：既有「CIVIC 第九代(12~17)26+18吋」BOSCH／HELLA組合商品本身就是錯的，標題與尺寸要同步改。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "INNOVA",
+  "year": "07-11",
+  "driver": 26,
+  "passenger": 16,
+  "source": "market",
+  "note": "**判讀錯誤**：舊版BOSCH文字版也是26/16。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致＋CARBUFF「INNOVA (2007~2016) 26+16吋」三方一致。連帶：既有「第一代(07~11)24+16吋」組合要改。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "INNOVA",
+  "year": "11-16",
+  "driver": 26,
+  "passenger": 16,
+  "source": "market",
+  "note": "**判讀錯誤**：型錄判讀成21/19，但INNOVA整個車系2007-2016都是26/16（旭益／YARK／CARBUFF／舊版BOSCH文字版四方一致）。連帶：既有「第二代(11~16)21+19吋」組合要改。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "MAZDA",
+  "model": "MAZDA 6 第三代",
+  "year": "12-15",
+  "driver": 24,
+  "passenger": 18,
+  "source": "market",
+  "note": "型錄24/16有誤。旭益汽車 secar.com.tw ＋ YARK 亞克 yark.jplus.tw 兩份台灣對照表一致為三代24/18（旭益2013/11-2018/6、YARK 2013~）；Amazon OEM「Mazda 6 2009-2017 24\"+18\"」佐證。同車款15-18列本來就是24/18，改完三代兩列才一致；二代08-12維持24/16。連帶：「第二代~第三代通用款_24+16吋」組合改完只剩二代適用，標題要拿掉第三代。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "YARIS",
+  "year": "14-22",
+  "driver": 24,
+  "passenger": 14,
+  "source": "market",
+  "note": "型錄26/14有誤。旭益兩列（2014/9-2018/3、2018/4-迄今）＋YARK＋蝦皮「大鴨3~3.5代2014~2023 24/14」一致為24/14。**這與2026-08-12 HELLA稽核的結論相反**（那次判定14-22是26+14，並把組合標題改成2006~2014）；經Jerry於2026-08-17確認後翻案。連帶：既有24+14組合會自動掛上這一列，標題年份要放寬回2006~2022。2026-08-17 全目錄交叉查證"
+ },
+ {
+  "brand": "HONDA",
+  "model": "CR-V 第二代",
+  "year": "02-06",
+  "driver": 22,
+  "passenger": 20,
+  "source": "market",
+  "note": "型錄22/18有誤。旭益（HONDA 那頁是圖片，另外判讀：CRV 2代 2003-2006 22/20）＋YARK（CR-V 2003~2006 二代 22/20）＋iOPEN Mall 台灣賣場「CR-V 2代 2003~2007 22+20吋」三方一致。連帶：既有「CR-V 第二代 22+18吋」BOSCH／HELLA 組合會脫鉤，盒內尺寸本身就不對。2026-08-17 全目錄交叉查證（D 組逐筆複查）"
+ },
+ {
+  "brand": "TOYOTA",
+  "model": "SIENNA 第四代",
+  "year": "21-",
+  "driver": 26,
+  "passenger": 20,
+  "source": "market",
+  "note": "型錄28/20有誤 —— 那是三代（11-20）的值，四代這列直接沿用了上一列。旭益 Sienna 2021/3-（四代）26/20＋momo SilBlade「Sienna 四代 26吋20吋 21~年後」＋Amazon「2021-2024 Sienna 26/20/12」一致。同車款三代 11-20 維持 28/20 不動。2026-08-17 全目錄交叉查證（D 組逐筆複查）"
  }
 ]

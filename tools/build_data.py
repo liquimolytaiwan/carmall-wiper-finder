@@ -141,7 +141,7 @@ for r in sp_rows:
         fill_rear(hit[0],r)
     else:
         sp_unresolved.append((r,[c.get("year","") for c in cands]))
-applied=0
+applied=0; corr_used=set()
 for r in fit:
     k=nkey(r["brand"],r["model"],r.get("year",""))
     if k in corr:
@@ -153,6 +153,11 @@ for r in fit:
             r["rear"]=c["rear"]
             if c.get("rearSize") is not None: r["rearSize"]=c["rearSize"]
         applied+=1
+        corr_used.add(k)
+# corrections 的 model 要寫型錄原始寫法（"CIVIC 第七代"），不是查詢器顯示的車款名（"CIVIC"）。
+# 寫錯的那筆會安靜地什麼都不做 —— 查詢器照樣長出舊尺寸、也不會報錯，只有逐筆去比才看得出來。
+# 所以配不到任何車的 correction 一定要吼出來。
+corr_unused=[c for k,c in corr.items() if k not in corr_used]
 
 # ---------- products ----------
 prods=json.load(open(os.path.join(BASE,"wiper_products.json")))
@@ -417,7 +422,12 @@ def ncombo(line): return sum(1 for e in rows for o in e["options"]
                             if o["brand"]==line and o["kind"]=="combo")
 print(f"車廠中文名: {sum(1 for b in brands if zh.get(b))}/{len(brands)} 有中文"
       + (f"｜brand_names.json 沒收錄: {missing_zh}" if missing_zh else ""))
-print(f"corrections applied: {applied}")
+print(f"corrections applied: {applied}/{len(corr)}")
+if corr_unused:
+    print(f"  ⚠️  配不到任何車、完全沒作用的 correction：{len(corr_unused)}")
+    for c in corr_unused:
+        print(f"    - {c['brand']} {c['model']} {c.get('year')}"
+              f"（型錄裡沒有這個 車廠+車款+年份 的組合；model 要寫型錄原文，例如「CIVIC 第七代」不是「CIVIC」）")
 print(f"BOSCH single-product variants: {sorted(bosch_var)} | HELLA variants: {sorted(hella_var)}")
 print(f"combo products parsed: " + " ".join(
       f"{L['key']}={sum(1 for c in combos if c['line']==L['key'])}" for L in LINES))
