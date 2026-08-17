@@ -3227,9 +3227,15 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "combo",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-ford-escape",
-         "price": 859
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957309",
+         "driver": 19,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
         }
        ]
       },
@@ -3944,27 +3950,17 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
-         "driver": 26,
-         "passenger": 22,
-         "driverPrice": 499,
-         "passengerPrice": 499,
-         "price": 859,
-         "listPrice": 998,
-         "promo": true
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-city-20260527174325",
+         "price": 859
         },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 22,
-         "driverPrice": 300,
-         "passengerPrice": 260,
-         "price": 560
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-honda-civic-第九代2618吋",
+         "price": 550
         }
        ]
       },
@@ -4027,27 +4023,17 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957312",
-         "driver": 22,
-         "passenger": 20,
-         "driverPrice": 499,
-         "passengerPrice": 499,
-         "price": 859,
-         "listPrice": 998,
-         "promo": true
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-honda-cr-v-20260527114437",
+         "price": 859
         },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937803",
-         "driver": 22,
-         "passenger": 20,
-         "driverPrice": 260,
-         "passengerPrice": 260,
-         "price": 520
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-honda-cr-v-第二代2218吋",
+         "price": 510
         }
        ]
       },
@@ -5769,9 +5755,15 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "combo",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-fx354550",
-         "price": 859
+         "kind": "single",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957313",
+         "driver": 24,
+         "passenger": 19,
+         "driverPrice": 499,
+         "passengerPrice": 499,
+         "price": 859,
+         "listPrice": 998,
+         "promo": true
         }
        ]
       }
@@ -15864,27 +15856,17 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 499,
-         "passengerPrice": 499,
-         "price": 859,
-         "listPrice": 998,
-         "promo": true
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-innova第一代",
+         "price": 859
         },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
-         "price": 540
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-toyota-innova第一代_07-11_2416吋",
+         "price": 520
         }
        ]
       },
@@ -15900,15 +15882,9 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 499,
-         "passengerPrice": 499,
-         "price": 859,
-         "listPrice": 998,
-         "promo": true
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-toyota-innova第二代",
+         "price": 859
         },
         {
          "brand": "HELLA",

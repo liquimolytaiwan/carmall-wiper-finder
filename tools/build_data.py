@@ -282,11 +282,26 @@ for p in prods:
       "driver":d,"passenger":pa,"url":prod_url(p,p.get("url")),"price":int(p["price"]),
       "stock":sum((v["qty"] or 0) for v in p["variants"]),"available":p["available"],
       "fam":fam_tokens(parts[1] if len(parts)>1 else ""),
-      "gens":gen_ints(seg_m)|gen_span(raw_m),"_used":False})
+      "gens":gen_ints(seg_m)|gen_span(raw_m),
+      # 商品標題裡的年份（"第一代(07~11)"）。世代分不出來時，這是唯一還能分辨
+      # 「同車款、同尺寸、不同世代」兩組商品的線索 —— 見 find_combo 的 ymatch。
+      "years":yspan(re.search(r"\d{2,4}\s*[~\-～]\s*\d{0,4}", raw_m).group(0))
+              if re.search(r"\d{2,4}\s*[~\-～]\s*\d{0,4}", raw_m) else None,
+      "_used":False})
 
-def find_combo(brand,model,d,p,line,relaxed=False):
+def find_combo(brand,model,d,p,line,relaxed=False,year=None):
+    """挑出這台車該用的專屬組合。
+
+    分數只用來排名，真正的門檻是上面那幾個 continue。世代（gens）是主要的辨識依據，
+    但**型錄的車款名不一定帶世代**（INNOVA 就只寫 "INNOVA"，兩列靠年份區分），
+    這時 fg1 是 None，所有候選的分數會完全一樣 —— 誰先被掃到誰贏，另一組永遠配不到車。
+    2026-08-17 就是這樣：INNOVA 兩列的尺寸都修正成 26/16 之後，第一代那組同時吃掉兩列，
+    第二代那組變成孤兒。所以同分時再比年份，把它當純粹的 tie-break：
+    分數已經分出高下的情況完全不受影響。
+    """
     bt=fit_fam_tokens(model); fg=gen_ints(model); fg1=next(iter(fg)) if len(fg)==1 else None
-    best=None; bs=-1
+    ys=yspan(year) if year else None
+    best=None; bs=(-1,-1)
     for c in combos:
         if c["line"]!=line: continue
         if c["brand"]!=brand.upper(): continue
@@ -294,10 +309,20 @@ def find_combo(brand,model,d,p,line,relaxed=False):
         if not (c["available"] and c["stock"]>0): continue   # availability gate
         if not (bt & c["fam"]): continue
         if not relaxed and c["gens"] and fg1 and fg1 not in c["gens"]: continue
+        ymatch=0
+        if ys and c["years"]:
+            if c["years"][0]<=ys[0] and ys[1]<=c["years"][1]:
+                ymatch=2 if ys==c["years"] else 1
+            elif fg1 is None:
+                # 世代分不出來時，年份就是唯一的辨識依據 —— 只是重疊不算數。
+                # INNOVA (11-16) 對上「第一代(07~11)」在 2011 那一年重疊，尺寸也剛好相同，
+                # 光靠排名分數擋不住：它會變成第二代車主看到「第一代」的商品頁。
+                # 商品**能不能用**跟商品**標題有沒有在講這台車**是兩件事，後者不能將就。
+                continue
         score=len(bt & c["fam"])
         if c["gens"] and fg1 and fg1 in c["gens"]: score+=3
         elif not c["gens"]: score+=1
-        if score>bs: bs=score; best=c
+        if (score,ymatch)>bs: bs=(score,ymatch); best=c
     return best
 
 def single_option(brand,label,material,url,var,d,p,pair_promo=None):
@@ -363,12 +388,14 @@ LINES=[
 for L in LINES:
     ck="_combo_"+L["key"]
     for e in rows:
-        e[ck]=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],L["key"],False)
+        e[ck]=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],L["key"],False,
+                         e.get("year"))
     for e in rows:
         if e[ck]: e[ck]["_used"]=True
     for e in rows:
         if not e[ck]:
-            c=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],L["key"],True)
+            c=find_combo(e["_brand"],e["_model"],e["driver"],e["passenger"],L["key"],True,
+                         e.get("year"))
             if c and not c["_used"]: c["_used"]=True; e[ck]=c
 
 # assemble options per row — each line offers its vehicle-specific set when one exists,
