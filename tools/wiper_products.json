@@ -702,6 +702,24 @@
   ]
  },
  {
+  "id": 71241941,
+  "handle": "bosch博世-通用型軟骨雨刷-infiniti-m25-20260817151752",
+  "title": "<p style=\"color: red; font-weight: bold;\">限量送除油膜膏</p>BOSCH 博世 通用型軟骨雨刷 旗艦款 (2支/組) 適用車型 INFINITI M25【(2010~2013)26+19吋】",
+  "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-m25-20260817151752",
+  "price": 859.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "BOSCH INFINITI M25",
+    "qty": 4,
+    "available": true,
+    "id": 87100394,
+    "price": 859.0
+   }
+  ]
+ },
+ {
   "id": 68378566,
   "handle": "bosch博世-通用型軟骨雨刷-infiniti-q50q60通用款",
   "title": "<p style=\"color: red; font-weight: bold;\">限量送除油膜膏</p>BOSCH 博世 通用型軟骨雨刷 旗艦款 (2支/組) 適用車型 INFINITI Q50/Q60【通用款_26+16吋】",
@@ -3860,24 +3878,6 @@
     "available": true,
     "id": 86950960,
     "price": 500.0
-   }
-  ]
- },
- {
-  "id": 71241941,
-  "handle": "bosch博世-通用型軟骨雨刷-infiniti-m25-20260817151752",
-  "title": "<p style=\"color: red; font-weight: bold;\">限量送除油膜膏</p>BOSCH 博世 通用型軟骨雨刷 旗艦款 (2支/組) 適用車型 INFINITI M25【(2010~2013)26+19吋】",
-  "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-m25-20260817151752",
-  "price": 859.0,
-  "available": true,
-  "variants": [
-   {
-    "option1": null,
-    "sku": "BOSCH INFINITI M25",
-    "qty": 4,
-    "available": true,
-    "id": 87100394,
-    "price": 859.0
    }
   ]
  }
