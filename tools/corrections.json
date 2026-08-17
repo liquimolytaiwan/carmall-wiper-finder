@@ -313,5 +313,32 @@
   "passenger": 20,
   "source": "market",
   "note": "型錄28/20有誤 —— 那是三代（11-20）的值，四代這列直接沿用了上一列。旭益 Sienna 2021/3-（四代）26/20＋momo SilBlade「Sienna 四代 26吋20吋 21~年後」＋Amazon「2021-2024 Sienna 26/20/12」一致。同車款三代 11-20 維持 28/20 不動。2026-08-17 全目錄交叉查證（D 組逐筆複查）"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "IONIQ 5 (電動)",
+  "year": "22-",
+  "driver": 26,
+  "passenger": 18,
+  "source": "market",
+  "note": "型錄26/16有誤。旭益 Ioniq 5 2021-2023 為26/18；美規多方（eBay 176774637409、ottoblades、wiperpicks）亦一致26/18。IONIQ 5 是全球同一車體，不像 Sportage NQ5 有美規加長版的問題，美規資料可採。2026-08-17 全目錄交叉查證（E 組優先批逐筆複查）"
+ },
+ {
+  "brand": "HYUNDAI",
+  "model": "IONIQ 6 (電動)",
+  "year": "23-",
+  "driver": 26,
+  "passenger": 18,
+  "source": "market",
+  "note": "型錄26/16有誤。台灣兩份對照表都沒收 IONIQ 6，但美規多方（windshieldwipers、wiperbladesusa、uniwiper AU）一致26/18，且與同平台的 IONIQ 5 相同。全球同一車體。2026-08-17 全目錄交叉查證（E 組優先批逐筆複查）"
+ },
+ {
+  "brand": "NISSAN",
+  "model": "370Z",
+  "year": "17-",
+  "driver": 21,
+  "passenger": 19,
+  "source": "market",
+  "note": "型錄26/19有誤 —— **判讀錯誤**：同車款 09-17 那列型錄自己就寫 21/19，而 370Z（Z34）2009-2020 車體從沒改過。旭益 21/19、YARK 21/19、美規（autopadre、cravenspeed、usawipers）21/19，三方一致。26 吋差了整整 5 吋。2026-08-17 全目錄交叉查證（E 組優先批逐筆複查）"
  }
 ]

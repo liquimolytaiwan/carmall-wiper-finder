@@ -53,8 +53,8 @@ HONDA      ACCORD                  98-08   型錄 24/19    旭益 —           
 HONDA      FIT                     20-     型錄 26/14    旭益 —             YARK —               [有組合商品]
 HONDA      HR-V                    22-     型錄 22/19    旭益 —             YARK —               [有組合商品]
 HYUNDAI    ELANTRA                 02-08   型錄 20/18    旭益 —             YARK —               [有組合商品]
-HYUNDAI    IONIQ 5                 22-     型錄 26/16    旭益 —             YARK —               
-HYUNDAI    IONIQ 6                 23-     型錄 26/16    旭益 —             YARK —               
+HYUNDAI    IONIQ 5                 22-     型錄 26/18    旭益 —             YARK —               
+HYUNDAI    IONIQ 6                 23-     型錄 26/18    旭益 —             YARK —               
 HYUNDAI    KONA                    24-     型錄 26/16    旭益 —             YARK —               [有組合商品]
 HYUNDAI    PORTER                  18-24   型錄 20/18    旭益 —             YARK —               
 HYUNDAI    SANTA FE                19-24   型錄 26/16    旭益 —             YARK —               [有組合商品]
@@ -84,7 +84,7 @@ MITSUBISHI DELICA                  03-     型錄 18/18    旭益 —           
 MITSUBISHI LEADCA                  13-     型錄 20/20    旭益 —             YARK —               
 MITSUBISHI MAGIC                   03-08   型錄 16/16    旭益 —             YARK —               
 MITSUBISHI ZINGER PICK UP          20-     型錄 26/14    旭益 —             YARK —               
-NISSAN     370Z                    17-     型錄 26/19    旭益 —             YARK —               
+NISSAN     370Z                    17-     型錄 21/19    旭益 —             YARK —               
 NISSAN     ALTIMA                  18-     型錄 26/16    旭益 —             YARK —               [有組合商品]
 NISSAN     CABSTAR                 08-     型錄 20/20    旭益 —             YARK —               
               舊版BOSCH文字版: CABSTAR／勁旺 (06-) 20/20
@@ -112,5 +112,5 @@ TOYOTA     BZ4X                    23-     型錄 26/16    旭益 —           
 TOYOTA     FT86                    18-22   型錄 22/20    旭益 —             YARK —               
 TOYOTA     HIACE                   05-12   型錄 21/21    旭益 —             YARK —               
 TOYOTA     HIACE                   20-     型錄 24/20    旭益 —             YARK —               
-TOYOTA     INNOVA                  11-16   型錄 26/16    旭益 —             YARK —               
+TOYOTA     INNOVA                  11-16   型錄 26/16    旭益 —             YARK —               [有組合商品]
 TOYOTA     PRADO                   21-     型錄 26/20    旭益 —             YARK —               
