@@ -5997,15 +5997,9 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
-         "driver": 26,
-         "passenger": 19,
-         "driverPrice": 499,
-         "passengerPrice": 499,
-         "price": 859,
-         "listPrice": 998,
-         "promo": true
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-infiniti-m25-20260817151752",
+         "price": 859
         }
        ]
       }
@@ -8266,27 +8260,17 @@
          "brand": "BOSCH",
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957313",
-         "driver": 24,
-         "passenger": 16,
-         "driverPrice": 499,
-         "passengerPrice": 499,
-         "price": 859,
-         "listPrice": 998,
-         "promo": true
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷-lexus-ls第四代小改款",
+         "price": 859
         },
         {
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
-         "driver": 24,
-         "passenger": 16,
-         "driverPrice": 280,
-         "passengerPrice": 240,
-         "price": 520
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-lexus-ls第四代小改款-2422吋",
+         "price": 540
         }
        ]
       },
@@ -16064,13 +16048,9 @@
          "brand": "HELLA",
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 16,
-         "driverPrice": 300,
-         "passengerPrice": 240,
-         "price": 540
+         "kind": "combo",
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-toyota-innova第一代_07-11_2416吋",
+         "price": 520
         }
        ]
       }

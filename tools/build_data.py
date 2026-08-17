@@ -31,10 +31,17 @@ def gen_span(text):
             lo,hi=sorted((CN[a],CN[b]))
             out|=set(range(lo,hi+1))
     return out
+# 世代之外還能區分同車款的字眼。gen_label 拿它做顯示，find_combo 拿它做排序 ——
+# 「第四代」與「第四代小改款」在 fam / gens 上完全一樣，只有這些字分得出來。
+VARIANT_KW=["小改款","Hyper","NEO","電動","進口","美規","日規","卡旺"]
+
+def variant_kw(text):
+    return {k for k in VARIANT_KW if k in (text or "")}
+
 def gen_label(model):
     g=[re.sub(r"\s*[/／]\s*","/",x.strip()) for x in re.findall(GENRE,model)]
     pv=[p.strip() for p in re.findall(r"[（(]([^（()）]*)[)）]",model) if p.strip()]
-    extra=[kw for kw in ["小改款","Hyper","NEO","電動","進口","美規","日規","卡旺"] if kw in model and not any(kw in x for x in g)]
+    extra=[kw for kw in VARIANT_KW if kw in model and not any(kw in x for x in g)]
     parts=list(g)
     for p in pv:
         if p not in parts: parts.append(p)
@@ -312,8 +319,15 @@ for p in prods:
       "brand":(parts[0].upper() if parts else ""),"model":(parts[1].strip() if len(parts)>1 else ""),
       "driver":d,"passenger":pa,"url":prod_url(p,p.get("url")),"price":int(p["price"]),
       "stock":sum((v["qty"] or 0) for v in p["variants"]),"available":p["available"],
-      "fam":fam_tokens(parts[1] if len(parts)>1 else ""),
+      # 車款名同時用「去掉第一個字（品牌）之後」與「整段」兩種切法。
+      # 原本只用前者，因為標題慣例是「適用車型 <品牌> <車款>」——
+      # 但 MAZDA 的車款名本身就叫「MAZDA 6」，慣例寫出來是「MAZDA MAZDA 6」，
+      # 看起來像贅字。2026-08-17 有人把它清成「MAZDA 6」，切完之後車款只剩 "6"，
+      # 四個 MAZDA 6 組合當場全部配不到車 —— 而且商品頁看起來完全正常。
+      # 兩種切法都收進去，這種「把重複的品牌名拿掉」就不會再打斷比對。
+      "fam":fam_tokens(parts[1] if len(parts)>1 else "")|fam_tokens(seg_m),
       "gens":gen_ints(seg_m)|gen_span(raw_m),
+      "kw":variant_kw(raw_m),
       # 商品標題裡的年份（"第一代(07~11)"）。世代分不出來時，這是唯一還能分辨
       # 「同車款、同尺寸、不同世代」兩組商品的線索 —— 見 find_combo 的 ymatch。
       "years":yspan(re.search(r"\d{2,4}\s*[~\-～]\s*\d{0,4}", raw_m).group(0))
@@ -332,6 +346,7 @@ def find_combo(brand,model,d,p,line,relaxed=False,year=None):
     """
     bt=fit_fam_tokens(model); fg=gen_ints(model); fg1=next(iter(fg)) if len(fg)==1 else None
     ys=yspan(year) if year else None
+    fkw=variant_kw(model)
     best=None; bs=(-1,-1)
     for c in combos:
         if c["line"]!=line: continue
@@ -353,6 +368,10 @@ def find_combo(brand,model,d,p,line,relaxed=False,year=None):
         score=len(bt & c["fam"])
         if c["gens"] and fg1 and fg1 in c["gens"]: score+=3
         elif not c["gens"]: score+=1
+        # 「第四代」與「第四代小改款」的 fam 與 gens 一模一樣 —— 這是唯一分得出來的訊號。
+        # 2026-08-17：LS 第四代那組年份放寬成 (07~17) 之後，靠年份就贏過了專屬的
+        # 「第四代小改款」那組，把後者擠成孤兒 —— 而那組有自己的售價與庫存。
+        if fkw and (fkw & c["kw"]): score+=2
         if (score,ymatch)>bs: bs=(score,ymatch); best=c
     return best
 
