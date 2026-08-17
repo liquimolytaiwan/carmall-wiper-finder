@@ -349,5 +349,14 @@
   "passenger": 16,
   "source": "market",
   "note": "型錄24/22有誤 —— **判讀錯誤**：同為第四代（XF40）的 07-12 那列型錄自己就寫 24/16，小改款不會讓雨刷長 6 吋。舊版BOSCH文字版 LS-460 (06-) 24/16、YARK LS 2006-2016(4代) 24/16、美規 LS460 2007-2017 24/17，三方一致落在 24/16~17。連帶：既有「LEXUS LS 第四代小改款 24+22吋」BOSCH(68514219)／HELLA(70916778) 組合盒內尺寸本身就不對。2026-08-17 全目錄交叉查證（E 組有組合佐證批）"
+ },
+ {
+  "brand": "MITSUBISHI",
+  "model": "LANCER",
+  "year": "17-",
+  "driver": 24,
+  "passenger": 16,
+  "source": "policyA",
+  "note": "型錄26/18有誤 —— 17 年之後的 LANCER 就是 Grand Lancer，駕駛側是 24 不是 26。三方一致：旭益 Lancer 2017/4~(Grand Lancer) 24/16、YARK Lancer 2017/02~(Grand Lancer) 24/18、市場整理 Grand Lancer (2017後) 24/17。真實乘客側是 17 吋（三方的 16/17/18 都落在 ±1），17 吋未進貨 → 照既有 policyA 採最接近現貨的 16 吋，與同車的「Grand Lancer LANCER 13-」一致。2026-08-17 Jerry 提供市場資料後補上（原列在「證據互相矛盾」那組，新資料讓駕駛側 24 三方一致）"
  }
 ]

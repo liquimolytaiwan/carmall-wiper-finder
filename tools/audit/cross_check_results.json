@@ -6175,10 +6175,10 @@
   "model": "LANCER",
   "year": "17-",
   "ours": [
-   26,
-   18
+   24,
+   16
   ],
-  "verdict": "CONFLICT",
+  "verdict": "OK",
   "A": [
    [
     24,
@@ -6186,7 +6186,7 @@
    ]
   ],
   "A_raw": "Lancer 2017/4~迄今(Grand Lancer 24/16",
-  "A_gap": 2,
+  "A_gap": 0,
   "B": [
    [
     24,

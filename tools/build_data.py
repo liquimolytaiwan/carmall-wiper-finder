@@ -487,7 +487,9 @@ missing_zh=sorted(b for b in brands if b not in zh)
 out_brands=[{"name":bn,"tw":zh.get(bn,""),
              "models":[brands[bn]["models"][mn] for mn in sorted(brands[bn]["order"], key=str.casefold)]}
             for bn in sorted(order, key=str.casefold)]
-data={"meta":{"updated":"2026-08-14",
+# 這是「資料查證日」不是「重建日」—— 排程每天重抓價格庫存也會重建，
+# 如果改成自動抓當天，每次價格刷新都會宣稱重新查證過一次。改尺寸／校正時才手動更新。
+data={"meta":{"updated":"2026-08-17",
               "source":"BOSCH 2026 雨刷型錄（通用美日韓＋專用歐系）＋市場查證校正",
               "lines":["BOSCH 通用軟骨 旗艦款","HELLA 三節式 Hybrid"]},
       "brands":out_brands}

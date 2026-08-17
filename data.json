@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-08-14",
+  "updated": "2026-08-17",
   "source": "BOSCH 2026 雨刷型錄（通用美日韓＋專用歐系）＋市場查證校正",
   "lines": [
    "BOSCH 通用軟骨 旗艦款",
@@ -10507,8 +10507,8 @@
        "label": "(17-)",
        "year": "17-",
        "fit": "universal",
-       "driver": 26,
-       "passenger": 18,
+       "driver": 24,
+       "passenger": 16,
        "rear": null,
        "options": [
         {
@@ -10516,9 +10516,9 @@
          "label": "BOSCH 通用軟骨 旗艦款",
          "material": "軟骨",
          "kind": "single",
-         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957314",
-         "driver": 26,
-         "passenger": 18,
+         "url": "https://www.carmall.com.tw/products/bosch博世-通用型軟骨雨刷?variant=82957313",
+         "driver": 24,
+         "passenger": 16,
          "driverPrice": 499,
          "passengerPrice": 499,
          "price": 859,
@@ -10530,12 +10530,12 @@
          "label": "HELLA 三節式 Hybrid",
          "material": "三節式",
          "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 18,
-         "driverPrice": 300,
-         "passengerPrice": 250,
-         "price": 550
+         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937804",
+         "driver": 24,
+         "passenger": 16,
+         "driverPrice": 280,
+         "passengerPrice": 240,
+         "price": 520
         }
        ]
       }
