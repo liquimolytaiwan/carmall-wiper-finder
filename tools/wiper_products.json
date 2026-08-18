@@ -9,7 +9,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397011676",
+    "sku": "3397011676-CM",
     "qty": 4,
     "available": true,
     "id": 87021368,
@@ -27,7 +27,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397011432",
+    "sku": "3397011432-CM",
     "qty": null,
     "available": true,
     "id": 87012740,
@@ -45,7 +45,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397011429",
+    "sku": "3397011429-CM",
     "qty": null,
     "available": true,
     "id": 86976398,
@@ -63,7 +63,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397011630",
+    "sku": "3397011630-CM",
     "qty": null,
     "available": true,
     "id": 87012844,
@@ -81,7 +81,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397011430",
+    "sku": "3397011430-CM",
     "qty": null,
     "available": true,
     "id": 87012047,
@@ -99,7 +99,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397016465",
+    "sku": "3397016465-CM",
     "qty": 5,
     "available": true,
     "id": 87056486,
@@ -117,7 +117,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397016387",
+    "sku": "3397016387-CM",
     "qty": 5,
     "available": true,
     "id": 87056268,
@@ -135,7 +135,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397016317",
+    "sku": "3397016317-CM",
     "qty": 5,
     "available": true,
     "id": 87022740,
@@ -153,7 +153,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397016087",
+    "sku": "3397016087-CM",
     "qty": 5,
     "available": true,
     "id": 87021509,
@@ -171,7 +171,7 @@
   "variants": [
    {
     "option1": null,
-    "sku": "3397016509",
+    "sku": "3397016509-CM",
     "qty": 5,
     "available": true,
     "id": 87064763,
