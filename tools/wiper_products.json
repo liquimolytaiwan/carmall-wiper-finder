@@ -28,7 +28,7 @@
    {
     "option1": null,
     "sku": "3397011432-CM",
-    "qty": null,
+    "qty": 5,
     "available": true,
     "id": 87012740,
     "price": 505.0
@@ -46,7 +46,7 @@
    {
     "option1": null,
     "sku": "3397011429-CM",
-    "qty": null,
+    "qty": 5,
     "available": true,
     "id": 86976398,
     "price": 375.0
@@ -64,7 +64,7 @@
    {
     "option1": null,
     "sku": "3397011630-CM",
-    "qty": null,
+    "qty": 5,
     "available": true,
     "id": 87012844,
     "price": 470.0
@@ -82,7 +82,7 @@
    {
     "option1": null,
     "sku": "3397011430-CM",
-    "qty": null,
+    "qty": 5,
     "available": true,
     "id": 87012047,
     "price": 445.0
