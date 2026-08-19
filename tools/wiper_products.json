@@ -190,7 +190,7 @@
    {
     "option1": "14吋",
     "sku": "3397013324-CM",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 82955922,
     "price": 499.0
@@ -254,7 +254,7 @@
    {
     "option1": "26吋",
     "sku": "3397013333-CM",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 82957314,
     "price": 499.0
@@ -334,7 +334,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA CITY",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83036778,
     "price": 859.0
@@ -406,7 +406,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA FIT",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83071761,
     "price": 859.0
@@ -496,7 +496,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI ELANTR-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83082629,
     "price": 859.0
@@ -568,7 +568,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI SANTA FE-3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83083390,
     "price": 859.0
@@ -1486,7 +1486,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI ZINGER",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83280767,
     "price": 859.0
@@ -1594,7 +1594,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN SENTRA-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83295516,
     "price": 859.0
@@ -1666,7 +1666,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN TIIDA-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83303230,
     "price": 859.0
@@ -1954,7 +1954,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA COROLLA ALTIS-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83306980,
     "price": 859.0
@@ -2134,7 +2134,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA VIOS-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83328733,
     "price": 859.0
@@ -2152,7 +2152,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA WISH",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83328844,
     "price": 859.0
@@ -2188,7 +2188,7 @@
    {
     "option1": null,
     "sku": "BOSCH-1",
-    "qty": 41,
+    "qty": 40,
     "available": true,
     "id": 83006360,
     "price": 859.0
