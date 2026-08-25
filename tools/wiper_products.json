@@ -2242,7 +2242,7 @@
    {
     "option1": null,
     "sku": "HELLA HONDA CIVIC",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86393309,
     "price": 550.0
@@ -2278,7 +2278,7 @@
    {
     "option1": null,
     "sku": "HELLA HONDA CR-V2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86520789,
     "price": 510.0
@@ -2348,7 +2348,7 @@
    {
     "option1": "18吋",
     "sku": "9XW358338181",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83937801,
     "price": 250.0
@@ -2364,7 +2364,7 @@
    {
     "option1": "22吋",
     "sku": "9XW358338221",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 83937803,
     "price": 260.0
@@ -2398,7 +2398,7 @@
    {
     "option1": null,
     "sku": "HELLA HYUNDAI ELANTRA",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86390583,
     "price": 510.0
@@ -2542,7 +2542,7 @@
    {
     "option1": null,
     "sku": "HELLA HYUNDAI SONATA-4-5",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86589370,
     "price": 550.0
@@ -2704,7 +2704,7 @@
    {
     "option1": null,
     "sku": "HELLA LEXUS CT-1-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86610116,
     "price": 550.0
@@ -2758,7 +2758,7 @@
    {
     "option1": null,
     "sku": "HELLA LEXUS IS-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86653095,
     "price": 520.0
@@ -2848,7 +2848,7 @@
    {
     "option1": null,
     "sku": "HELLA LEXUS RX-2-3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86687598,
     "price": 560.0
@@ -2902,7 +2902,7 @@
    {
     "option1": null,
     "sku": "HELLA LUXGEN S3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86692378,
     "price": 510.0
@@ -3010,7 +3010,7 @@
    {
     "option1": null,
     "sku": "HELLA MAZDA CX-3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86696931,
     "price": 510.0
@@ -3100,7 +3100,7 @@
    {
     "option1": null,
     "sku": "HELLA MAZDA MAZDA 2-4",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86714529,
     "price": 500.0
@@ -3172,7 +3172,7 @@
    {
     "option1": null,
     "sku": "HELLA MAZDA MAZDA 6-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86717015,
     "price": 510.0
@@ -3316,7 +3316,7 @@
    {
     "option1": null,
     "sku": "HELLA NISSAN BLUEBIRD",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86723820,
     "price": 520.0
@@ -3370,7 +3370,7 @@
    {
     "option1": null,
     "sku": "HELLA NISSAN SENTRA-7",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86724932,
     "price": 500.0
@@ -3424,7 +3424,7 @@
    {
     "option1": null,
     "sku": "HELLA NISSAN TIIDA-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86727063,
     "price": 500.0
@@ -3550,7 +3550,7 @@
    {
     "option1": null,
     "sku": "HELLA SUBARU LEGACY-4",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86906767,
     "price": 550.0
@@ -3622,7 +3622,7 @@
    {
     "option1": null,
     "sku": "HELLA TOYOTA CAMRY-3",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86947129,
     "price": 550.0
@@ -3784,7 +3784,7 @@
    {
     "option1": null,
     "sku": "HELLA TOYOTA RAV4-2",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86950404,
     "price": 510.0
@@ -3820,7 +3820,7 @@
    {
     "option1": null,
     "sku": "HELLA TOYOTA VIOS-1",
-    "qty": 5,
+    "qty": 4,
     "available": true,
     "id": 86950666,
     "price": 500.0
