@@ -3880,5 +3880,23 @@
     "price": 500.0
    }
   ]
+ },
+ {
+  "id": 71618011,
+  "handle": "超值組合liqui-moly-洗車打蠟｜玻璃清潔組棕櫚蠟洗車精濃縮雨刷精",
+  "title": "【超值組合】LIQUI MOLY 洗車打蠟｜玻璃清潔組(棕櫚蠟洗車精+濃縮雨刷精)",
+  "url": "https://www.carmall.com.tw/products/超值組合liqui-moly-洗車打蠟｜玻璃清潔組棕櫚蠟洗車精濃縮雨刷精",
+  "price": 1060.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "Wash, Wax & Windshield Care Kit",
+    "qty": 48,
+    "available": true,
+    "id": 87595351,
+    "price": 1060.0
+   }
+  ]
  }
 ]
