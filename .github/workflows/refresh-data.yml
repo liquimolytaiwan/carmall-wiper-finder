@@ -24,7 +24,21 @@ jobs:
       - name: Re-fetch products + rebuild data.json
         run: |
           cd tools
-          python fetch_products.py
+          # carmall.com.tw goes unreachable from GitHub's runners for a few minutes every
+          # few weeks (2026-08-10 and 2026-08-31: TCP connect timeouts on the very first
+          # sitemap fetch, while the site answered in <0.5s from Taiwan throughout, and a
+          # manual re-run 30 minutes later found the price/stock unchanged). fetch_products.py's
+          # own retries only span ~3 minutes, which was not enough either time.
+          # Widening those is the wrong lever: get() also retries HTTPError, so a longer
+          # schedule would make every stale-handle 404 crawl. Give the whole fetch one more
+          # shot after the blip has had time to pass instead. A real outage still fails the
+          # job, which is the signal that actually reaches Jerry.
+          python fetch_products.py || {
+            echo "::warning::抓不到 carmall.com.tw，10 分鐘後重試一次"
+            rm -f .fetch_incomplete
+            sleep 600
+            python fetch_products.py
+          }
           python build_data.py
       - name: Commit & push if changed
         run: |
