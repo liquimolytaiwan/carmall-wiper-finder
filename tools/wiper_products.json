@@ -2278,7 +2278,7 @@
    {
     "option1": null,
     "sku": "HELLA HONDA CR-V2",
-    "qty": 4,
+    "qty": 3,
     "available": true,
     "id": 86520789,
     "price": 510.0
@@ -2356,7 +2356,7 @@
    {
     "option1": "20吋",
     "sku": "9XW358338201",
-    "qty": 5,
+    "qty": 3,
     "available": true,
     "id": 83937802,
     "price": 260.0
@@ -2398,7 +2398,7 @@
    {
     "option1": null,
     "sku": "HELLA HYUNDAI ELANTRA",
-    "qty": 4,
+    "qty": 3,
     "available": true,
     "id": 86390583,
     "price": 510.0
@@ -2758,7 +2758,7 @@
    {
     "option1": null,
     "sku": "HELLA LEXUS IS-2",
-    "qty": 4,
+    "qty": 3,
     "available": true,
     "id": 86653095,
     "price": 520.0
@@ -3316,7 +3316,7 @@
    {
     "option1": null,
     "sku": "HELLA NISSAN BLUEBIRD",
-    "qty": 4,
+    "qty": 3,
     "available": true,
     "id": 86723820,
     "price": 520.0
@@ -3784,7 +3784,7 @@
    {
     "option1": null,
     "sku": "HELLA TOYOTA RAV4-2",
-    "qty": 4,
+    "qty": 3,
     "available": true,
     "id": 86950404,
     "price": 510.0
