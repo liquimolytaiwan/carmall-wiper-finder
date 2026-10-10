@@ -64,7 +64,7 @@
    {
     "option1": null,
     "sku": "3397011630-CM",
-    "qty": 10,
+    "qty": 9,
     "available": true,
     "id": 87012844,
     "price": 470.0
@@ -198,7 +198,7 @@
    {
     "option1": "16吋",
     "sku": "3397013325-CM",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 82956929,
     "price": 499.0
@@ -246,7 +246,7 @@
    {
     "option1": "24吋",
     "sku": "3397013332-CM",
-    "qty": 148,
+    "qty": 147,
     "available": true,
     "id": 82957313,
     "price": 499.0
@@ -514,7 +514,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI IX35",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83087774,
     "price": 859.0
@@ -622,7 +622,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI TUCSON-1",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83084208,
     "price": 859.0
@@ -766,7 +766,7 @@
    {
     "option1": null,
     "sku": "BOSCH INFINITI QX50-1",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83330328,
     "price": 859.0
@@ -928,7 +928,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS LS-1",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83341272,
     "price": 859.0
@@ -946,7 +946,7 @@
    {
     "option1": null,
     "sku": "BOSCH LEXUS LS-2",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83341829,
     "price": 859.0
@@ -1054,7 +1054,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN S5",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83333536,
     "price": 859.0
@@ -1090,7 +1090,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN U5/U6",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83151906,
     "price": 859.0
@@ -1126,7 +1126,7 @@
    {
     "option1": null,
     "sku": "BOSCH LUXGEN URX",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83152259,
     "price": 859.0
@@ -1360,7 +1360,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 6-2",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83159111,
     "price": 859.0
@@ -1396,7 +1396,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI LANCER FORTIS",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83159744,
     "price": 859.0
@@ -1936,7 +1936,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA COROLLA ALTIS-1",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83306772,
     "price": 859.0
@@ -2044,7 +2044,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA RAV4-2",
-    "qty": 56,
+    "qty": 55,
     "available": true,
     "id": 83312100,
     "price": 859.0
@@ -2188,7 +2188,7 @@
    {
     "option1": null,
     "sku": "BOSCH-1",
-    "qty": 172,
+    "qty": 171,
     "available": true,
     "id": 83006360,
     "price": 859.0
