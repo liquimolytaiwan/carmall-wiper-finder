@@ -28,7 +28,7 @@
    {
     "option1": null,
     "sku": "3397011432-CM",
-    "qty": 53,
+    "qty": 52,
     "available": true,
     "id": 87012740,
     "price": 505.0
@@ -190,7 +190,7 @@
    {
     "option1": "14吋",
     "sku": "3397013324-CM",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 82955922,
     "price": 499.0
@@ -230,7 +230,7 @@
    {
     "option1": "21吋",
     "sku": "3397013330-CM",
-    "qty": 3,
+    "qty": 2,
     "available": true,
     "id": 82957311,
     "price": 499.0
@@ -246,7 +246,7 @@
    {
     "option1": "24吋",
     "sku": "3397013332-CM",
-    "qty": 147,
+    "qty": 145,
     "available": true,
     "id": 82957313,
     "price": 499.0
@@ -334,7 +334,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA CITY",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83036778,
     "price": 859.0
@@ -406,7 +406,7 @@
    {
     "option1": null,
     "sku": "BOSCH HONDA FIT",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83071761,
     "price": 859.0
@@ -496,7 +496,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI ELANTR-2",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83082629,
     "price": 859.0
@@ -568,7 +568,7 @@
    {
     "option1": null,
     "sku": "BOSCH HYUNDAI SANTA FE-3",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83083390,
     "price": 859.0
@@ -1216,7 +1216,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 2",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83155918,
     "price": 859.0
@@ -1252,7 +1252,7 @@
    {
     "option1": null,
     "sku": "BOSCH MAZDA MAZDA 3-1",
-    "qty": 3,
+    "qty": 2,
     "available": true,
     "id": 83157978,
     "price": 859.0
@@ -1450,7 +1450,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI OUTLANDER-2",
-    "qty": 3,
+    "qty": 2,
     "available": true,
     "id": 83278175,
     "price": 859.0
@@ -1486,7 +1486,7 @@
    {
     "option1": null,
     "sku": "BOSCH MITSUBISHI ZINGER",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83280767,
     "price": 859.0
@@ -1558,7 +1558,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN LIVINA",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83294751,
     "price": 859.0
@@ -1594,7 +1594,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN SENTRA-2",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83295516,
     "price": 859.0
@@ -1666,7 +1666,7 @@
    {
     "option1": null,
     "sku": "BOSCH NISSAN TIIDA-2",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83303230,
     "price": 859.0
@@ -1954,7 +1954,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA COROLLA ALTIS-2",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83306980,
     "price": 859.0
@@ -2116,7 +2116,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA VIOS-3",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83328815,
     "price": 859.0
@@ -2134,7 +2134,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA VIOS-2",
-    "qty": 3,
+    "qty": 2,
     "available": true,
     "id": 83328733,
     "price": 859.0
@@ -2152,7 +2152,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA WISH",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83328844,
     "price": 859.0
@@ -2170,7 +2170,7 @@
    {
     "option1": null,
     "sku": "BOSCH TOYOTA YARIS",
-    "qty": 7,
+    "qty": 6,
     "available": true,
     "id": 83330277,
     "price": 859.0
@@ -2188,7 +2188,7 @@
    {
     "option1": null,
     "sku": "BOSCH-1",
-    "qty": 171,
+    "qty": 169,
     "available": true,
     "id": 83006360,
     "price": 859.0
