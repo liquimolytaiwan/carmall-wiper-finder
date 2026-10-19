@@ -2232,24 +2232,6 @@
   ]
  },
  {
-  "id": 70704442,
-  "handle": "hella-三節式雨刷-honda-civic-第九代2618吋",
-  "title": "HELLA 三節式雨刷 (2支/組) 適用車型 HONDA CIVIC 第九代(12~17)26+22吋",
-  "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-honda-civic-第九代2618吋",
-  "price": 550.0,
-  "available": true,
-  "variants": [
-   {
-    "option1": null,
-    "sku": "HELLA HONDA CIVIC",
-    "qty": 2,
-    "available": true,
-    "id": 86393309,
-    "price": 550.0
-   }
-  ]
- },
- {
   "id": 70788366,
   "handle": "hella-三節式雨刷-honda-cr-v-第三代-第五代通用款_2616吋",
   "title": "HELLA 三節式雨刷 (2支/組) 適用車型 HONDA CR-V 【第三代~第五代通用款_26+16吋】",
@@ -3896,6 +3878,24 @@
     "available": true,
     "id": 87595351,
     "price": 1060.0
+   }
+  ]
+ },
+ {
+  "id": 70704442,
+  "handle": "hella-三節式雨刷-honda-civic-第九代2622吋",
+  "title": "HELLA 三節式雨刷 (2支/組) 適用車型 HONDA CIVIC 第九代(12~17)26+22吋",
+  "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-honda-civic-第九代2622吋",
+  "price": 550.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": null,
+    "sku": "HELLA HONDA CIVIC",
+    "qty": 2,
+    "available": true,
+    "id": 86393309,
+    "price": 550.0
    }
   ]
  }
