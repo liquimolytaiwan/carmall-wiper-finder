@@ -3898,5 +3898,71 @@
     "price": 1060.0
    }
   ]
+ },
+ {
+  "id": 73751683,
+  "handle": "hella-premium",
+  "title": "HELLA 鐵骨雨刷 PREMIUM",
+  "url": "https://www.carmall.com.tw/products/hella-premium",
+  "price": 120.0,
+  "available": true,
+  "variants": [
+   {
+    "option1": "14吋",
+    "sku": "9XW358161141",
+    "qty": 3,
+    "available": true,
+    "id": 90940653,
+    "price": 120.0
+   },
+   {
+    "option1": "16吋",
+    "sku": "9XW358161161",
+    "qty": 0,
+    "available": false,
+    "id": 90940654,
+    "price": 120.0
+   },
+   {
+    "option1": "18吋",
+    "sku": "9XW358161181",
+    "qty": 4,
+    "available": true,
+    "id": 90940656,
+    "price": 130.0
+   },
+   {
+    "option1": "20吋",
+    "sku": "9XW358161201",
+    "qty": 3,
+    "available": true,
+    "id": 90940657,
+    "price": 140.0
+   },
+   {
+    "option1": "22吋",
+    "sku": "9XW358161221",
+    "qty": 3,
+    "available": true,
+    "id": 90940658,
+    "price": 150.0
+   },
+   {
+    "option1": "24吋",
+    "sku": "9XW358161241",
+    "qty": 1,
+    "available": true,
+    "id": 90940659,
+    "price": 160.0
+   },
+   {
+    "option1": "26吋",
+    "sku": "9XW358161261",
+    "qty": 1,
+    "available": true,
+    "id": 90940660,
+    "price": 180.0
+   }
+  ]
  }
 ]
