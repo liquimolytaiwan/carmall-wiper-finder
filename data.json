@@ -9896,18 +9896,6 @@
          "price": 859,
          "listPrice": 998,
          "promo": true
-        },
-        {
-         "brand": "HELLA_PREMIUM",
-         "label": "HELLA 鐵骨 PREMIUM",
-         "material": "鐵骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-premium?variant=90940659",
-         "driver": 24,
-         "passenger": 24,
-         "driverPrice": 160,
-         "passengerPrice": 160,
-         "price": 320
         }
        ]
       }
@@ -11228,30 +11216,6 @@
          "price": 859,
          "listPrice": 998,
          "promo": true
-        },
-        {
-         "brand": "HELLA",
-         "label": "HELLA 三節式 Hybrid",
-         "material": "三節式",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-三節式雨刷-hybrid-wiper?variant=83937805",
-         "driver": 26,
-         "passenger": 26,
-         "driverPrice": 300,
-         "passengerPrice": 300,
-         "price": 600
-        },
-        {
-         "brand": "HELLA_PREMIUM",
-         "label": "HELLA 鐵骨 PREMIUM",
-         "material": "鐵骨",
-         "kind": "single",
-         "url": "https://www.carmall.com.tw/products/hella-premium?variant=90940660",
-         "driver": 26,
-         "passenger": 26,
-         "driverPrice": 180,
-         "passengerPrice": 180,
-         "price": 360
         }
        ]
       }
