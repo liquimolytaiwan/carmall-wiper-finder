@@ -216,7 +216,8 @@ def size_variants(p):
     for v in p.get("variants",[]):
         m=re.search(r"\d+", v.get("option1") or "")
         if not m: continue
-        out[int(m.group(0))]={"id":v.get("id"),"price":int(v.get("price") or 0),"ok":variant_ok(v)}
+        out[int(m.group(0))]={"id":v.get("id"),"price":int(v.get("price") or 0),"ok":variant_ok(v),
+                              "qty":v.get("qty")}
     return out
 def prod_url(p,fallback):
     u=p.get("url") if p else None
@@ -389,6 +390,9 @@ def find_combo(brand,model,d,p,line,relaxed=False,year=None):
 def single_option(brand,label,material,url,var,d,p,pair_promo=None):
     dv=var.get(d); pv=var.get(p)
     if not (dv and pv and dv["ok"] and pv["ok"]): return None
+    # 駕駛座與乘客座同尺寸＝同一個規格要買 2 支。只剩 1 支時客人只買得到半套，
+    # 不能當成可買的選項推出去（2026-11-16：MPV 24+24、SPACE GEAR 26+26 就是這樣）。
+    if d==p and dv.get("qty") is not None and dv["qty"]<2: return None
     listp=dv["price"]+pv["price"]
     o={"brand":brand,"label":label,"material":material,"kind":"single",
        "url":url+("?variant="+str(dv["id"]) if dv.get("id") else ""),
