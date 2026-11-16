@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Build data.json for the CarMall wiper finder.
 Sources: PDF fitment (pages/) + researched corrections (corrections.json) + Cyberbiz products (wiper_products.json).
-Multi product-line: each car shows available options (BOSCH 軟骨 combo-or-single + HELLA 三節式 single).
+Multi product-line: each car shows available options (BOSCH 軟骨 combo-or-single + HELLA 三節式
+combo-or-single + HELLA 鐵骨 PREMIUM single).
 Availability-gated: out-of-stock product/variant/combo is dropped (kept fresh by the daily refresh Action).
 Policy: no mechanical size substitution; catalog<>market conflicts resolved in corrections.json."""
 import json, re, glob, os
@@ -10,6 +11,10 @@ OUT=os.path.join(BASE,"carmall-wiper","data.json") if os.path.isdir(os.path.join
 
 BOSCH_SINGLE_HANDLE="bosch博世-通用型軟骨雨刷"
 HELLA_HANDLE="hella-三節式雨刷-hybrid-wiper"
+# HELLA 鐵骨雨刷 PREMIUM (2.0)，2026-11-16 Jerry 決定加進查詢器。
+# 接頭查證：每個在賣的尺寸（14–26 吋）都配 E3 轉接頭（商品圖對照表），而 HELLA 原廠型錄
+# 的 E3 涵蓋 U 型鉤 9×3 與 9×4 —— 跟三節式 Hybrid 是同一套，所以通用美日韓的車都配得上。
+HELLA_PREMIUM_HANDLE="hella-premium"
 
 CN={"一":1,"二":2,"三":3,"四":4,"五":5,"六":6,"七":7,"八":8,"九":9,"十":10,"十一":11,"十二":12}
 GENRE=r"第[一二三四五六七八九十]+(?:\s*[/／]\s*[一二三四五六七八九十]+)*代?"
@@ -224,9 +229,11 @@ if os.path.exists(ppath): promos=json.load(open(ppath))
 bosch_pair=promos.get("bosch_pair")
 
 bosch_p=prod_by_handle(BOSCH_SINGLE_HANDLE); hella_p=prod_by_handle(HELLA_HANDLE)
-bosch_var=size_variants(bosch_p); hella_var=size_variants(hella_p)
+premium_p=prod_by_handle(HELLA_PREMIUM_HANDLE)
+bosch_var=size_variants(bosch_p); hella_var=size_variants(hella_p); premium_var=size_variants(premium_p)
 BOSCH_URL=prod_url(bosch_p,"https://www.carmall.com.tw/products/"+BOSCH_SINGLE_HANDLE)
 HELLA_URL=prod_url(hella_p,"https://www.carmall.com.tw/products/"+HELLA_HANDLE)
+PREMIUM_URL=prod_url(premium_p,"https://www.carmall.com.tw/products/"+HELLA_PREMIUM_HANDLE)
 
 # ---------- rear wipers (1支, 專用規格) ----------
 # The finder has always known each car's rear blade code — it comes straight from the
@@ -279,7 +286,11 @@ for code in MULTIFIT_REAR:
 # ("… 適用車型 HONDA CIVIC 第九代(12~17)26+18吋"), so a combo must record WHICH line it
 # belongs to. Matching on the title alone would let a HELLA set be offered under the
 # BOSCH label (today BOSCH merely happens to sort first and win every tie).
-LINE_PATTERNS=[("HELLA",r"hella|海拉"),("BOSCH",r"bosch|博世")]
+# HELLA 有兩條線，鐵骨要排在前面、而且要同時看到品牌字與「鐵骨／premium」：
+# 只寫 hella 的話，日後一組「HELLA 鐵骨雨刷 (2支/組) 適用車型 …」會被當成三節式、
+# 掛著三節式的名稱與價格賣出去。
+LINE_PATTERNS=[("HELLA_PREMIUM",r"(?:hella|海拉).*(?:鐵骨|premium)|(?:鐵骨|premium).*(?:hella|海拉)"),
+               ("HELLA",r"hella|海拉"),("BOSCH",r"bosch|博世")]
 def combo_line(p):
     """Which product line a vehicle-specific set belongs to, or None if unrecognised.
     Looks at handle AND title: Cyberbiz slugs are frozen at creation, so a renamed
@@ -434,6 +445,9 @@ LINES=[
    "url":BOSCH_URL,"var":bosch_var,"pair":bosch_pair},
   {"key":"HELLA","label":"HELLA 三節式 Hybrid","material":"三節式",
    "url":HELLA_URL,"var":hella_var,"pair":None},
+  # key 不能叫 "HELLA"：部落格 vehicles.py 的 best_option 與下面的統計都用 brand 完全相等來比。
+  {"key":"HELLA_PREMIUM","label":"HELLA 鐵骨 PREMIUM","material":"鐵骨",
+   "url":PREMIUM_URL,"var":premium_var,"pair":None},
 ]
 for L in LINES:
     ck="_combo_"+L["key"]
@@ -491,7 +505,7 @@ out_brands=[{"name":bn,"tw":zh.get(bn,""),
 # 如果改成自動抓當天，每次價格刷新都會宣稱重新查證過一次。改尺寸／校正時才手動更新。
 data={"meta":{"updated":"2026-08-17",
               "source":"BOSCH 2026 雨刷型錄（通用美日韓＋專用歐系）＋市場查證校正",
-              "lines":["BOSCH 通用軟骨 旗艦款","HELLA 三節式 Hybrid"]},
+              "lines":[L["label"] for L in LINES]},
       "brands":out_brands}
 json.dump(data,open(OUT,"w"),ensure_ascii=False,indent=1)
 
@@ -513,7 +527,12 @@ if corr_unused:
     for c in corr_unused:
         print(f"    - {c['brand']} {c['model']} {c.get('year')}"
               f"（型錄裡沒有這個 車廠+車款+年份 的組合；model 要寫型錄原文，例如「CIVIC 第七代」不是「CIVIC」）")
-print(f"BOSCH single-product variants: {sorted(bosch_var)} | HELLA variants: {sorted(hella_var)}")
+print(f"BOSCH single-product variants: {sorted(bosch_var)} | HELLA variants: {sorted(hella_var)}"
+      f" | HELLA PREMIUM variants: {sorted(premium_var)}")
+# 單支商品整支沒抓到時 size_variants 回空 dict，那條線會安靜地從每台車消失 —— 要吼出來。
+for L in LINES:
+    if not L["var"]:
+        print(f"  ⚠️  {L['label']} 單支商品沒抓到或沒有任何尺寸，這條線不會出現在任何車上")
 print(f"combo products parsed: " + " ".join(
       f"{L['key']}={sum(1 for c in combos if c['line']==L['key'])}" for L in LINES))
 print(f"universal rows: {len(rows)}")

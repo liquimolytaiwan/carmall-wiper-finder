@@ -6,8 +6,10 @@ import urllib.parse, urllib.request, urllib.error, json, os, re, sys, time
 BASE=os.path.dirname(os.path.abspath(__file__))
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36"
 SITE="https://www.carmall.com.tw"
-# Product-line singles that must always be fetched even if absent from sitemap (e.g. HELLA not yet in sitemap)
-EXTRA_HANDLES=["bosch博世-通用型軟骨雨刷","hella-三節式雨刷-hybrid-wiper"]
+# Product-line singles that must always be fetched even if absent from sitemap (e.g. HELLA not yet in sitemap).
+# hella-premium (HELLA 鐵骨雨刷 PREMIUM) has no 「雨刷」 in its handle, so the sitemap filter below
+# can never pick it up — it is only reachable through this list.
+EXTRA_HANDLES=["bosch博世-通用型軟骨雨刷","hella-三節式雨刷-hybrid-wiper","hella-premium"]
 # "buy N for $M" promo collections (special_collection). Parsed from the collection's display name.
 # key -> collection handle (URL slug may be stale; the collection NAME carries the live price)
 PROMO_COLLECTIONS={"bosch_pair":"bosch雨刷-2件859"}
@@ -15,7 +17,7 @@ PROMO_COLLECTIONS={"bosch_pair":"bosch雨刷-2件859"}
 # wipers, missing the three newest), so the collections are enumerated as well and both
 # sources are merged. Every product in these collections is a wiper, so no handle filter
 # is applied to them.
-WIPER_COLLECTIONS=["bosch-後檔雨刷","bosch-旗艦款雨刷","hella-三節式雨刷"]
+WIPER_COLLECTIONS=["bosch-後檔雨刷","bosch-旗艦款雨刷","hella-三節式雨刷","hella-premium"]
 
 def get(url, raw=False, retries=4):
     # Cyberbiz occasionally times out / drops a connection. Retry transient
@@ -163,7 +165,9 @@ def main():
     if missing:
         print(f"\n⚠️  集合裡有、但沒抓到的商品：{len(missing)}（查詢器不會有這些）")
         for c,pid,t in missing: print(f"    - [{c}] #{pid} {plain(t)[:80]}")
-        print("    → 通常是 handle 與標題不一致且 sitemap 還沒收錄，需加進 EXTRA_HANDLES")
+        print("    → 既有產品線的新商品：通常是 handle 與標題不一致且 sitemap 還沒收錄，加進 EXTRA_HANDLES")
+        print("    → 全新的產品線：只加 EXTRA_HANDLES 會讓這裡變綠、查詢器卻照樣不賣它；"
+              "要在 build_data.py 的 LINES 加一條線（2026-11-16 HELLA 鐵骨就是這樣加的）")
         lines+= [f"沒抓到 [{c}] #{pid} {plain(t)}" for c,pid,t in missing]
     if audit_broken:
         print(f"\n⚠️  這些集合查不到清單，等於沒檢查：{len(audit_broken)}")
