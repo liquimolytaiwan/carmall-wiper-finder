@@ -34,6 +34,21 @@
       DATA = d;
       clearSelect(elBrand, "請選擇車廠");
       d.brands.forEach(function (b) { elBrand.appendChild(opt(b.name, disp(b))); });
+      // Shareable link: carmall-parts-finder/assets/link.js (optional — loaded async from
+      // that repo; spec in its docs/share-links.md). Keys are names, never option indexes.
+      (window.CarmallLinkQueue = window.CarmallLinkQueue || []).push({
+        finder: "wiper",
+        title: "雨刷快速查詢",
+        result: elResult,
+        steps: [
+          { el: elBrand, p: "b", key: function (v) { return v; } },
+          { el: elModel, p: "m", key: function (v) { return v; } },
+          { el: elYear, p: "y", key: function (v) {
+              var m = findModel(elBrand.value, elModel.value);
+              return m && m.entries[+v] ? m.entries[+v].label : "";
+            } }
+        ]
+      });
       postHeight();
     })
     .catch(function (e) {
